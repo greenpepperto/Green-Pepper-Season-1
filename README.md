@@ -1,4 +1,4 @@
-<h1 align="center">Green Pepper Cup </h1><img width="1398" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
+<h1 align="center"> </h1><img width="1398" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
 
 # 🌶️ Green Pepper Season 1
 
