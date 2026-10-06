@@ -11,6 +11,8 @@ Green Pepper Season 1 is an online Counter-Strike 2 tournament built around comp
 | Category | Details |
 |---|---|
 | Tournament | **Green Pepper Season 1** |
+| Region | **Europe** |
+| Type | **All teams can participate, Including Female Teams ** |
 | Game | **Counter-Strike 2** |
 | Format | **16-Team Online Tournament** |
 | Group Stage | **2 Groups of 8 — Round Robin BO1** |
