@@ -12,6 +12,7 @@
 | Break | **November 16–20, 2026** |
 | Playoffs | **November 21–22, 2026** |
 | Timezone | **GMT / UTC+0** |
+| Region | **Europe** |
 | Platform | **FACEIT** |
 
 ---
