@@ -75,7 +75,7 @@ Teams must remain available during their assigned competition window.
 
 ---
 
-# DAY 1 — Saturday, November 14, 2026
+# DAY 1 — Saturday, November 28, 2026
 
 ## Group Stage — Rounds 1–4
 
@@ -108,7 +108,7 @@ Approximately **18:00–18:30 GMT**.
 
 ---
 
-# DAY 2 — Sunday, November 15, 2026
+# DAY 2 — Sunday, November 29, 2026
 
 ## Group Stage — Rounds 5–7
 
@@ -172,7 +172,7 @@ Special attention applies to the **4th-place position**, because it determines P
 
 ---
 
-# TOURNAMENT BREAK — November 16–20
+# TOURNAMENT BREAK — November 30–11 December
 
 No competitive matches are scheduled during this period.
 
@@ -184,11 +184,11 @@ The break allows teams to:
 - Confirm player availability
 - Prepare for Playoffs
 
-November 20 is reserved for final Playoff preparation and administration.
+December 11 is reserved for final Playoff preparation and administration.
 
 ---
 
-# DAY 3 — Saturday, November 21, 2026
+# DAY 3 — Saturday, December 12, 2026
 
 # PLAYOFFS — QUARTERFINALS
 
@@ -248,7 +248,7 @@ Approximately **21:00 GMT**.
 
 ---
 
-# DAY 4 — Sunday, November 22, 2026
+# DAY 4 — Sunday, December 13, 2026
 
 # PLAYOFFS — SEMIFINALS & GRAND FINAL
 
@@ -310,11 +310,11 @@ B3 ───────────────┘
 
 | Day | Date | Stage | Start | Target End |
 |---|---|---|---|---|
-| Day 1 | Nov. 14 | Group Stage Rounds 1–4 | 14:00 | 18:00–18:30 |
-| Day 2 | Nov. 15 | Group Stage Rounds 5–7 | 14:00 | 17:00–18:00 |
-| Break | Nov. 16–20 | No Matches | — | — |
-| Day 3 | Nov. 21 | Quarterfinals | 14:00 | ~21:00 |
-| Day 4 | Nov. 22 | Semifinals & Final | 14:00 | ~23:00 |
+| Day 1 | Nov. 28 | Group Stage Rounds 1–4 | 14:00 | 18:00–18:30 |
+| Day 2 | Nov. 29 | Group Stage Rounds 5–7 | 14:00 | 17:00–18:00 |
+| Break | Nov. 30–11 December | No Matches | — | — |
+| Day 3 | Dec. 12 | Quarterfinals | 14:00 | ~21:00 |
+| Day 4 | Dec. 13 | Semifinals & Final | 14:00 | ~23:00 |
 
 ---
 
