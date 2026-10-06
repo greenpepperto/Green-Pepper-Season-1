@@ -4,7 +4,7 @@
 
 > **One Season. One Champion.**
 
-Green Pepper Season 1 is an online Counter-Strike 2 tournament built around competitive integrity, a player-friendly schedule, and a clear competitive structure.
+Green Pepper Season 1 is an online Counter-Strike 2 tournament built around competitive integrity, a player-friendly schedule, and a clear competitive structure for Europe Upcoming Teams.
 
 ## 🏆 Tournament Overview
 
