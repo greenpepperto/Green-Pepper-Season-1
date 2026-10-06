@@ -1,10 +1,63 @@
-# GREEN PEPPER 
+# GREEN PEPPER
+
+> **Green Pepper Season 1 — Counter-Strike 2 Online Tournament**
+>
+> 16 Teams • 2 Groups of 8 • 63 Matches • €800 Prize Pool
+
 
 ## ONLINE TOURNAMENT RULEBOOK
 
 **Counter-Strike 2**
 **16 Teams | €800 Prize Pool | Online Tournament**
-**Check the [Schedule.md] for more information about the Timeslots.**
+**Check the [Schedule](./Schedule.md) for more information about the timeslots.**
+
+---
+
+## Table of Contents
+
+- [1. Tournament Format](#1-tournament-format)
+  - [1.1 Tournament Structure](#11-tournament-structure)
+  - [1.2 Group Stage Qualification](#12-group-stage-qualification)
+  - [1.3 Group Stage Standings](#13-group-stage-standings)
+  - [1.4 Playoff Seeding](#14-playoff-seeding)
+  - [1.5 Group Stage Tiebreaker System](#15-group-stage-tiebreaker-system)
+  - [1.6 Three-Way or Multi-Team Ties](#16-three-way-or-multi-team-ties)
+  - [1.7 Playoff Qualification Ties](#17-playoff-qualification-ties)
+  - [1.8 Tiebreak Match Rule](#18-tiebreak-match-rule)
+  - [1.9 Playoff Progression](#19-playoff-progression)
+- [2. Match Platform](#2-match-platform)
+- [3. Map Veto](#3-map-veto)
+- [4. Match Settings](#4-match-settings)
+- [5. Overtime](#5-overtime)
+- [6. Tactical Pauses](#6-tactical-pauses)
+- [7. Technical Pauses](#7-technical-pauses)
+- [8. Player Disconnects](#8-player-disconnects)
+- [9. Server Failure](#9-server-failure)
+- [10. Round Restoration](#10-round-restoration)
+- [11. Breaks Between Maps](#11-breaks-between-maps)
+- [12. Cheating & Anti-Cheat](#12-cheating--anti-cheat)
+- [13. Unauthorized Software](#13-unauthorized-software)
+- [14. Bugs & Exploits](#14-bugs--exploits)
+- [15. Stream Sniping & Outside Information](#15-stream-sniping--outside-information)
+- [16. Coaching](#16-coaching)
+- [17. Player Settings & Configuration](#17-player-settings--configuration)
+- [18. Scripts & Binds](#18-scripts--binds)
+- [19. Match Communication](#19-match-communication)
+- [20. No-Shows & Match Readiness](#20-no-shows--match-readiness)
+- [21. Internet Connections](#21-internet-connections)
+- [22. Match Evidence](#22-match-evidence)
+- [23. Protests & Disputes](#23-protests--disputes)
+- [24. Administrative Decisions](#24-administrative-decisions)
+- [25. Rule Violations & Penalties](#25-rule-violations--penalties)
+- [26. Match-Fixing & Competitive Integrity](#26-match-fixing--competitive-integrity)
+- [27. Betting](#27-betting)
+- [28. Prize Pool](#28-prize-pool)
+- [29. Broadcasting & Streaming](#29-broadcasting--streaming)
+- [30. Confidentiality](#30-confidentiality)
+- [31. Withdrawals](#31-withdrawals)
+- [32. Fair Play](#32-fair-play)
+- [33. Final Authority](#33-final-authority)
+- [34. Acceptance of the Rulebook](#34-acceptance-of-the-rulebook)
 
 ---
 
@@ -209,12 +262,12 @@
 **The veto must be completed by the team's registered captain or an authorized team representative.**
 **Once the veto has been completed, teams may not request changes unless tournament administration determines that an error or technical problem occurred.**
 **Official Map pool**
-The tournament will be played on the current competitive map pool, which consists of the following maps: 
-de_inferno 
+The tournament will be played on the current competitive map pool, which consists of the following maps:
+de_inferno
 de_cache
-de_anubis 
-de_nuke 
-de_mirage 
+de_anubis
+de_nuke
+de_mirage
 de_dust2
 de_ancient
 
