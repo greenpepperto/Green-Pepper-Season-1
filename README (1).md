@@ -18,30 +18,30 @@ Green Pepper Season 1 is an online Counter-Strike 2 tournament built around comp
 | Playoffs Format | **Quarterfinals / Semifinals / Grand Final — BO3** |
 | Prize Pool | **€800** |
 | Timezone | **GMT / UTC+0** |
-| Group Stage | **November 14–15, 2026** |
-| Tournament Break | **November 16–20, 2026** |
-| Playoffs | **November 21–22, 2026** |
+| Group Stage | **November 28–29, 2026** |
+| Tournament Break | **November 30–11 December, 2026** |
+| Playoffs | **December 12–13, 2026** |
 | Platform | **FACEIT** |
 | Anti-Cheat | **FACEIT Anti-Cheat** |
 
 ## 📅 Tournament Dates
 
 ### Group Stage
-**November 14–15, 2026**
+**November 28–29, 2026**
 
-- Day 1 — Group A & Group B — November 14
-- Day 2 — Group A & Group B — November 15
+- Day 1 — Group A & Group B — November 28
+- Day 2 — Group A & Group B — November 29
 
 ### Tournament Break
-**November 16–20, 2026**
+**November 30–11 December, 2026**
 
 No competitive matches are scheduled during the break.
 
 ### Playoffs
-**November 21–22, 2026**
+**December 12–13, 2026**
 
-- November 21 — Quarterfinals
-- November 22 — Semifinals & Grand Final
+- December 12 — Quarterfinals
+- December 13 — Semifinals & Grand Final
 
 All official times are listed in **GMT / UTC+0**.
 
@@ -146,7 +146,6 @@ The tournament administration has final authority over exceptional competitive-i
 
 **GREEN PEPPER SEASON 1**
 
-**One Season. One Champion.**
 
 Bring the Heat. Own the Game.
 
