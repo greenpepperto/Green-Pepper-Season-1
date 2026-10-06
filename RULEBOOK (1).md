@@ -121,19 +121,33 @@ All matches use the official competitive Counter-Strike 2 settings designated by
 Players must not intentionally modify server settings or interfere with server configuration.
 
 Match settings 
+
 Regulation Side Selection - during the veto
+
 Rounds - Best out of 24 (mp_maxrounds 24)
+
 Round Time - 1 minute and 55 seconds (mp_roundtime 1.92)
+
 Regulation Start Money - $800 (mp_startmoney 800)
+
 Freeze Time - 20 seconds (mp_freezetime 20)
+
 Buy time - 20 seconds (mp_buytime 20)
+
 Bomb timer - 40 seconds (mp_c4timer 40)
+
 Pause between halves -   30 sec
+
 Overtime Side Selection - when the overtimes start, teams first play the side they played in regulation last.
+
 Overtime rounds - Best out of 6 (mp_overtime_maxrounds 6)
+
 Overtime Start Money - $12,500 (mp_overtime_startmoney 12500)
+
 Break during overtime in overtimes - disabled
+
 Prohibited items - none (mp_items_prohibited "")
+
 The “Agent” player skins are forbidden
 
 
