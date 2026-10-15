@@ -1,820 +1,345 @@
-# GREEN PEPPER
+# Tournament Rules and Regulations
 
-> **Green Pepper Season 1 — Counter-Strike 2 Online Tournament**
->
-> 16 Teams • 2 Groups of 8 • 63 Matches • €800 Prize Pool
+## GREEN PEPPER SEASON 1
 
+**Game:** Counter-Strike 2  
+**Region:** Europe  
+**Format:** Online tournament  
+**Platform:** FACEIT  
+**Anti-Cheat:** FACEIT Anti-Cheat (mandatory)  
+**Teams:** 24  
+**Entry Fee:** €250 per team  
+**Last Updated:** 15 October 2026
 
-## ONLINE TOURNAMENT RULEBOOK
+These rules govern participation in Green Pepper Season 1. By registering, each team and its players agree to comply with this rulebook, FACEIT's applicable terms and the instructions of tournament administration (“Admins”). Admins may clarify or resolve situations not expressly covered here, provided decisions are applied in the interests of competitive integrity.
 
-**Counter-Strike 2**
-**16 Teams | €800 Prize Pool | Online Tournament**
-**Check the [Schedule](./Schedule.md) for more information about the timeslots.**
+## 1. Registration Regulations
+
+### 1.1 Registration Payment / Fee
+
+1.1.1 Teams must register through the official Green Pepper Season 1 registration process announced by the organizers.  
+1.1.2 The tournament is an online European competition and is limited to 24 accepted teams. Registration may close once all slots are filled.  
+1.1.3 The entry fee is **€250 per team**. Unless the organizers announce otherwise in writing or applicable law requires otherwise, entry fees are non-refundable once a team has been accepted.  
+1.1.4 Payment is due by the deadline communicated by the organizers. A team that does not pay on time may lose its slot.  
+1.1.5 A team slot is assigned to the registered captain after registration and payment have been confirmed.  
+1.1.6 The organizers will communicate any payment method, payment deadline, invoice requirements, or refund exception through official channels.
+
+### 1.2 Roster Submission Guidelines
+
+1.2.1 Each team must register five starting players and designate one of those players as captain.  
+1.2.2 Teams must provide accurate player names, Steam IDs, FACEIT profile links, and any other details reasonably requested by the organizers.  
+1.2.3 All players must have a valid individual Steam account and FACEIT account, be eligible to play in the European region, and comply with FACEIT's terms.  
+1.2.4 Players with active VAC bans or relevant platform bans may be ruled ineligible at Admin discretion. Any ban-related decision will consider the nature of the ban and competitive integrity.  
+1.2.5 All players must install, launch, and keep FACEIT Anti-Cheat running as required for every match.  
+1.2.6 Captains may request a captain transfer, subject to Admin approval. The replacement captain must be a registered player on the team's official roster.
+
+### 1.3 Roster Limitations
+
+1.3.1 Maximum roster size: **8 people** — five starters, up to two substitutes, and one coach.  
+1.3.2 Only registered and approved players may play official matches.  
+1.3.3 Coaches may act as substitutes only if registered on the roster as a player before the match and approved by an Admin. A person registered only as a coach may not play.  
+1.3.4 Multi-accounting, account sharing, impersonation, or playing under another person's account is prohibited and may result in a forfeit or disqualification.  
+1.3.5 Group-stage roster changes require Admin approval and must be completed before the affected player participates. During playoffs, changes to the registered roster are limited to two substitute-slot replacements for the team across the entire playoff stage, unless an Admin approves an exceptional emergency change.  
+1.3.6 Using an already registered substitute does not itself count as a roster change.  
+1.3.7 A team may not use a player who is suspended or otherwise ruled ineligible by the organizers.
+
+### 1.4 Substitutions
+
+1.4.1 Registered substitutes may be used between maps or matches, provided the lineup remains eligible and the change is communicated to the opposing captain and Admin when requested.  
+1.4.2 Substitutions during a map are allowed only in a verifiable emergency and require Admin approval.  
+1.4.3 Teams must contact an Admin through the official support channel as soon as an emergency substitution becomes necessary.  
+1.4.4 An unauthorized player may not join a match server or take part in a map.
+
+## 2. Tournament Format and Structure
+
+### 2.1 Tournament Overview
+
+2.1.1 Green Pepper Season 1 is an online Counter-Strike 2 tournament for European teams.  
+2.1.2 Total teams: **24**.  
+2.1.3 Entry fee: **€250 per team**. The total entry-fee revenue, if all 24 slots are filled and all teams pay, is €6,000 before any costs, taxes, or refunds; this is not a statement of the prize pool.  
+2.1.4 All official matches are played on FACEIT, using FACEIT Anti-Cheat.  
+2.1.5 Servers must be located in an appropriate European region. The specific server location is selected through FACEIT or by Admins where necessary to ensure fair play and acceptable connectivity.  
+2.1.6 Prize pool and prize distribution will be announced by the organizers separately before the tournament begins. No prize amount is promised by this rulebook unless published in an official announcement.
+
+### 2.2 Group Stage
+
+2.2.1 Format: **6 groups of 4 teams**.  
+2.2.2 Each group plays a round-robin format, with each team facing every other team in its group once.  
+2.2.3 All group-stage matches are **Best-of-3 (BO3)** unless the official match schedule explicitly states otherwise.  
+2.2.4 The top two teams from each group qualify directly for the 12-team playoff qualification pool. The four highest-ranked third-place teams across the groups also qualify, creating a 16-team playoff bracket.  
+2.2.5 Group rankings are determined first by match wins, then head-to-head result where applicable, then map differential, then round differential. If teams remain tied, Admins may order a tiebreaker match or apply another announced competitive tiebreak procedure.  
+2.2.6 Teams may reschedule a group match only within the official group-stage window and with mutual agreement, subject to Admin approval and the published deadline.  
+2.2.7 All matches must be completed by the deadline. An unplayed match without an approved reschedule may be recorded as a forfeit.
+
+### 2.3 Playoff Stage
+
+2.3.1 Format: **16-team Double-Elimination bracket**.  
+2.3.2 The 12 group winners/runners-up and the four highest-ranked eligible third-place teams qualify for playoffs under Section 2.2.4.  
+2.3.3 Playoff matches are BO3. The Grand Final is BO5 unless the organizers publish a different format before the start of playoffs.  
+2.3.4 The bracket, dates, match windows, and any seeding or byes will be published before the playoff stage. No team receives a bye unless it is shown in the official bracket.  
+2.3.5 Rescheduling during playoffs requires Admin approval and must not compromise bracket integrity or the tournament end date.  
+2.3.6 The Grand Final format and any advantage for the upper-bracket finalist must be specified in the official playoff announcement before the bracket starts. If no advantage is announced, the Grand Final begins at 0–0 with no automatic map win.  
+2.3.7 Roster restrictions in Sections 1.3 and 1.4 continue to apply throughout playoffs.
+
+### 2.4 Seeding
+
+2.4.1 Group and playoff seeding will be determined by the organizers and published before the first match.  
+2.4.2 If a ranking system is used, the organizers will announce the ranking source and snapshot date before seeding is finalized.  
+2.4.3 Seeding decisions will be made consistently and may take into account available competitive results, relevant rankings, and tournament balance.  
+2.4.4 Final seeding and group allocations are binding once published, except where correction is necessary due to an administrative error or eligibility issue.
+
+## 3. Online Match Rules
+
+### 3.1 Platform Requirements
+
+3.1.1 All official matches must be played on the FACEIT platform and in the matchroom designated by the organizers.  
+3.1.2 Every player must use their registered FACEIT account.  
+3.1.3 Match links, results, and standings will be tracked through FACEIT and/or official Green Pepper channels.  
+3.1.4 Teams are responsible for checking their matchroom, opponent, match time, and server details before play begins.
+
+### 3.2 FACEIT Anti-Cheat
+
+3.2.1 **FACEIT Anti-Cheat is mandatory for every player in every official match.**  
+3.2.2 A match may not start if a player is unable to run the required Anti-Cheat.  
+3.2.3 Players must keep Anti-Cheat active for the entire match and follow any FACEIT security checks.  
+3.2.4 Disabling Anti-Cheat, bypassing its requirements, or refusing a reasonable integrity check may result in a map or match forfeit, suspension, or disqualification.  
+3.2.5 Suspected cheating or a relevant platform ban must be reported to an Admin with supporting evidence. Admins may pause a match while a concern is reviewed.
+
+### 3.3 Match Settings
+
+3.3.1 Matches use the current competitive Counter-Strike 2 ruleset and the settings supported by the designated FACEIT competition.  
+3.3.2 Standard regulation is MR12 unless FACEIT or the organizers announce an updated official ruleset.  
+3.3.3 Overtime, starting money, freeze time, round time, and other server settings follow the active FACEIT competition configuration.  
+3.3.4 Teams must not exploit bugs, use prohibited settings, or intentionally disrupt the match.  
+3.3.5 If an update or server issue changes competitive settings, teams must pause when possible and contact an Admin before continuing.
+
+### 3.4 Map Veto
+
+3.4.1 BO3 veto: Team A removes one map, Team B removes one map, Team A picks one map, Team B picks one map, Team A removes one map, Team B removes one map, and the remaining map is the decider.  
+3.4.2 BO5 veto, if used for the Grand Final: Team A removes, Team B removes, then teams alternate map picks until the required maps are selected; any remaining map is handled as specified in the official match instructions.  
+3.4.3 The higher-seeded team is Team A unless the match page or Admin states otherwise.  
+3.4.4 Vetoes must be completed in the official FACEIT matchroom or another channel designated by Admins.  
+3.4.5 If a team fails to respond within the announced veto deadline, Admins may complete the veto on that team's behalf.
+
+### 3.5 Server Region and Connection
+
+3.5.1 Matches are online and intended for teams competing in the **European region**.  
+3.5.2 Servers must be selected from available European FACEIT servers, taking reasonable account of both teams' connection quality.  
+3.5.3 Teams must be able to connect to the selected server with a stable connection.  
+3.5.4 A dispute over server choice must be raised before the match begins. Once a match has started, server changes require Admin approval.  
+3.5.5 Deliberately manipulating connection quality or refusing to play on a valid assigned server may result in a penalty.
+
+### 3.6 Integrity Checks
+
+3.6.1 Players must cooperate with reasonable tournament integrity checks requested by Admins.  
+3.6.2 Admins may request evidence relevant to a match-integrity investigation, including screenshots, demo files, match links, or a FACEIT support case.  
+3.6.3 Any additional camera or verification requirement must be communicated by the organizers before it is enforced as a general tournament requirement.
+
+## 4. Scheduling
+
+### 4.1 Match Scheduling
+
+4.1.1 The official schedule and deadlines will be published through Green Pepper's official channels.  
+4.1.2 All times will be displayed in **Central European local time** (CET/CEST, as applicable), unless a match page explicitly states otherwise.  
+4.1.3 Teams must check the schedule and be ready at the agreed match time.  
+4.1.4 Admins may set default match dates and times where captains cannot agree.  
+4.1.5 A team must not assume that a match has been rescheduled until the change is confirmed in writing by the opponent and, where required, an Admin.
+
+### 4.2 Reschedules
+
+4.2.1 Reschedule requests must be posted in the official match communication channel and include the opponent's agreement.  
+4.2.2 Group-stage matches may be rescheduled only within the published group-stage window and before the stated completion deadline.  
+4.2.3 Playoff reschedules require Admin approval.  
+4.2.4 Admins may reject a reschedule that delays later rounds, creates an unfair advantage, or prevents the tournament from finishing on time.  
+4.2.5 Private agreements between teams do not override the official schedule unless approved where required.
+
+### 4.3 Punctuality and Forfeits
+
+4.3.1 Teams must have five eligible players ready in the matchroom at the scheduled start time.  
+4.3.2 A 15-minute grace period applies unless the match instructions specify otherwise.  
+4.3.3 If a team cannot field five eligible players after the grace period, the match may be awarded as a forfeit.  
+4.3.4 A match not completed within its official round window without an approved reschedule may be recorded as a forfeit loss.  
+4.3.5 Admins may request evidence of attempted contact before ruling on a no-show.  
+4.3.6 Deliberately delaying a match or repeatedly failing to attend scheduled matches may result in further penalties, including removal from the tournament.
+
+## 5. Technical Issues
+
+### 5.1 Timeouts
+
+5.1.1 Tactical timeouts follow the active competitive settings on FACEIT.  
+5.1.2 Technical pauses are permitted for genuine technical issues, subject to the platform's available pause functions and Admin instructions.  
+5.1.3 Teams must tell the opponent and an Admin promptly when a technical pause is required.  
+5.1.4 A team must not use a technical pause to gain an unfair tactical advantage or avoid an imminent round result.
+
+### 5.2 Disconnections
+
+5.2.1 If a player disconnects, the affected team must use the permitted pause function where available and notify the opponent.  
+5.2.2 The match should resume once the player reconnects or the Admin provides a decision.  
+5.2.3 Repeated or prolonged disconnections may be reviewed by Admins. A team is not automatically entitled to a replay solely because of an individual connection problem.  
+5.2.4 Admins determine whether a round, map, or match should be replayed based on the circumstances and available evidence.
+
+### 5.3 Game Updates and Server Problems
+
+5.3.1 If a CS2 update, FACEIT outage, or server problem materially affects play, teams must contact an Admin and follow instructions.  
+5.3.2 Teams must not independently abandon or restart a match without Admin approval, except where the platform itself terminates the match.  
+5.3.3 Admins may reschedule, restart, or otherwise resolve an affected match to preserve competitive fairness.
+
+### 5.4 Internet / Connection Issues
+
+5.4.1 Each team is responsible for its own equipment, power, and internet connection.  
+5.4.2 Teams should test their systems before scheduled matches.  
+5.4.3 ISP outages and individual connection issues must be reported promptly. Admins will determine the appropriate remedy; a replay is not guaranteed.
+
+## 6. Broadcast and Media
+
+### 6.1 Player Streaming
+
+6.1.1 Players may stream their own point of view unless the organizers announce a restriction for a specific match.  
+6.1.2 Player POV streams must use a minimum 120-second delay unless an Admin grants written permission for a different delay.  
+6.1.3 Players must not use a stream to reveal tactical information to teammates or otherwise compromise competitive integrity.  
+6.1.4 Players streaming a match should make a recording available to Admins if reasonably requested for an investigation.  
+6.1.5 Admins may restrict or revoke streaming permission when necessary to protect match integrity.
+
+### 6.2 Community Broadcasting
+
+6.2.1 Community casting or broadcasting requires prior written approval from the organizers.  
+6.2.2 Approved broadcasters must follow any production, branding, delay, and distribution conditions communicated by the organizers.  
+6.2.3 Access to a matchroom or spectator server does not itself grant broadcasting rights.  
+6.2.4 Permission may be limited or revoked if conditions are breached.
+
+### 6.3 Spectator Access and Broadcast Rights
+
+6.3.1 Spectator access, where available, is provided at Admin discretion.  
+6.3.2 Restricted server information, passwords, or spectator links must not be shared with unauthorized persons.  
+6.3.3 The organizers retain control over official Green Pepper Season 1 broadcasts and tournament branding, subject to applicable law and third-party rights.  
+6.3.4 Restreaming an official broadcast requires prior written permission.
+
+### 6.4 Co-Streaming
+
+6.4.1 Co-streaming an official broadcast requires prior written approval.  
+6.4.2 Approved co-streamers must comply with the conditions set by the organizers.  
+6.4.3 Community broadcasting and co-streaming are separate permissions; approval for one does not automatically grant the other.
+
+## 7. Penalties
+
+Cheating, account sharing, stream sniping, match fixing, betting on one's own match, harassment, and other integrity violations may result in a warning, round or map penalty, match forfeit, suspension, or disqualification. Penalties will be determined by Admins based on severity, evidence, and recurrence.
+
+### 7.1 Cheating and Third-Party Software
+
+7.1.1 Cheating of any kind is prohibited and may result in immediate disqualification.  
+7.1.2 Account sharing, impersonation, and playing on an unregistered account are prohibited.  
+7.1.3 Unauthorized third-party software, scripts, or tools that provide a competitive advantage are prohibited.  
+7.1.4 Players must comply with FACEIT Anti-Cheat and platform rules.  
+7.1.5 Use of custom player models or other prohibited modifications is not allowed.  
+7.1.6 If a player receives a relevant ban during the tournament, Admins may investigate and impose penalties where appropriate.
+
+### 7.2 Exploits and Illegal Actions
+
+7.2.1 Intentionally exploiting a bug or unintended game mechanic for competitive advantage is prohibited.  
+7.2.2 Pixel walking, illegal boosts, clipping, invisible ledges, and similar prohibited exploits are not allowed where disallowed by the active competitive rules.  
+7.2.3 Bomb plants or actions that make the objective inaccessible or inaudible in a prohibited way are not allowed.  
+7.2.4 Players must not join the opposing team or otherwise interfere with match administration.  
+7.2.5 Admins will review alleged violations and may impose a round, map, or match penalty, or disqualify the team.
+
+### 7.3 Communication and Conduct
+
+7.3.1 Hate speech, racist slurs, threats, targeted harassment, and discriminatory conduct are prohibited.  
+7.3.2 Serious violations may result in immediate disqualification; repeated violations may result in a tournament ban.  
+7.3.3 Players and staff must follow reasonable instructions from tournament Admins.  
+7.3.4 Publishing private Admin communications or personal information without authorization may result in a penalty.  
+7.3.5 Participants are expected to uphold fair play and professional conduct throughout the competition.
+
+### 7.4 Stream Sniping
+
+7.4.1 Players and coaches must not watch or receive information from a live broadcast of their ongoing match unless expressly authorized by an Admin.  
+7.4.2 This restriction applies between maps and during technical pauses.  
+7.4.3 Suspected stream sniping must be reported with supporting evidence.  
+7.4.4 Violations may result in a match forfeit, disqualification, or a ban.
+
+### 7.5 Betting and Match Fixing
+
+7.5.1 Betting on one's own match, arranging match outcomes, or sharing confidential competitive information for betting purposes is prohibited.  
+7.5.2 Match fixing or attempted match manipulation may result in immediate disqualification and a permanent ban from future Green Pepper events.  
+7.5.3 Participants must promptly report approaches or requests to manipulate a match.
+
+### 7.6 Repeated Violations
+
+7.6.1 Repeated rule violations may result in escalating penalties.  
+7.6.2 Admins may remove a team whose conduct repeatedly disrupts the tournament or undermines competitive integrity.
+
+## 8. Tournament Administration
+
+### 8.1 Admin Authority
+
+8.1.1 Admins are responsible for interpreting and enforcing this rulebook.  
+8.1.2 Admin decisions on match operations and competitive integrity are final, subject to any appeal process announced by the organizers.  
+8.1.3 Admins may resolve unforeseen situations in a manner intended to preserve fairness and tournament integrity.  
+8.1.4 The organizers are not responsible for enforcing private agreements between players, teams, or organizations.  
+8.1.5 Admins may communicate with teams through the official Discord, FACEIT matchroom, or another announced support channel.
+
+### 8.2 Admin Communication
+
+8.2.1 Official Admin contact methods will be announced on Green Pepper's official channels before the event.  
+8.2.2 Captains are responsible for communicating Admin decisions and schedule information to their teams.  
+8.2.3 Teams should use the designated support channel or ticket system for urgent match issues.  
+8.2.4 The FACEIT “Call Admin” feature should be used only as instructed by the organizers.
+
+### 8.3 Protests and Appeals
+
+8.3.1 Formal protests must be submitted through the official support channel within 24 hours after the match ends, unless an alternative deadline is announced.  
+8.3.2 A protest must include the match link, a clear description of the alleged violation, and supporting evidence such as screenshots, recordings, or relevant timestamps.  
+8.3.3 Admins may reject incomplete, abusive, or late protests.  
+8.3.4 Where an appeal process is available, the decision and deadline will be communicated by the organizers.  
+8.3.5 Results, standings, bracket updates, and official announcements will be published through the channels designated by Green Pepper.
+
+## 9. Prizes and Payments
+
+9.1 The prize pool and prize distribution will be announced separately by the organizers. The €250 entry fee is not itself a statement of the prize pool.  
+9.2 Any published prize distribution will identify the placing or placements receiving prizes and the applicable amounts or rewards.  
+9.3 Winning teams may be asked to provide verification and payment details within the deadline communicated by the organizers.  
+9.4 Prizes will be paid to the team captain or the designated organization, as stated in the official prize announcement. Teams are responsible for agreeing internally on how prizes are divided.  
+9.5 Any taxes, fees, identity checks, or payment documentation required by law or by the payment provider must be completed before payment can be made.  
+9.6 Prize payment timelines and available payment methods will be announced by the organizers.  
+9.7 Prize disputes should be submitted through the official support channel.
+
+## 10. Frequently Asked Questions
+
+**Q: How many teams can participate?**  
+A: Green Pepper Season 1 is limited to 24 teams.
+
+**Q: What is the entry fee?**  
+A: €250 per team. Registration is not complete until payment is confirmed under the organizers' instructions.
+
+**Q: Which region is the tournament for?**  
+A: Europe. Matches are played online on appropriate European FACEIT servers.
+
+**Q: Do all players need a FACEIT account?**  
+A: Yes. Every player must use their own registered FACEIT account.
+
+**Q: Is FACEIT Anti-Cheat mandatory?**  
+A: Yes. It must be active for all official matches.
+
+**Q: How many teams advance from groups?**  
+A: The top two teams from each of the six groups qualify, along with the four highest-ranked third-place teams, for a 16-team playoff bracket.
+
+**Q: Can teams use substitutes?**  
+A: Yes, if they are registered and eligible. Emergency in-match substitutions require Admin approval.
+
+**Q: Can we reschedule a match?**  
+A: Group-stage reschedules must be within the official window and mutually agreed, subject to the published deadline. Playoff reschedules require Admin approval.
+
+**Q: Can I stream my POV?**  
+A: Generally yes, subject to organizer restrictions and a minimum 120-second delay unless an exception is approved in writing.
+
+**Q: Can I broadcast or co-stream matches?**  
+A: Prior written approval from the organizers is required.
+
+**Q: How do I submit a protest?**  
+A: Use the official support channel within 24 hours of the match, include the match link, and provide supporting evidence.
+
+**Q: Where will the prize pool be announced?**  
+A: Through Green Pepper's official channels. This rulebook does not set a prize amount.
 
 ---
 
-## Table of Contents
-
-- [1. Tournament Format](#1-tournament-format)
-  - [1.1 Tournament Structure](#11-tournament-structure)
-  - [1.2 Group Stage Qualification](#12-group-stage-qualification)
-  - [1.3 Group Stage Standings](#13-group-stage-standings)
-  - [1.4 Playoff Seeding](#14-playoff-seeding)
-  - [1.5 Group Stage Tiebreaker System](#15-group-stage-tiebreaker-system)
-  - [1.6 Three-Way or Multi-Team Ties](#16-three-way-or-multi-team-ties)
-  - [1.7 Playoff Qualification Ties](#17-playoff-qualification-ties)
-  - [1.8 Tiebreak Match Rule](#18-tiebreak-match-rule)
-  - [1.9 Playoff Progression](#19-playoff-progression)
-- [2. Match Platform](#2-match-platform)
-- [3. Map Veto](#3-map-veto)
-- [4. Match Settings](#4-match-settings)
-- [5. Overtime](#5-overtime)
-- [6. Tactical Pauses](#6-tactical-pauses)
-- [7. Technical Pauses](#7-technical-pauses)
-- [8. Player Disconnects](#8-player-disconnects)
-- [9. Server Failure](#9-server-failure)
-- [10. Round Restoration](#10-round-restoration)
-- [11. Breaks Between Maps](#11-breaks-between-maps)
-- [12. Cheating & Anti-Cheat](#12-cheating--anti-cheat)
-- [13. Unauthorized Software](#13-unauthorized-software)
-- [14. Bugs & Exploits](#14-bugs--exploits)
-- [15. Stream Sniping & Outside Information](#15-stream-sniping--outside-information)
-- [16. Coaching](#16-coaching)
-- [17. Player Settings & Configuration](#17-player-settings--configuration)
-- [18. Scripts & Binds](#18-scripts--binds)
-- [19. Match Communication](#19-match-communication)
-- [20. No-Shows & Match Readiness](#20-no-shows--match-readiness)
-- [21. Internet Connections](#21-internet-connections)
-- [22. Match Evidence](#22-match-evidence)
-- [23. Protests & Disputes](#23-protests--disputes)
-- [24. Administrative Decisions](#24-administrative-decisions)
-- [25. Rule Violations & Penalties](#25-rule-violations--penalties)
-- [26. Match-Fixing & Competitive Integrity](#26-match-fixing--competitive-integrity)
-- [27. Betting](#27-betting)
-- [28. Prize Pool](#28-prize-pool)
-- [29. Broadcasting & Streaming](#29-broadcasting--streaming)
-- [30. Confidentiality](#30-confidentiality)
-- [31. Withdrawals](#31-withdrawals)
-- [32. Fair Play](#32-fair-play)
-- [33. Final Authority](#33-final-authority)
-- [34. Acceptance of the Rulebook](#34-acceptance-of-the-rulebook)
-
----
-
-# 1. TOURNAMENT FORMAT
-
-## 1.1 Tournament Structure
-
-**The Green Pepper Season 1 is an online Counter-Strike 2 tournament featuring 16 teams.**
-**The tournament consists of two stages:**
-
-### Group Stage
-
-- **16 participating teams.**
-- **2 groups of 8 teams each.**
-- **Group A contains 8 teams.**
-- **Group B contains 8 teams.**
-- **Each group is played in a Round Robin format.**
-- **Every team plays 7 Group Stage matches.**
-- **All Group Stage matches are Best-of-One (BO1).**
-- **Each group contains 28 matches.**
-- **The Group Stage consists of 56 matches in total.**
-- **The top 4 teams from each group advance to the Playoffs.**
-
-### Playoffs
-
-**8 teams qualify for the Playoffs.**
-**The Playoffs are played in a Single Elimination bracket:**
-
-- **Quarterfinals — Best-of-Three (BO3)**
-- **Semifinals — Best-of-Three (BO3)**
-- **Grand Final — Best-of-Three (BO3)**
-
-**The Playoffs consist of 7 matches in total:**
-
-- **4 Quarterfinals**
-- **2 Semifinals**
-- **1 Grand Final**
-
-**The tournament therefore consists of 63 scheduled matches in total.**
-
----
-
-## 1.2 Group Stage Qualification
-
-**The final standings of each group determine which teams qualify for the Playoffs.**
-**The top 4 teams from Group A and the top 4 teams from Group B qualify.**
-**Teams finishing 5th through 8th in their respective groups are eliminated from the tournament.**
-
----
-
-## 1.3 Group Stage Standings
-
-**Teams will be ranked according to their Group Stage match results.**
-**The primary ranking criterion is the number of matches won.**
-**If two or more teams finish with the same record, the official tiebreaker system in Section 1.5 will be applied.**
-**All ties affecting Playoff qualification must be resolved before the Playoff bracket is published.**
-
----
-
-# 1.4 PLAYOFF SEEDING
-
-**The Quarterfinal matchups will be determined using the final Group Stage standings.**
-**The default Quarterfinal structure is:**
-
-| **Quarterfinal** | **Match**                    |
-| ---------------- | ---------------------------- |
-| **QF1**          | **Group A #1 vs Group B #4** |
-| **QF2**          | **Group B #2 vs Group A #3** |
-| **QF3**          | **Group B #1 vs Group A #4** |
-| **QF4**          | **Group A #2 vs Group B #3** |
-
-**The higher-ranked team from the Group Stage receives the higher seed.**
-**Teams from the same Group will not face each other in the Quarterfinals under the standard bracket.**
-**The Playoff bracket will be published by tournament administration after the Group Stage has concluded and all standings have been officially confirmed.**
-
----
-
-# 1.5 GROUP STAGE TIEBREAKER SYSTEM
-
-**At the end of the Group Stage, teams in each group will be ranked according to their match results.**
-**Because the top 4 teams from each group qualify for the Playoffs, all ties affecting 4th place or Playoff qualification must be resolved before the Playoff bracket is published.**
-**The following tiebreaker system will be applied in the order listed below.**
-
-### 1. Match Record
-
-**The first ranking criterion is the team's overall Group Stage match record.**
-**Teams with more match wins will be ranked higher.**
-**For example:**
-
-- **6–1 ranks above 5–2.**
-- **5–2 ranks above 4–3.**
-
----
-
-### 2. Head-to-Head Result
-
-**If two teams are tied with the same match record, the result of their direct match will be used.**
-**The team that won the head-to-head match will be ranked higher.**
-**This criterion applies when the tied teams have played each other.**
-
----
-
-### 3. Round Difference
-
-**If the teams remain tied, their overall Round Difference across all Group Stage matches will be used.**
-**Round Difference = Total Rounds Won − Total Rounds Lost**
-**The team with the higher Round Difference will be ranked higher.**
-**For example:**
-
-- **Team A: 110 rounds won / 95 rounds lost = +15**
-- **Team B: 108 rounds won / 98 rounds lost = +10**
-
-**Team A ranks higher.**
-
----
-
-### 4. Total Rounds Won
-
-**If the teams remain tied on Round Difference, the total number of rounds won throughout the Group Stage will be compared.**
-**The team with more total rounds won will be ranked higher.**
-
----
-
-### 5. Strength of Schedule
-
-**If the tie remains unresolved, the combined match record of the team's Group Stage opponents will be calculated.**
-**The team whose opponents have achieved the better combined record will receive the higher ranking.**
-**This criterion is intended to reward teams that performed against stronger opposition.**
-
----
-
-### 6. Additional Tiebreak Match
-
-**If two or more teams remain completely tied after all previous criteria have been applied, tournament administration may schedule an additional tiebreak match.**
-**The tiebreak match may be used when the result directly affects:**
-
-- **Playoff qualification.**
-- **Group placement.**
-- **Playoff seeding.**
-- **The final position required to determine advancement.**
-
-**Tournament administration will announce the format, schedule and veto procedure for any tiebreak match.**
-
----
-
-# 1.6 THREE-WAY OR MULTI-TEAM TIES
-
-**When three or more teams are tied, the tiebreakers will be applied to the tied teams as a group.**
-**The ranking process will begin with the results between the tied teams.**
-**If this resolves one or more positions, the remaining tied teams will be evaluated again using the next applicable tiebreaker.**
-**Tournament administration may restart the applicable tiebreak procedure for the remaining teams when necessary to ensure a fair and consistent ranking.**
-
----
-
-# 1.7 PLAYOFF QUALIFICATION TIES
-
-**Special attention will be given to ties involving 4th place, because 4th place is the final Playoff qualification position.**
-**If two or more teams are tied for 4th place after the standard tiebreakers, the tie must be completely resolved before the Playoff bracket is finalized.**
-**No team will be considered qualified for the Playoffs until the relevant tiebreak has been resolved.**
-
----
-
-# 1.8 TIEBREAK MATCH RULE
-
-**If tournament administration determines that an additional match is required, all affected teams must participate.**
-**A team that refuses or fails to participate in a scheduled tiebreak match may receive a default loss and may be eliminated from the tournament.**
-**The tiebreak match will be played using the official tournament server, map pool and match settings.**
-**Tournament administration will announce the veto procedure and match format before the tiebreak begins.**
-
----
-
-# 1.9 PLAYOFF PROGRESSION
-
-**The Quarterfinal winners advance to the Semifinals.**
-**The Semifinal winners advance to the Grand Final.**
-**The winner of the Grand Final becomes the Green Pepper Season 1 Champion.**
-**All Playoff matches are Best-of-Three (BO3).**
-
----
-
-# 2. MATCH PLATFORM
-
-**All official tournament matches must be played through the designated FACEIT tournament infrastructure.**
-**Players must:**
-
-- **Use the FACEIT account registered for the tournament.**
-- **Use the correct Steam account associated with their registered player identity.**
-- **Use FACEIT Anti-Cheat whenever required.**
-- **Join the official match room before the scheduled match time.**
-- **Follow all instructions given by tournament administrators.**
-
-**A player may not participate using another player's account.**
-**Account sharing, account substitution and unauthorized stand-ins are prohibited.**
-
----
-
-# 3. MAP VETO
-
-## 3.1 General Veto Rules
-
-**All map vetoes must be completed through the official FACEIT match room or through the veto procedure specified by tournament administration.**
-**The veto must be completed by the team's registered captain or an authorized team representative.**
-**Once the veto has been completed, teams may not request changes unless tournament administration determines that an error or technical problem occurred.**
-**Official Map pool**
-The tournament will be played on the current competitive map pool, which consists of the following maps:
-de_inferno
-de_cache
-de_anubis
-de_nuke
-de_mirage
-de_dust2
-de_ancient
-
-
-
----
-
-## 3.2 Best-of-One Veto
-
-**The BO1 veto procedure is:**
-
-1. **Team A bans one map.**
-2. **Team B bans one map.**
-3. **Team A bans one map.**
-4. **Team B bans one map.**
-5. **Team A bans one map.**
-6. **Team B bans one map.**
-7. **The remaining map is played.**
-
-**The tournament administration may determine which team acts first based on tournament seeding or the official FACEIT system.**
-
----
-
-## 3.3 Best-of-Three Veto
-
-**The BO3 veto procedure is:**
-
-1. **Team A bans one map.**
-2. **Team B bans one map.**
-3. **Team A picks Map 1.**
-4. **Team B picks Map 2.**
-5. **Team A bans one map.**
-6. **Team B bans one map.**
-7. **The remaining map becomes Map 3.**
-
-**The team that picks a map will start on the side determined by the tournament's side-selection procedure.**
-
----
-
-# 4. MATCH SETTINGS
-
-**Unless otherwise announced by tournament administration, official matches will use the standard competitive Counter-Strike 2 ruleset.**
-**Matches must be played on the official tournament server.**
-**Teams are responsible for checking the server, match settings and selected map before the match begins.**
-**Any incorrect setting must be reported to an administrator immediately.**
-
-**Match settings **
-
-Regulation Side Selection - during the veto
-
-Rounds - Best out of 24 (mp_maxrounds 24)
-
-Round Time - 1 minute and 55 seconds (mp_roundtime 1.92)
-
-Regulation Start Money - $800 (mp_startmoney 800)
-
-Freeze Time - 20 seconds (mp_freezetime 20)
-
-Buy time - 20 seconds (mp_buytime 20)
-
-Bomb timer - 40 seconds (mp_c4timer 40)
-
-Pause between halves -   30 sec
-
-Overtime Side Selection - when the overtimes start, teams first play the side they played in regulation last.
-
-Overtime rounds - Best out of 6 (mp_overtime_maxrounds 6)
-
-Overtime Start Money - $12,500 (mp_overtime_startmoney 12500)
-
-Break during overtime in overtimes - disabled
-
-Prohibited items - none (mp_items_prohibited "")
-
-The “Agent” player skins are forbidden
-
-
-
----
-
-# 5. OVERTIME
-
-## 5.1 Group Stage
-
-**If a Group Stage BO1 requires overtime, overtime will be played until a winner is determined.**
-
-## 5.2 Playoffs
-
-**If a Playoff map is tied after regulation, overtime will be played until a winner is determined.**
-
-## 5.3 Overtime Procedure
-
-**Overtime follows the tournament's official competitive overtime configuration.**
-**Teams will change sides according to the configured overtime rules.**
-**There is no draw. Every official match must produce a winner.**
-**If a server configuration causes overtime to function incorrectly, teams must immediately stop the match and contact tournament administration.**
-
----
-
-# 6. TACTICAL PAUSES
-
-**Each team is permitted:**
-
-- **3 tactical pauses per map during regulation.**
-- **Each tactical pause may last up to 30 seconds.**
-- **Overtime provides 1 additional tactical pause per team.**
-
-**Unused tactical pauses do not carry over to the next map.**
-**A tactical pause may only be used for legitimate tactical communication.**
-**Teams may not abuse tactical pauses to intentionally delay or disrupt a match.**
-
----
-
-# 7. TECHNICAL PAUSES
-
-**Technical pauses may be requested for legitimate technical problems, including:**
-
-- **Player disconnects.**
-- **Game crashes.**
-- **Hardware problems.**
-- **Internet connection problems.**
-- **Server problems.**
-- **Serious technical issues affecting gameplay.**
-
-**The team captain must clearly announce the technical pause through the approved communication method.**
-**Teams must not use a technical pause as a tactical pause.**
-**Tournament administrators may determine whether a technical pause is legitimate.**
-**If a technical issue cannot be resolved within a reasonable period, tournament administration may require a player substitution, server restart, round restoration, map restart or other appropriate solution.**
-
----
-
-# 8. PLAYER DISCONNECTS
-
-**If a player disconnects during a match, the affected team must immediately inform tournament administration.**
-**The team should use a technical pause as soon as reasonably possible.**
-**Players must not intentionally disconnect in order to gain an advantage or delay the match.**
-**If the disconnected player can reconnect, the match should resume as soon as possible.**
-**If the player cannot reconnect, tournament administration will determine whether:**
-
-- **The player may be replaced by an eligible stand-in.**
-- **The match continues.**
-- **A round is restored.**
-- **The map is restarted.**
-- **A default loss is issued.**
-
-**The final decision belongs to tournament administration.**
-
----
-
-# 9. SERVER FAILURE
-
-**If the official server crashes or becomes unavailable, teams must not attempt to continue the match on an unauthorized server unless instructed by an administrator.**
-**Tournament administration may:**
-
-- **Move the match to another server.**
-- **Restart the server.**
-- **Restore the match.**
-- **Restore a specific round.**
-- **Restart the affected map.**
-- **Reschedule the match.**
-
-**The decision will depend on the state of the match and the available evidence.**
-
----
-
-# 10. ROUND RESTORATION
-
-**Round restoration may be ordered when a technical interruption makes continuing the current round unfair or impossible.**
-**Tournament administration will consider:**
-
-- **The time at which the interruption occurred.**
-- **Damage dealt to players.**
-- **Bomb status.**
-- **Player positions.**
-- **Economy.**
-- **The overall state of the round.**
-- **Available server or demo information.**
-
-**If the interruption occurs before meaningful gameplay has taken place, the round may be restored to its original state.**
-**If significant damage or other decisive gameplay has already occurred, the round may be allowed to continue.**
-**If the outcome of the round can reasonably be determined, tournament administration may allow the result to stand.**
-**A team that intentionally causes an interruption may lose the right to request a restoration.**
-
----
-
-# 11. BREAKS BETWEEN MAPS
-
-**For BO3 matches, teams will receive a reasonable break between maps.**
-**The standard break between maps is:**
-**10 minutes.**
-**Tournament administration may extend or reduce this period when necessary due to scheduling, technical issues or broadcast requirements.**
-**Teams must be ready when the official break ends.**
-
----
-
-# 12. CHEATING & ANTI-CHEAT
-
-**Cheating is strictly prohibited.**
-**This includes, but is not limited to:**
-
-- **Aimbots.**
-- **Wallhacks.**
-- **Triggerbots.**
-- **Radar hacks.**
-- **No-recoil or recoil-control cheats.**
-- **Unauthorized game modifications.**
-- **Exploiting unauthorized software.**
-- **Memory manipulation.**
-- **Injecting unauthorized code.**
-- **Hardware-assisted cheating.**
-- **Any software or hardware designed to provide an unfair competitive advantage.**
-
-**Players must use the required FACEIT Anti-Cheat system whenever instructed.**
-**Attempts to bypass or interfere with Anti-Cheat are considered serious violations.**
-
----
-
-# 13. UNAUTHORIZED SOFTWARE
-
-**Players may not use software that provides an unfair advantage during an official match.**
-**This includes unauthorized:**
-
-- **Game modifications.**
-- **Skin changers.**
-- **Cheat software.**
-- **Macros that automate prohibited actions.**
-- **Injectors.**
-- **Debugging or memory-editing tools.**
-- **Third-party software that modifies or interferes with the game.**
-
-**Tournament administration may request information, screenshots, demos or other evidence when investigating suspected violations.**
-
----
-
-# 14. BUGS & EXPLOITS
-
-**Players may not intentionally abuse bugs or exploits that provide an unfair advantage.**
-**Examples include:**
-
-- **Exploiting map geometry.**
-- **Pixel walking.**
-- **Illegal boost positions.**
-- **Invisible or unintended map areas.**
-- **Flash or smoke bugs.**
-- **Bomb planting in unintended locations.**
-- **Bugs that reveal information not normally available.**
-- **Any exploit specifically prohibited by tournament administration.**
-
-**If a player discovers a potentially serious bug, they must report it to tournament administration.**
-**Intentionally abusing a known exploit may result in a round loss, map loss, match loss, disqualification or tournament ban.**
-
----
-
-# 15. STREAM SNIPING & OUTSIDE INFORMATION
-
-**Players may not obtain information from external sources during a match.**
-**This includes:**
-
-- **Watching an opponent's livestream.**
-- **Receiving information from spectators.**
-- **Using another player's stream to obtain positions.**
-- **Receiving outside tactical information.**
-- **Using unauthorized communication channels.**
-
-**Stream sniping is considered a serious competitive integrity violation.**
-**Teams are responsible for ensuring that their players and staff do not provide unauthorized outside information.**
-
----
-
-# 16. COACHING
-
-**Coaches are permitted only when specifically allowed by tournament administration.**
-**If coaching is allowed, coaches must follow the tournament's communication restrictions.**
-**A coach may not communicate with players during rounds unless the tournament rules specifically permit it.**
-**Coaches must not provide information obtained from external sources.**
-**Unauthorized coaching or communication may result in penalties.**
-
----
-
-# 17. PLAYER SETTINGS & CONFIGURATION
-
-**Players may use their normal competitive configuration, provided that it does not contain prohibited commands, scripts or software.**
-**Players are responsible for ensuring that their configuration complies with tournament rules.**
-**Any prohibited configuration or script may result in disciplinary action.**
-
----
-
-# 18. SCRIPTS & BINDS
-
-**Scripts that automate gameplay actions are prohibited unless explicitly allowed by tournament administration.**
-**Players may use normal key binds and configuration settings that are permitted by the current Counter-Strike 2 ruleset.**
-**If a player is uncertain whether a bind, script or configuration is permitted, they must ask tournament administration before using it in an official match.**
-
----
-
-# 19. MATCH COMMUNICATION
-
-**Teams must communicate respectfully with opponents and tournament administrators.**
-**The following are prohibited:**
-
-- **Insults.**
-- **Harassment.**
-- **Threats.**
-- **Discrimination.**
-- **Excessive toxicity.**
-- **Intentional match disruption.**
-- **Spam.**
-- **Abusive communication.**
-
-**Tournament administrators may issue warnings or penalties for inappropriate communication.**
-
----
-
-# 20. NO-SHOWS & MATCH READINESS
-
-**Teams must be ready to play at the scheduled match time.**
-**A team that is not ready may receive a grace period determined by tournament administration.**
-**Repeated delays, failure to join the match or intentional stalling may result in a default loss.**
-**Teams are responsible for ensuring that all players can connect to the required FACEIT match before the scheduled start time.**
-
----
-
-# 21. INTERNET CONNECTIONS
-
-**Because this is an online tournament, each player is responsible for their own:**
-
-- **Internet connection.**
-- **Computer.**
-- **Power supply.**
-- **Operating system.**
-- **Game installation.**
-- **Steam account.**
-- **FACEIT account.**
-- **Required Anti-Cheat software.**
-
-**Personal internet or hardware problems do not automatically entitle a team to a reschedule.**
-**Tournament administration may make exceptions in cases involving widespread technical problems.**
-
----
-
-# 22. MATCH EVIDENCE
-
-**Tournament administration may request evidence from teams or players.**
-**Acceptable evidence may include:**
-
-- **Match demos.**
-- **Screenshots.**
-- **Video recordings.**
-- **Stream VODs.**
-- **FACEIT match information.**
-- **Server logs.**
-- **Communication records.**
-- **Other relevant technical information.**
-
-**Teams must preserve relevant evidence when requested.**
-**Deleting or intentionally withholding evidence may be considered a rule violation.**
-
----
-
-# 23. PROTESTS & DISPUTES
-
-## 23.1 Filing a Protest
-
-**A team may submit a protest when it believes that:**
-
-- **A tournament rule was violated.**
-- **An opponent used prohibited software.**
-- **An unauthorized player participated.**
-- **A serious technical issue affected the match.**
-- **A match result may have been affected by a tournament-related error.**
-
-**Protests must be submitted to tournament administration as soon as possible.**
-
----
-
-## 23.2 Protest Information
-
-**A protest should include:**
-
-- **Team name.**
-- **Match information.**
-- **Map and round concerned.**
-- **Description of the incident.**
-- **Relevant timestamps.**
-- **Available evidence.**
-- **Names of players involved.**
-
-**False, misleading or intentionally fabricated evidence may result in disciplinary action.**
-
----
-
-## 23.3 Protest Deadline
-
-**A protest concerning an incident during a match should normally be submitted before the team begins its next official match.**
-**For serious cheating or integrity allegations, tournament administration may investigate after the match or tournament has concluded.**
-
----
-
-# 24. ADMINISTRATIVE DECISIONS
-
-**Tournament administrators have the final authority to interpret and enforce these rules during the competition.**
-**Administrators may make decisions regarding situations not explicitly covered by this Rulebook.**
-**When making a decision, administrators may consider:**
-
-- **Competitive fairness.**
-- **Available evidence.**
-- **Match circumstances.**
-- **Technical information.**
-- **Player or team behavior.**
-- **The potential competitive advantage gained.**
-
-**Administrative decisions are final during the tournament unless the organizer explicitly provides an appeal process.**
-
----
-
-# 25. RULE VIOLATIONS & PENALTIES
-
-**Depending on the severity of the violation, tournament administration may issue:**
-
-1. **Warning.**
-2. **Loss of tactical pause.**
-3. **Round loss.**
-4. **Map loss.**
-5. **Match loss.**
-6. **Prize-money penalty.**
-7. **Player suspension.**
-8. **Team suspension.**
-9. **Disqualification.**
-10. **Tournament ban.**
-11. **Permanent ban from future Green Pepper Season 1 events.**
-
-**The punishment will depend on the severity, intent, competitive impact and previous violations.**
-**Serious cheating, match-fixing, bribery or deliberate competitive manipulation may result in immediate disqualification and a long-term or permanent ban.**
-
----
-
-# 26. MATCH-FIXING & COMPETITIVE INTEGRITY
-
-**Match-fixing is strictly prohibited.**
-**No player, coach, team member or associated person may:**
-
-- **Intentionally lose a round, map or match.**
-- **Manipulate a match result.**
-- **Agree to influence a match outcome.**
-- **Offer or accept money or other benefits to manipulate competition.**
-- **Share confidential competitive information for betting or manipulation purposes.**
-
-**Any confirmed match-fixing may result in immediate disqualification and a permanent ban.**
-
----
-
-# 27. BETTING
-
-**Players, coaches and team representatives may not bet on:**
-
-- **Their own matches.**
-- **Matches involving their own team.**
-- **Any Green Pepper Season 1 match where they possess confidential competitive information.**
-
-**Using inside information for betting purposes is strictly prohibited.**
-**Any suspected betting or match-fixing activity may be investigated by tournament administration.**
-
----
-
-# 28. PRIZE POOL
-
-**The total prize pool is:**
-**€800**
-**Prize distribution:**
-
-| **Placement** | **Prize** |
-| ------------- | --------- |
-| **1st Place** | **€400**  |
-| **2nd Place** | **€200**  |
-| **3rd Place** | **€133**  |
-| **4th Place** | **€67**   |
-| **Total**     | **€800**  |
-
-**Prize payments will be processed after the tournament and after any pending disciplinary or protest investigations have been resolved.**
-**The organizer may request valid payment information from the winning teams.**
-
----
-
-# 29. BROADCASTING & STREAMING
-
-**The organizer reserves the right to broadcast official matches.**
-**Players and teams may stream their own matches unless otherwise instructed by tournament administration.**
-**A broadcast delay may be required to prevent stream sniping.**
-**Players and teams must not intentionally use broadcasts to obtain competitive information.**
-**Tournament administration may require players to stop or modify a stream if it creates a competitive integrity issue.**
-
----
-
-# 30. CONFIDENTIALITY
-
-**Teams and players may receive confidential information from tournament administration.**
-**Confidential tournament information must not be publicly shared without authorization.**
-**This includes:**
-
-- **Private administrator messages.**
-- **Private protest discussions.**
-- **Anti-Cheat investigations.**
-- **Internal tournament decisions before publication.**
-- **Confidential server or tournament information.**
-
----
-
-# 31. WITHDRAWALS
-
-**A team that wishes to withdraw must inform tournament administration as soon as possible.**
-**Withdrawals after the tournament has started may result in:**
-
-- **Forfeits.**
-- **Removal from the competition.**
-- **Loss of prize eligibility.**
-- **Additional disciplinary action in cases of intentional disruption.**
-
----
-
-# 32. FAIR PLAY
-
-**All teams are expected to compete fairly and professionally.**
-**The Green Pepper Season 1 is based on:**
-
-- **Competitive integrity.**
-- **Respect.**
-- **Fair play.**
-- **Transparency.**
-- **Sportsmanship.**
-
-**Teams are responsible not only for their players but also for their coaches, managers and other representatives participating in the tournament.**
-
----
-
-# 33. FINAL AUTHORITY
-
-**The Green Pepper Season 1 organizer reserves the right to clarify, modify or update these rules when necessary to protect the integrity and smooth operation of the tournament.**
-**Any situation not explicitly covered by this Rulebook will be decided by tournament administration.**
-**The organizer's decision regarding an unresolved tournament situation is final.**
-
----
-
-# 34. ACCEPTANCE OF THE RULEBOOK
-
-**By registering for the Green Pepper, every team and player confirms that they have read, understood and agreed to follow this Rulebook.**
-**Participation in the tournament constitutes acceptance of these rules and the decisions of tournament administration.**
-**GREEN PEPPER ADMINISTRATION**
-**Counter-Strike 2 Online Tournament**
-**16 Teams • 2 Groups of 8 • 63 Matches • €800 Prize Pool**
-***Bring the Heat. Own the Game.***
+**Organizer note before publication:** Confirm the official tournament dates, registration link, payment instructions, match schedule, final prize pool, support/Discord link, broadcast policy, and whether the Grand Final has any upper-bracket advantage. These details have intentionally not been invented in this document.
