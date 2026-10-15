@@ -1,4 +1,19 @@
 # 🌶️ Green Pepper Season 1
+Official VRS documentation and materials for Green Pepper Season 1
+
+<h1 align="center">Green Pepper Cup </h1><img width="1398" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
+
+
+<p align="center">
+  <b>Counter-Strike 2 • Valve Regional Standings (VRS) Eligible</b><br/>
+</b>
+</p>
+
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Planning-informational">
+  <img alt="Game" src="https://img.shields.io/badge/Game-Counter--Strike%202-blue">
+  <img alt="License" src="https://img.shields.io/badge/License-Valve%20Limited%20Tournament-lightgrey">
+</p>
 
 **Online European Counter-Strike 2 Tournament**  
 **24 Teams · FACEIT · FACEIT Anti-Cheat Required**
