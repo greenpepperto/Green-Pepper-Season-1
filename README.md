@@ -1,164 +1,191 @@
-<h1 align="center"> </h1><img width="1398" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
-
 # 🌶️ Green Pepper Season 1
 
-**Counter-Strike 2 — Online Tournament**
+**Online European Counter-Strike 2 Tournament**  
+**24 Teams · FACEIT · FACEIT Anti-Cheat Required**
 
-> **One Season. One Champion.**
+> **One Season. One Champion.**  
+> Green Pepper Season 1 is an online Counter-Strike 2 tournament for European teams, built around competitive integrity, transparent rules, and a structured path from the group stage to the playoffs.
 
-Green Pepper Season 1 is an online Counter-Strike 2 tournament built around competitive integrity, a player-friendly schedule, and a clear competitive structure for Europe Upcoming Teams.
+---
 
-## 📱 Official Social Media
+## Quick Links
 
-Follow Green Pepper for tournament announcements, registration updates, match results, and other esports news.
+- **Tournament Rules:** [Read the Rulebook](RULEBOOK.md)
+- **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
+- **Official X (Twitter):** [@GreenPepperTO](https://x.com/GreenPepperTO)
+- **Registration:** Details to be announced by the organizers
+- **Entry Fee Payment:** €250 per team; payment instructions will be provided by the organizers
+- **FACEIT:** All official matches are played through FACEIT
+- **Anti-Cheat:** FACEIT Anti-Cheat is mandatory
 
-- **X (Twitter):** https://x.com/GreenPepperTO
+---
 
-Stay connected and don't miss the latest updates from Green Pepper Season 1.
-
-## 🏆 Tournament Overview
+## Tournament Overview
 
 | Category | Details |
 |---|---|
 | Tournament | **Green Pepper Season 1** |
+| Game | **Counter-Strike 2 (CS2)** |
 | Region | **Europe** |
-| Type | **All teams can participate, Including Female Teams ** |
-| Game | **Counter-Strike 2** |
-| Format | **16-Team Online Tournament** |
-| Group Stage | **2 Groups of 8 — Round Robin BO1** |
-| Playoffs | **Top 4 from each Group — Single Elimination** |
-| Playoffs Format | **Quarterfinals / Semifinals / Grand Final — BO3** |
-| Prize Pool | **€800** |
-| Timezone | **GMT / UTC+0** |
-| Group Stage | **November 28–29, 2026** |
-| Tournament Break | **November 30–11 December, 2026** |
-| Playoffs | **December 12–13, 2026** |
+| Location | **Online** |
+| Tournament Type | **Open-registration online competition** |
+| Teams | **24 teams** |
+| Entry Fee | **€250 per team** |
 | Platform | **FACEIT** |
-| Anti-Cheat | **FACEIT Anti-Cheat** |
+| Anti-Cheat | **FACEIT Anti-Cheat — mandatory** |
+| Prize Pool | **€800** |
+| Group Stage | **6 groups of 4 teams — Round Robin, BO3** |
+| Qualification | **Top 2 from each group + 4 highest-ranked third-place teams** |
+| Playoffs | **16-team Double Elimination bracket** |
+| Playoff Matches | **BO3** |
+| Grand Final | **BO5** |
+| Official Social Media | [@GreenPepperTO](https://x.com/GreenPepperTO) |
 
-## 📅 Tournament Dates
+*Official dates, registration/payment links, and any updates to the prize distribution will be published by the organizers.*
+
+---
+
+## Tournament Classification
+
+Green Pepper Season 1 is an online European Counter-Strike 2 competition. All teams must register through the official process and comply with the Rulebook, FACEIT requirements, and instructions from tournament administration.
+
+Participation is subject to eligibility checks and approval by the organizers. The tournament does not use the North American region, ESEA seeding, or CrossfireGG's VRS-specific rules.
+
+## Registration and Entry Fee
+
+- The entry fee is **€250 per team**.
+- Registration is not considered complete until the organizer's required registration and payment steps have been completed.
+- Registration and payment instructions will be published through official Green Pepper channels.
+- Teams must submit an eligible roster and provide accurate player and account information.
+- A team may not use another player's account or an unauthorized stand-in.
+- Roster changes and substitutions are governed by the [Rulebook](RULEBOOK.md).
+
+## Roster and Eligibility
+
+- The tournament is intended for teams competing in the **European region**.
+- Teams must register their players using the official process.
+- All players must use their own registered Steam and FACEIT accounts.
+- Account sharing, unauthorized stand-ins, cheating, and attempts to bypass tournament integrity checks are prohibited.
+- Any roster changes must comply with the Rulebook and receive administrative approval where required.
+- Tournament administration may request information or evidence to verify player and roster eligibility.
+
+---
+
+## Tournament Format
 
 ### Group Stage
-**November 28–29, 2026**
 
-- Day 1 — Group A & Group B — November 28
-- Day 2 — Group A & Group B — November 29
+The 24 teams are placed into **6 groups of 4 teams**.
 
-### Tournament Break
-**November 30–11 December, 2026**
-
-No competitive matches are scheduled during the break.
+- Format: **Round Robin**
+- Match format: **Best-of-Three (BO3)**
+- Each team plays the other teams in its group.
+- Each group produces a final standings table.
+- The top 2 teams from each group qualify directly for the Playoffs.
+- The 4 highest-ranked third-place teams across the groups also qualify, completing the 16-team playoff field.
+- Group ranking and tie resolution follow the [Rulebook](RULEBOOK.md).
 
 ### Playoffs
-**December 12–13, 2026**
 
-- December 12 — Quarterfinals
-- December 13 — Semifinals & Grand Final
+The Playoffs feature **16 teams** in a **Double Elimination** bracket.
 
-All official times are listed in **GMT / UTC+0**.
+- All standard playoff matches are **BO3**.
+- The Grand Final is **BO5**.
+- The bracket and match schedule will be published by tournament administration.
+- Rescheduling, match readiness, forfeits, and technical incidents are handled under the Rulebook.
 
-## 🎮 Tournament Format
+---
 
-### Group Stage
+## Competitive Platform and Anti-Cheat
 
-16 teams are divided into:
+### FACEIT
 
-- **Group A — 8 teams**
-- **Group B — 8 teams**
+All official matches must be played on the designated **FACEIT** tournament infrastructure. Players must join the correct match room, use their registered accounts, and follow the instructions provided by the tournament administration.
 
-Each group plays a full Round Robin.
+### FACEIT Anti-Cheat
 
-Every team plays **7 BO1 matches**.
+**FACEIT Anti-Cheat is mandatory for all players in official matches.**
 
-Each group contains:
+- Players must have FACEIT Anti-Cheat running whenever required.
+- Matches may not proceed if a player fails to meet the Anti-Cheat requirement.
+- Cheating, unauthorized software, account sharing, and attempts to bypass Anti-Cheat are prohibited.
+- Violations may result in a round, map, or match loss, disqualification, or further disciplinary action.
 
-- 28 matches
-- 8 teams
-- 7 matches per team
+### Region and Servers
 
-Total Group Stage:
+- Tournament region: **Europe**.
+- Tournament location: **Online**.
+- Teams must use the official match server selected through FACEIT or designated by tournament administration.
+- Players are responsible for ensuring that their connection and equipment are suitable for online competition.
 
-**56 matches**
+---
 
-### Qualification
+## Match Integrity and Administration
 
-The **Top 4 teams from each group** advance to the Playoffs.
+Green Pepper Season 1 expects all participants to compete fairly and professionally.
 
-The bottom 4 teams from each group are eliminated.
+Prohibited conduct includes, but is not limited to:
 
-## 🏆 Playoffs
+- Cheating or using unauthorized third-party software
+- Sharing accounts or using unauthorized stand-ins
+- Stream sniping or receiving outside information during a match
+- Exploiting game bugs to gain an unfair advantage
+- Match-fixing or intentionally manipulating results
+- Betting on matches when prohibited by the Rulebook
+- Harassment, threats, discrimination, or intentional match disruption
+- Refusing to follow reasonable instructions from tournament administrators
 
-The Playoffs feature **8 teams**.
+Teams should preserve relevant demos, screenshots, recordings, and FACEIT match information if an incident or protest occurs. Protests must be submitted through the official channel and within the deadlines specified in the Rulebook.
 
-Format:
+Tournament administration has the authority to interpret and enforce the rules, investigate incidents, and issue penalties where appropriate.
 
-- Quarterfinals — BO3
-- Semifinals — BO3
-- Grand Final — BO3
-- Single Elimination
+---
 
-Total Playoff Matches:
+## Scheduling
 
-**7**
+The tournament schedule and target match times will be published in [SCHEDULE.md](SCHEDULE.md) and updated by tournament administration when necessary.
 
-Total Tournament Matches:
+Match times may be affected by:
 
-**63**
+- Previous match duration and overtime
+- Technical pauses or player disconnects
+- Server or platform problems
+- Protests and administrative decisions
 
-## 💰 Prize Pool
+Teams must remain available during their assigned competition windows and follow the official scheduling instructions. A target time should not be treated as a guaranteed start time unless the organizers explicitly confirm it.
+
+---
+
+## Prize Pool
+
+The currently listed total prize pool is **€800**.
 
 | Placement | Prize |
 |---|---:|
-| 🥇 1st | **€400** |
-| 🥈 2nd | **€200** |
-| 🥉 3rd | **€133** |
-| 4th | **€67** |
+| 1st Place | €400 |
+| 2nd Place | €200 |
+| 3rd Place | €133 |
+| 4th Place | €67 |
 | **Total** | **€800** |
 
-## 🗓️ Scheduling Philosophy
-
-Green Pepper Season 1 uses a **Rolling Schedule**.
-
-Published times are target start times rather than guaranteed start times. Matches may move earlier or later depending on:
-
-- Previous match duration
-- Overtime
-- Technical pauses
-- Disconnects
-- Server problems
-- Protests
-- Administrative decisions
-
-The schedule is designed to avoid unnecessarily late-night matches and to remain practical for players with jobs and other commitments.
-
-## 📚 Tournament Documents
-
-- [`SCHEDULE.md`](SCHEDULE.md) — Complete tournament schedule and Time Slot system.
-- [`RULEBOOK.md`](RULEBOOK.md) — Full tournament rules and competitive regulations.
-
-## ⚔️ Competitive Integrity
-
-Green Pepper Season 1 operates under a strict fair-play policy.
-
-Prohibited activities include:
-
-- Cheating
-- Unauthorized software
-- Account sharing
-- Unauthorized stand-ins
-- Stream sniping
-- Match fixing
-- Betting on tournament matches
-- Exploiting game bugs
-- Receiving outside assistance during matches
-
-The tournament administration has final authority over exceptional competitive-integrity cases.
-
-## 📣 Official Tournament Identity
-
-**GREEN PEPPER SEASON 1**
-
-
-Bring the Heat. Own the Game.
+Prize payments are subject to the tournament rules and resolution of any pending disputes or disciplinary matters. The organizers may request valid payment details from winning teams.
 
 ---
+
+## Tournament Documents
+
+- [**RULEBOOK.md**](RULEBOOK.md) — Tournament rules, match procedures, competitive integrity, penalties, and administration.
+- [**SCHEDULE.md**](SCHEDULE.md) — Tournament schedule, target times, and match-day information.
+
+Participants are responsible for reading the current versions of the official documents before playing.
+
+## Official Tournament Identity
+
+**GREEN PEPPER SEASON 1**  
+*One Season. One Champion.*
+
+**Bring the Heat. Own the Game.**
+
+---
+
+© Green Pepper Season 1
