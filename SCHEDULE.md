@@ -33,7 +33,7 @@
 ## VRS Direct Qualification
 
 - **Eight teams** qualify directly for the Playoffs based on the official Valve Regional Standings (VRS).
-- Direct places go to the eight highest-ranked eligible teams among the accepted tournament entrants, using the official VRS ranking available at the registration deadline.
+- Direct places go to the eight highest-ranked eligible teams among accepted tournament entrants, using the official VRS ranking snapshot taken on **2 November 2026**. Teams must be registered and eligible by the **15 November 2026** deadline.
 - Teams must be registered, accepted and eligible to receive a direct playoff place.
 - If a direct-qualifying team is not registered or is ruled ineligible, the place passes to the next-highest-ranked eligible registered team.
 - The VRS snapshot is taken on **2 November 2026**. The list of direct qualifiers will be published after registration closes and eligibility checks are complete.
