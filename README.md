@@ -57,7 +57,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 | Prize Pool | **€5,000 total** |
 | Official Social Media | [@GreenPepperTO](https://x.com/GreenPepperTO) |
 
-Dates, registration/payment details, VRS ranking snapshot, and final match times will be confirmed through official Green Pepper channels.
+Final match times, registration/payment instructions, and VRS eligibility details will be confirmed through official Green Pepper channels.
 
 ---
 
@@ -65,7 +65,7 @@ Dates, registration/payment details, VRS ranking snapshot, and final match times
 
 Green Pepper Season 1 is an online European Counter-Strike 2 competition. All teams must register through the official process and comply with the Rulebook, FACEIT requirements, and instructions from tournament administration.
 
-Participation is subject to registration acceptance, roster checks, and eligibility verification. VRS direct qualification is based on the official Valve Regional Standings ranking snapshot available at the registration deadline, subject to the eligibility conditions set out in the [Rulebook](RULEBOOK.md).
+Participation is subject to registration acceptance, roster checks, and eligibility verification. VRS direct qualification is based on the official Valve Regional Standings (VRS) snapshot taken on 2 November 2026, subject to the eligibility conditions set out in the [Rulebook](RULEBOOK.md).
 
 ## Registration and Entry Fee
 
@@ -95,7 +95,7 @@ Participation is subject to registration acceptance, roster checks, and eligibil
 **Eight teams qualify directly for the 16-team Playoffs** based on the official Valve Regional Standings (VRS).
 
 - Direct places go to the eight highest-ranked eligible teams among accepted tournament entrants.
-- The ranking snapshot used is the official VRS ranking available at the registration deadline.
+- The ranking snapshot used is the official VRS ranking taken on **2 November 2026**. Registration remains open until 15 November; direct places are awarded among eligible accepted entrants using that fixed snapshot.
 - Teams must be registered, accepted, and eligible to receive a direct place.
 - If a direct-qualifying team is not registered or is ruled ineligible, the place passes to the next-highest-ranked eligible registered team.
 - The organizers will publish the VRS snapshot date and list of direct qualifiers before the Swiss Stage begins.
@@ -181,11 +181,15 @@ The current proposed timeline includes:
 
 | Date | Milestone |
 |---|---|
-| 16 October 2026 | Announcement and registration opens |
-| 30 October 2026 | Registration deadline and VRS ranking snapshot |
-| 1 November 2026 | VRS direct qualifiers and Swiss schedule published |
-| 2–15 November 2026 | Swiss Stage |
-| 20 November 2026 | Playoffs begin |
+| 24 October 2026 | Registration opens |
+| 2 November 2026 | VRS ranking snapshot |
+| 15 November 2026 | Registration closes |
+| 16–20 November 2026 | Roster, payment and eligibility verification |
+| 22 November 2026 | VRS direct qualifiers announced |
+| 24–27 November 2026 | Swiss seeding and match schedule published |
+| 28 November 2026 | Tournament begins — Swiss Stage |
+| 28 November – 6 December 2026 | Swiss Stage |
+| 8–12 December 2026 | Playoffs |
 | 13 December 2026 | Proposed Grand Final |
 
 Refer to the [Schedule](SCHEDULE.md) for proposed playoff round windows and match scheduling guidelines. The official announcements take precedence if dates change.
