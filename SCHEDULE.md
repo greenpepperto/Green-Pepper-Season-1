@@ -81,9 +81,9 @@ The exact pairings and daily bracket schedule will be published once the Swiss S
 1. This timeline is a proposed schedule prepared for the 16 October 2026 announcement; it is not an official confirmation until approved by Green Pepper administration.
 2. Registration may close early if all 24 team slots are filled.
 3. VRS direct qualification is based on the official ranking snapshot available at the registration deadline, subject to eligibility and acceptance.
-4. The prize pool is €6,000 based on 24 teams × €250 entry fee. The prize distribution by placement, payment instructions, registration link, official support channel and final match times should be included in the announcement once confirmed.
+4. The prize pool is **€5,000**: 1st place €2,500; 2nd place €1,250; 3rd place €750; 4th place €500. Total entry-fee revenue from 24 teams × €250 is €6,000 before costs, taxes, or refunds. Payment instructions, registration link, official support channel and final match times should be included in the announcement once confirmed.
 5. The Grand Final is planned for 13 December 2026. Any change will be announced through the official Green Pepper channels.
 6. If a date in this schedule conflicts with the published Rulebook or a later official announcement, the latest organizer-approved notice takes precedence.
 
 ---
-**Organizer checklist before publication:** Confirm registration URL, payment instructions, support/Discord link, prize distribution by placement, exact daily match times, VRS snapshot date and eligibility, Swiss tiebreak procedure, and the proposed dates above.
+**Organizer checklist before publication:** Confirm registration URL, payment instructions, support/Discord link, exact daily match times, VRS snapshot date and eligibility, Swiss tiebreak procedure, and the proposed dates above.
