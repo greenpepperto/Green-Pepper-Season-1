@@ -59,7 +59,7 @@ These rules govern participation in Green Pepper Season 1. By registering, each 
 2.1.3 Entry fee: **€250 per team**. The total entry-fee revenue, if all 24 slots are filled and all teams pay, is €6,000 before any costs, taxes, or refunds; this is not a statement of the prize pool.  
 2.1.4 All official matches are played on FACEIT, using FACEIT Anti-Cheat.  
 2.1.5 Servers must be located in an appropriate European region. The specific server location is selected through FACEIT or by Admins where necessary to ensure fair play and acceptable connectivity.  
-2.1.6 Prize pool and prize distribution will be announced by the organizers separately before the tournament begins. No prize amount is promised by this rulebook unless published in an official announcement.
+2.1.6 The total prize pool is **€6,000**, calculated from 24 teams paying the €250 entry fee each (24 × €250). The detailed prize distribution by placement will be announced separately by the organizers before the tournament begins.
 
 ### 2.2 Swiss Stage
 
@@ -298,7 +298,7 @@ Cheating, account sharing, stream sniping, match fixing, betting on one's own ma
 
 ## 9. Prizes and Payments
 
-9.1 The prize pool and prize distribution will be announced separately by the organizers. The €250 entry fee is not itself a statement of the prize pool.  
+9.1 The total prize pool is **€6,000**, based on 24 accepted teams paying the €250 entry fee each. The detailed prize distribution by placement will be announced separately by the organizers.  
 9.2 Any published prize distribution will identify the placing or placements receiving prizes and the applicable amounts or rewards.  
 9.3 Winning teams may be asked to provide verification and payment details within the deadline communicated by the organizers.  
 9.4 Prizes will be paid to the team captain or the designated organization, as stated in the official prize announcement. Teams are responsible for agreeing internally on how prizes are divided.  
@@ -341,9 +341,9 @@ A: Prior written approval from the organizers is required.
 **Q: How do I submit a protest?**  
 A: Use the official support channel within 24 hours of the match, include the match link, and provide supporting evidence.
 
-**Q: Where will the prize pool be announced?**  
-A: Through Green Pepper's official channels. This rulebook does not set a prize amount.
+**Q: What is the prize pool?**  
+A: The total prize pool is €6,000, based on 24 teams paying the €250 entry fee each. The prize distribution by placement will be announced through Green Pepper's official channels.
 
 ---
 
-**Organizer note before publication:** Confirm the official tournament dates, registration link, payment instructions, match schedule, final prize pool, support/Discord link, broadcast policy, VRS ranking snapshot date, Swiss tiebreak procedure, and playoff seeding plan. These details have intentionally not been invented in this document.
+**Organizer note before publication:** Confirm the official tournament dates, registration link, payment instructions, match schedule, prize distribution by placement, support/Discord link, broadcast policy, VRS ranking snapshot date, Swiss tiebreak procedure, and playoff seeding plan. These details have intentionally not been invented in this document.
