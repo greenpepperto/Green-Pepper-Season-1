@@ -9,7 +9,7 @@
 **Anti-Cheat:** FACEIT Anti-Cheat (mandatory)  
 **Teams:** 24  
 **Entry Fee:** €250 per team  
-**Last Updated:** 15 October 2026
+**Last Updated:** 16 October 2026
 
 These rules govern participation in Green Pepper Season 1. By registering, each team and its players agree to comply with this rulebook, FACEIT's applicable terms and the instructions of tournament administration (“Admins”). Admins may clarify or resolve situations not expressly covered here, provided decisions are applied in the interests of competitive integrity.
 
@@ -61,32 +61,36 @@ These rules govern participation in Green Pepper Season 1. By registering, each 
 2.1.5 Servers must be located in an appropriate European region. The specific server location is selected through FACEIT or by Admins where necessary to ensure fair play and acceptable connectivity.  
 2.1.6 Prize pool and prize distribution will be announced by the organizers separately before the tournament begins. No prize amount is promised by this rulebook unless published in an official announcement.
 
-### 2.2 Group Stage
+### 2.2 Swiss Stage
 
-2.2.1 Format: **6 groups of 4 teams**.  
-2.2.2 Each group plays a round-robin format, with each team facing every other team in its group once.  
-2.2.3 All group-stage matches are **Best-of-3 (BO3)** unless the official match schedule explicitly states otherwise.  
-2.2.4 The top two teams from each group qualify directly for the 12-team playoff qualification pool. The four highest-ranked third-place teams across the groups also qualify, creating a 16-team playoff bracket.  
-2.2.5 Group rankings are determined first by match wins, then head-to-head result where applicable, then map differential, then round differential. If teams remain tied, Admins may order a tiebreaker match or apply another announced competitive tiebreak procedure.  
-2.2.6 Teams may reschedule a group match only within the official group-stage window and with mutual agreement, subject to Admin approval and the published deadline.  
-2.2.7 All matches must be completed by the deadline. An unplayed match without an approved reschedule may be recorded as a forfeit.
+2.2.1 The 16 teams that do not receive a direct playoff qualification under Section 2.3 will compete in a **16-team Swiss Stage**.
+2.2.2 The Swiss Stage will use a five-round Swiss system, with teams matched against opponents on the same or a similar match record. Teams will not face the same opponent more than once.
+2.2.3 All Swiss Stage matches are **Best-of-3 (BO3)** unless the official match schedule explicitly states otherwise.
+2.2.4 A team qualifies for the Playoffs after recording **three match wins**. A team is eliminated after recording **three match losses**. The Swiss Stage continues until eight teams have qualified or all qualification outcomes have been determined.
+2.2.5 The first-round pairings and subsequent Swiss pairings will be published by the organizers. Pairings will take account of seeding and match records, and will avoid repeat opponents where possible.
+2.2.6 Swiss Stage standings and qualification are determined by match wins and losses first, followed by the official Swiss-system tiebreak procedure announced before the first round. If a tie cannot be resolved by the published procedure, Admins may order a tiebreaker match or apply another announced competitive tiebreak procedure.
+2.2.7 Teams may reschedule a Swiss Stage match only within the official round window and with mutual agreement, subject to Admin approval and the published deadline.
+2.2.8 All matches must be completed by the deadline. An unplayed match without an approved reschedule may be recorded as a forfeit.
 
 ### 2.3 Playoff Stage
 
-2.3.1 Format: **16-team Double-Elimination bracket**.  
-2.3.2 The 12 group winners/runners-up and the four highest-ranked eligible third-place teams qualify for playoffs under Section 2.2.4.  
-2.3.3 Playoff matches are BO3. The Grand Final is BO5 unless the organizers publish a different format before the start of playoffs.  
-2.3.4 The bracket, dates, match windows, and any seeding or byes will be published before the playoff stage. No team receives a bye unless it is shown in the official bracket.  
-2.3.5 Rescheduling during playoffs requires Admin approval and must not compromise bracket integrity or the tournament end date.  
-2.3.6 The Grand Final format and any advantage for the upper-bracket finalist must be specified in the official playoff announcement before the bracket starts. If no advantage is announced, the Grand Final begins at 0–0 with no automatic map win.  
-2.3.7 Roster restrictions in Sections 1.3 and 1.4 continue to apply throughout playoffs.
+2.3.1 Format: **16-team Single-Elimination bracket**.
+2.3.2 The Playoffs consist of the **eight highest-ranked eligible VRS teams** and the **eight teams that qualify from the Swiss Stage**.
+2.3.3 VRS direct-playoff places are awarded to the highest-ranked teams among the accepted tournament entrants, using the official Valve Regional Standings (VRS) ranking available at the registration deadline. Teams must be registered, accepted, and eligible to receive a direct place.
+2.3.4 If a team that would otherwise receive a direct VRS place is not registered, is not accepted, or is ruled ineligible, the place passes to the next-highest-ranked eligible registered team. If fewer than eight eligible VRS-ranked teams are available, the organizers will publish how any remaining direct places are allocated before seeding is finalized.
+2.3.5 Playoff matches are **BO3**. The Grand Final is **BO5** unless the organizers publish a different format before the Playoffs begin.
+2.3.6 Single-elimination means a team is eliminated from the tournament after one playoff match loss.
+2.3.7 The bracket, dates, match windows, and seeding will be published before the playoff stage. VRS direct qualifiers will be seeded against Swiss qualifiers according to the published bracket and seeding rules.
+2.3.8 Rescheduling during playoffs requires Admin approval and must not compromise bracket integrity or the tournament end date.
+2.3.9 Roster restrictions in Sections 1.3 and 1.4 continue to apply throughout playoffs.
 
 ### 2.4 Seeding
 
-2.4.1 Group and playoff seeding will be determined by the organizers and published before the first match.  
-2.4.2 If a ranking system is used, the organizers will announce the ranking source and snapshot date before seeding is finalized.  
-2.4.3 Seeding decisions will be made consistently and may take into account available competitive results, relevant rankings, and tournament balance.  
-2.4.4 Final seeding and group allocations are binding once published, except where correction is necessary due to an administrative error or eligibility issue.
+2.4.1 The VRS ranking snapshot used for direct playoff qualification will be the official Valve Regional Standings available at the registration deadline. The organizers will publish the snapshot date and eligible direct qualifiers before the Swiss Stage begins.
+2.4.2 Swiss Stage seeding and pairings will be determined by the organizers and published before the first match. Pairings will follow the announced Swiss procedure and avoid repeat opponents where possible.
+2.4.3 Playoff seeding will be published after the Swiss Stage. The bracket will be structured to match the eight VRS direct qualifiers against the eight Swiss qualifiers in accordance with the published seeding plan.
+2.4.4 Seeding decisions will be applied consistently and may take into account VRS ranking, Swiss Stage results, and tournament balance.
+2.4.5 Final seeding and bracket allocations are binding once published, except where correction is necessary due to an administrative error or eligibility issue.
 
 ## 3. Online Match Rules
 
@@ -319,14 +323,14 @@ A: Yes. Every player must use their own registered FACEIT account.
 **Q: Is FACEIT Anti-Cheat mandatory?**  
 A: Yes. It must be active for all official matches.
 
-**Q: How many teams advance from groups?**  
-A: The top two teams from each of the six groups qualify, along with the four highest-ranked third-place teams, for a 16-team playoff bracket.
+**Q: How does qualification work?**  
+A: The eight highest-ranked eligible VRS teams among registered entrants qualify directly for the 16-team single-elimination Playoffs. The remaining 16 teams play a Swiss Stage, where eight teams qualify by recording three wins before three losses.
 
 **Q: Can teams use substitutes?**  
 A: Yes, if they are registered and eligible. Emergency in-match substitutions require Admin approval.
 
 **Q: Can we reschedule a match?**  
-A: Group-stage reschedules must be within the official window and mutually agreed, subject to the published deadline. Playoff reschedules require Admin approval.
+A: Swiss Stage reschedules must be within the official round window and mutually agreed, subject to the published deadline. Playoff reschedules require Admin approval.
 
 **Q: Can I stream my POV?**  
 A: Generally yes, subject to organizer restrictions and a minimum 120-second delay unless an exception is approved in writing.
@@ -342,4 +346,4 @@ A: Through Green Pepper's official channels. This rulebook does not set a prize 
 
 ---
 
-**Organizer note before publication:** Confirm the official tournament dates, registration link, payment instructions, match schedule, final prize pool, support/Discord link, broadcast policy, and whether the Grand Final has any upper-bracket advantage. These details have intentionally not been invented in this document.
+**Organizer note before publication:** Confirm the official tournament dates, registration link, payment instructions, match schedule, final prize pool, support/Discord link, broadcast policy, VRS ranking snapshot date, Swiss tiebreak procedure, and playoff seeding plan. These details have intentionally not been invented in this document.
