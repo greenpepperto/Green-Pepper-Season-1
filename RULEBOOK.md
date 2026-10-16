@@ -101,9 +101,13 @@ These rules govern participation in Green Pepper Season 1. By registering, each 
 ### 2.4 Seeding
 
 2.4.1 The VRS ranking snapshot used for direct playoff qualification is the official Valve Regional Standings as of **2 November 2026**. Registration closes on **15 November 2026**; direct qualifiers will be determined from eligible accepted entrants using that fixed snapshot. The organizers will publish the eligible direct qualifiers before the Swiss Stage begins.
+
 2.4.2 Swiss Stage seeding and pairings will be determined by the organizers and published before the first match. Pairings will follow the announced Swiss procedure and avoid repeat opponents where possible.
+
 2.4.3 Playoff seeding will be published after the Swiss Stage. The bracket will be structured to match the eight VRS direct qualifiers against the eight Swiss qualifiers in accordance with the published seeding plan.
+
 2.4.4 Seeding decisions will be applied consistently and may take into account VRS ranking, Swiss Stage results, and tournament balance.
+
 2.4.5 Final seeding and bracket allocations are binding once published, except where correction is necessary due to an administrative error or eligibility issue.
 
 ## 3. Online Match Rules
