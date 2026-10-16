@@ -1,25 +1,26 @@
 # 🌶️ Green Pepper Season 1
-Official VRS documentation and materials for Green Pepper Season 1
 
-<h1 align="center">Green Pepper Season 1 </h1><img width="1398" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
+Official tournament information, rules, schedule, and documentation for Green Pepper Season 1.
 
+<h1 align="center">Green Pepper Season 1</h1>
+<img width="1398" height="601" alt="Green Pepper Season 1 banner" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
 
 <p align="center">
-  <b>Counter-Strike 2 • Valve Regional Standings (VRS) Eligible</b><br/>
-</b>
+  <b>Counter-Strike 2 • Europe • Online Tournament</b><br/>
+  <b>VRS-Based Direct Playoff Qualification</b>
 </p>
 
 <p align="center">
   <img alt="Status" src="https://img.shields.io/badge/Status-Planning-informational">
   <img alt="Game" src="https://img.shields.io/badge/Game-Counter--Strike%202-blue">
-  <img alt="License" src="https://img.shields.io/badge/License-Valve%20Limited%20Tournament-lightgrey">
+  <img alt="Teams" src="https://img.shields.io/badge/Teams-24-orange">
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-FACEIT-red">
 </p>
 
-**Online European Counter-Strike 2 Tournament**  
-**24 Teams · FACEIT · FACEIT Anti-Cheat Required**
+**24 Teams · €250 Entry Fee per Team · FACEIT · FACEIT Anti-Cheat Required**
 
 > **One Season. One Champion.**  
-> Green Pepper Season 1 is an online Counter-Strike 2 tournament for European teams, built around competitive integrity, transparent rules, and a structured path from the group stage to the playoffs.
+> Green Pepper Season 1 is an online European Counter-Strike 2 tournament designed around competitive integrity, transparent rules, and a path to the playoffs through VRS-based direct qualification and a Swiss Stage.
 
 ---
 
@@ -29,9 +30,9 @@ Official VRS documentation and materials for Green Pepper Season 1
 - **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
 - **Official X (Twitter):** [@GreenPepperTO](https://x.com/GreenPepperTO)
 - **Registration:** Details to be announced by the organizers
-- **Entry Fee Payment:** €250 per team; payment instructions will be provided by the organizers
-- **FACEIT:** All official matches are played through FACEIT
-- **Anti-Cheat:** FACEIT Anti-Cheat is mandatory
+- **Entry Fee:** €250 per team; payment instructions will be provided by the organizers
+- **Platform:** All official matches are played through FACEIT
+- **Anti-Cheat:** FACEIT Anti-Cheat is mandatory for all players in official matches
 
 ---
 
@@ -43,20 +44,20 @@ Official VRS documentation and materials for Green Pepper Season 1
 | Game | **Counter-Strike 2 (CS2)** |
 | Region | **Europe** |
 | Location | **Online** |
-| Tournament Type | **Open-registration online competition** |
 | Teams | **24 teams** |
 | Entry Fee | **€250 per team** |
 | Platform | **FACEIT** |
 | Anti-Cheat | **FACEIT Anti-Cheat — mandatory** |
-| Prize Pool | **€800** |
-| Group Stage | **6 groups of 4 teams — Round Robin, BO3** |
-| Qualification | **Top 2 from each group + 4 highest-ranked third-place teams** |
-| Playoffs | **16-team Double Elimination bracket** |
+| Direct Playoff Qualification | **8 highest-ranked eligible VRS teams among registered entrants** |
+| Swiss Stage | **16 teams — BO3** |
+| Swiss Qualification | **3 wins to qualify; 3 losses to be eliminated** |
+| Playoffs | **16-team Single-Elimination bracket** |
 | Playoff Matches | **BO3** |
 | Grand Final | **BO5** |
+| Prize Pool | **To be announced separately** |
 | Official Social Media | [@GreenPepperTO](https://x.com/GreenPepperTO) |
 
-*Official dates, registration/payment links, and any updates to the prize distribution will be published by the organizers.*
+Dates, registration/payment details, VRS ranking snapshot, prize distribution, and final match times will be confirmed through official Green Pepper channels.
 
 ---
 
@@ -64,50 +65,66 @@ Official VRS documentation and materials for Green Pepper Season 1
 
 Green Pepper Season 1 is an online European Counter-Strike 2 competition. All teams must register through the official process and comply with the Rulebook, FACEIT requirements, and instructions from tournament administration.
 
-Participation is subject to eligibility checks and approval by the organizers. The tournament does not use the North American region, ESEA seeding, or CrossfireGG's VRS-specific rules.
+Participation is subject to registration acceptance, roster checks, and eligibility verification. VRS direct qualification is based on the official Valve Regional Standings ranking snapshot available at the registration deadline, subject to the eligibility conditions set out in the [Rulebook](RULEBOOK.md).
 
 ## Registration and Entry Fee
 
 - The entry fee is **€250 per team**.
-- Registration is not considered complete until the organizer's required registration and payment steps have been completed.
-- Registration and payment instructions will be published through official Green Pepper channels.
-- Teams must submit an eligible roster and provide accurate player and account information.
-- A team may not use another player's account or an unauthorized stand-in.
+- The tournament is limited to **24 accepted teams**.
+- Registration may close early if all team slots are filled.
+- Registration is not complete until the required registration and payment steps have been completed.
+- Payment instructions and the registration link will be published through official Green Pepper channels.
+- Teams must submit an eligible roster and accurate player/account information.
 - Roster changes and substitutions are governed by the [Rulebook](RULEBOOK.md).
 
 ## Roster and Eligibility
 
 - The tournament is intended for teams competing in the **European region**.
-- Teams must register their players using the official process.
 - All players must use their own registered Steam and FACEIT accounts.
+- FACEIT Anti-Cheat is mandatory for all official matches.
 - Account sharing, unauthorized stand-ins, cheating, and attempts to bypass tournament integrity checks are prohibited.
-- Any roster changes must comply with the Rulebook and receive administrative approval where required.
+- Roster changes and substitutions must comply with the Rulebook and receive administrative approval where required.
 - Tournament administration may request information or evidence to verify player and roster eligibility.
 
 ---
 
 ## Tournament Format
 
-### Group Stage
+### VRS Direct Qualification
 
-The 24 teams are placed into **6 groups of 4 teams**.
+**Eight teams qualify directly for the 16-team Playoffs** based on the official Valve Regional Standings (VRS).
 
-- Format: **Round Robin**
+- Direct places go to the eight highest-ranked eligible teams among accepted tournament entrants.
+- The ranking snapshot used is the official VRS ranking available at the registration deadline.
+- Teams must be registered, accepted, and eligible to receive a direct place.
+- If a direct-qualifying team is not registered or is ruled ineligible, the place passes to the next-highest-ranked eligible registered team.
+- The organizers will publish the VRS snapshot date and list of direct qualifiers before the Swiss Stage begins.
+
+### Swiss Stage
+
+The **16 teams that do not receive a direct VRS playoff place** compete in the Swiss Stage.
+
+- Format: **16-team Swiss Stage**
 - Match format: **Best-of-Three (BO3)**
-- Each team plays the other teams in its group.
-- Each group produces a final standings table.
-- The top 2 teams from each group qualify directly for the Playoffs.
-- The 4 highest-ranked third-place teams across the groups also qualify, completing the 16-team playoff field.
-- Group ranking and tie resolution follow the [Rulebook](RULEBOOK.md).
+- Qualification: A team qualifies after recording **3 match wins**.
+- Elimination: A team is eliminated after recording **3 match losses**.
+- Advancement: **8 teams** qualify from the Swiss Stage to complete the 16-team Playoff field.
+- Teams are paired against opponents with the same or a similar match record.
+- Teams will not face the same opponent more than once.
+- Pairings, seeding, and tiebreak procedures will be published before the first round.
+
+Swiss Stage results and qualification are governed by the [Rulebook](RULEBOOK.md). Match windows and any rescheduling must follow the official [Schedule](SCHEDULE.md) and administrative instructions.
 
 ### Playoffs
 
-The Playoffs feature **16 teams** in a **Double Elimination** bracket.
+The Playoffs feature **16 teams** in a **Single-Elimination** bracket:
 
-- All standard playoff matches are **BO3**.
-- The Grand Final is **BO5**.
-- The bracket and match schedule will be published by tournament administration.
-- Rescheduling, match readiness, forfeits, and technical incidents are handled under the Rulebook.
+- **8 VRS direct qualifiers**
+- **8 Swiss Stage qualifiers**
+- Standard playoff matches: **BO3**
+- Grand Final: **BO5**, unless the organizers announce otherwise before the Playoffs begin
+- A team is eliminated after one playoff match loss.
+- The bracket and seeding plan will be published by tournament administration after Swiss qualification is complete.
 
 ---
 
@@ -115,7 +132,7 @@ The Playoffs feature **16 teams** in a **Double Elimination** bracket.
 
 ### FACEIT
 
-All official matches must be played on the designated **FACEIT** tournament infrastructure. Players must join the correct match room, use their registered accounts, and follow the instructions provided by the tournament administration.
+All official matches must be played on the designated **FACEIT** tournament infrastructure. Players must join the correct match room, use their registered accounts, and follow the instructions provided by tournament administration.
 
 ### FACEIT Anti-Cheat
 
@@ -128,8 +145,8 @@ All official matches must be played on the designated **FACEIT** tournament infr
 
 ### Region and Servers
 
-- Tournament region: **Europe**.
-- Tournament location: **Online**.
+- Tournament region: **Europe**
+- Tournament location: **Online**
 - Teams must use the official match server selected through FACEIT or designated by tournament administration.
 - Players are responsible for ensuring that their connection and equipment are suitable for online competition.
 
@@ -158,39 +175,35 @@ Tournament administration has the authority to interpret and enforce the rules, 
 
 ## Scheduling
 
-The tournament schedule and target match times will be published in [SCHEDULE.md](SCHEDULE.md) and updated by tournament administration when necessary.
+The proposed timeline and match windows are published in [SCHEDULE.md](SCHEDULE.md). The schedule is provisional until confirmed by Green Pepper administration.
 
-Match times may be affected by:
+The current proposed timeline includes:
 
-- Previous match duration and overtime
-- Technical pauses or player disconnects
-- Server or platform problems
-- Protests and administrative decisions
+| Date | Milestone |
+|---|---|
+| 16 October 2026 | Announcement and registration opens |
+| 30 October 2026 | Registration deadline and VRS ranking snapshot |
+| 1 November 2026 | VRS direct qualifiers and Swiss schedule published |
+| 2–15 November 2026 | Swiss Stage |
+| 20 November 2026 | Playoffs begin |
+| 13 December 2026 | Proposed Grand Final |
 
-Teams must remain available during their assigned competition windows and follow the official scheduling instructions. A target time should not be treated as a guaranteed start time unless the organizers explicitly confirm it.
+Refer to the [Schedule](SCHEDULE.md) for proposed playoff round windows and match scheduling guidelines. The official announcements take precedence if dates change.
 
 ---
 
 ## Prize Pool
 
-The currently listed total prize pool is **€800**.
+The prize pool and prize distribution will be announced separately by the organizers through official Green Pepper channels. The **€250 entry fee is not a statement of the prize pool**. No prize amount is promised until an official prize announcement is published.
 
-| Placement | Prize |
-|---|---:|
-| 1st Place | €400 |
-| 2nd Place | €200 |
-| 3rd Place | €133 |
-| 4th Place | €67 |
-| **Total** | **€800** |
-
-Prize payments are subject to the tournament rules and resolution of any pending disputes or disciplinary matters. The organizers may request valid payment details from winning teams.
+Prize payments and eligibility are subject to the tournament rules and resolution of any pending disputes or disciplinary matters.
 
 ---
 
 ## Tournament Documents
 
-- [**RULEBOOK.md**](RULEBOOK.md) — Tournament rules, match procedures, competitive integrity, penalties, and administration.
-- [**SCHEDULE.md**](SCHEDULE.md) — Tournament schedule, target times, and match-day information.
+- [**RULEBOOK.md**](RULEBOOK.md) — Tournament rules, Swiss Stage, VRS qualification, playoff format, match procedures, penalties, and administration.
+- [**SCHEDULE.md**](SCHEDULE.md) — Proposed timeline, Swiss Stage windows, playoff schedule, and match-day information.
 
 Participants are responsible for reading the current versions of the official documents before playing.
 
