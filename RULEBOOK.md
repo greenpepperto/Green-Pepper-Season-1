@@ -76,7 +76,7 @@ These rules govern participation in Green Pepper Season 1. By registering, each 
 
 2.3.1 Format: **16-team Single-Elimination bracket**.
 2.3.2 The Playoffs consist of the **eight highest-ranked eligible VRS teams** and the **eight teams that qualify from the Swiss Stage**.
-2.3.3 VRS direct-playoff places are awarded to the highest-ranked teams among the accepted tournament entrants, using the official Valve Regional Standings (VRS) ranking available at the registration deadline. Teams must be registered, accepted, and eligible to receive a direct place.
+2.3.3 VRS direct-playoff places are awarded to the highest-ranked eligible teams among accepted tournament entrants, using the official Valve Regional Standings (VRS) ranking snapshot taken on **2 November 2026**. Teams must be registered, accepted, and eligible to receive a direct place by the registration deadline of **15 November 2026**.
 2.3.4 If a team that would otherwise receive a direct VRS place is not registered, is not accepted, or is ruled ineligible, the place passes to the next-highest-ranked eligible registered team. If fewer than eight eligible VRS-ranked teams are available, the organizers will publish how any remaining direct places are allocated before seeding is finalized.
 2.3.5 Playoff matches are **BO3**. The Grand Final is **BO5** unless the organizers publish a different format before the Playoffs begin.
 2.3.6 Single-elimination means a team is eliminated from the tournament after one playoff match loss.
@@ -86,7 +86,7 @@ These rules govern participation in Green Pepper Season 1. By registering, each 
 
 ### 2.4 Seeding
 
-2.4.1 The VRS ranking snapshot used for direct playoff qualification will be the official Valve Regional Standings available at the registration deadline. The organizers will publish the snapshot date and eligible direct qualifiers before the Swiss Stage begins.
+2.4.1 The VRS ranking snapshot used for direct playoff qualification is the official Valve Regional Standings as of **2 November 2026**. Registration closes on **15 November 2026**; direct qualifiers will be determined from eligible accepted entrants using that fixed snapshot. The organizers will publish the eligible direct qualifiers before the Swiss Stage begins.
 2.4.2 Swiss Stage seeding and pairings will be determined by the organizers and published before the first match. Pairings will follow the announced Swiss procedure and avoid repeat opponents where possible.
 2.4.3 Playoff seeding will be published after the Swiss Stage. The bracket will be structured to match the eight VRS direct qualifiers against the eight Swiss qualifiers in accordance with the published seeding plan.
 2.4.4 Seeding decisions will be applied consistently and may take into account VRS ranking, Swiss Stage results, and tournament balance.
@@ -346,4 +346,4 @@ A: The total prize pool is €5,000: €2,500 for 1st place, €1,250 for 2nd pl
 
 ---
 
-**Organizer note before publication:** Confirm the official tournament dates, registration link, payment instructions, match schedule, support/Discord link, broadcast policy, VRS ranking snapshot date, Swiss tiebreak procedure, and playoff seeding plan. These details have intentionally not been invented in this document.
+**Organizer note before publication:** Confirm the registration link, payment instructions, match schedule, support/Discord link, broadcast policy, Swiss tiebreak procedure, and playoff seeding plan.
