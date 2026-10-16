@@ -54,10 +54,10 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 | Playoffs | **16-team Single-Elimination bracket** |
 | Playoff Matches | **BO3** |
 | Grand Final | **BO5** |
-| Prize Pool | **To be announced separately** |
+| Prize Pool | **€6,000 total** (24 teams × €250 entry fee) |
 | Official Social Media | [@GreenPepperTO](https://x.com/GreenPepperTO) |
 
-Dates, registration/payment details, VRS ranking snapshot, prize distribution, and final match times will be confirmed through official Green Pepper channels.
+Dates, registration/payment details, VRS ranking snapshot, prize distribution by placement, and final match times will be confirmed through official Green Pepper channels.
 
 ---
 
@@ -194,7 +194,7 @@ Refer to the [Schedule](SCHEDULE.md) for proposed playoff round windows and matc
 
 ## Prize Pool
 
-The prize pool and prize distribution will be announced separately by the organizers through official Green Pepper channels. The **€250 entry fee is not a statement of the prize pool**. No prize amount is promised until an official prize announcement is published.
+The total prize pool is **€6,000**, calculated from 24 teams paying the €250 entry fee each (24 × €250). The detailed prize distribution by placement will be announced separately through official Green Pepper channels.
 
 Prize payments and eligibility are subject to the tournament rules and resolution of any pending disputes or disciplinary matters.
 
