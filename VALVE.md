@@ -27,7 +27,7 @@ All matches are played online. There is no LAN venue or physical attendance requ
 
 ## 2. Open Registration and VRS Status
 
-Green Pepper Season 1 uses **open registration**. VRS standings are used for seeding, eligibility assessment and direct qualification to the Playoffs; VRS ranking does not constitute an invitation to participate.
+Green Pepper Season 1 uses **open registration** on a **first come , first served basis**. VRS standings are used for seeding, eligibility assessment and direct qualification to the Playoffs; VRS ranking does not constitute an invitation to participate.
 
 - Teams do **not** need existing VRS points merely to register.
 - Registration is open to eligible teams competing in the European region, subject to the Rulebook and applicable platform and tournament requirements.
