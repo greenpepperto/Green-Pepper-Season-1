@@ -190,6 +190,10 @@ No two teams may use a shared core of three or more players from their applicabl
 2. Remaining teams are seeded using documented competitive results and any criteria announced by Green Pepper before the draw.
 3. Teams without a comparable VRS ranking or competitive record are assessed using the documented information available to administration.
 4. Final seeding and the method used will be published before the relevant stage begins.
+5. To preserve the relevant VRS position, the team must maintain the core represented in the applicable ranking.
+6. VRS changes after 2 November do not alter tournament seeding.
+7. If teams remain without a seed after VRS is considered, the HLTV ranking from the same date is used.
+8. If a team has neither VRS nor HLTV ranking, the average FACEIT ELO of its registered players at the end of 2 November is used. If a player has no current ELO, their last known ELO is used; if they have never had ELO, **1000** is used.
 
 #### 2.5.2 Swiss standings
 
