@@ -75,22 +75,42 @@ All matches are played online. There is no LAN venue, on-site check-in, venue-ba
 
 ---
 
-## Tournament Timeline
+## Tournament Timeline and Match Schedule
 
-The dates below are the proposed round windows. Because this is an online tournament, teams play remotely through FACEIT and coordinate within the published match windows. These are not LAN day schedules or fixed venue sessions.
+All times below are **CET (Central European Time)**. The tournament is played online through FACEIT. Swiss Stage match start slots are scheduled between **11:00 and 20:00 CET**. Exact pairings and individual match times will be announced by the tournament administration; Swiss pairings depend on results from previous rounds.
 
-| Date | Stage / Milestone |
-| --- | --- |
-| 28–29 November 2026 | Swiss Stage — Round 1 |
-| 30 November – 1 December 2026 | Swiss Stage — Round 2 |
-| 2–3 December 2026 | Swiss Stage — Round 3 |
-| 4–5 December 2026 | Swiss Stage — Round 4, where required |
-| 6 December 2026 | Swiss Stage — Round 5 / remaining qualification matches |
-| 7 December 2026 | Swiss standings confirmation and playoff seeding |
-| 8–9 December 2026 | Playoffs — Round of 16 |
-| 10–11 December 2026 | Playoffs — Quarter-finals |
-| 12 December 2026 | Playoffs — Semi-finals |
-| 13 December 2026 | Grand Final and tournament conclusion |
+### Swiss Stage — Match Schedule
+
+| Day | Date | Stage | Match Window |
+| --- | --- | --- | --- |
+| **Day 1** | Saturday, 28 November 2026 | Swiss Stage — Round 1 | 11:00–20:00 CET |
+| **Day 2** | Sunday, 29 November 2026 | Swiss Stage — Round 1 (remaining matches) | 11:00–20:00 CET |
+| **Day 3** | Monday, 30 November 2026 | Swiss Stage — Round 2 | 11:00–20:00 CET |
+| **Day 4** | Tuesday, 1 December 2026 | Swiss Stage — Round 2 (remaining matches) | 11:00–20:00 CET |
+| **Day 5** | Wednesday, 2 December 2026 | Swiss Stage — Round 3 | 11:00–20:00 CET |
+| **Day 6** | Thursday, 3 December 2026 | Swiss Stage — Round 3 (remaining matches) | 11:00–20:00 CET |
+| **Day 7** | Friday, 4 December 2026 | Swiss Stage — Round 4, where required | 11:00–20:00 CET |
+| **Day 8** | Saturday, 5 December 2026 | Swiss Stage — Round 4 (remaining matches), where required | 11:00–20:00 CET |
+| **Day 9** | Sunday, 6 December 2026 | Swiss Stage — Round 5 / remaining qualification matches | 11:00–20:00 CET |
+| **Day 10** | Monday, 7 December 2026 | Swiss standings confirmation and Playoff seeding | Administration / no regular match window |
+
+### Playoffs — Match Schedule
+
+| Day | Date | Stage | Match Window |
+| --- | --- | --- | --- |
+| **Day 11** | Tuesday, 8 December 2026 | Playoffs — Round of 16 | 11:00–20:00 CET |
+| **Day 12** | Wednesday, 9 December 2026 | Playoffs — Round of 16 (remaining matches) | 11:00–20:00 CET |
+| **Day 13** | Thursday, 10 December 2026 | Playoffs — Quarter-finals | 11:00–20:00 CET |
+| **Day 14** | Friday, 11 December 2026 | Playoffs — Quarter-finals (remaining matches) | 11:00–20:00 CET |
+| **Day 15** | Saturday, 12 December 2026 | Playoffs — Semi-finals | 11:00–20:00 CET |
+| **Day 16** | Sunday, 13 December 2026 | **Grand Final — BO5** | **16:00 CET** |
+
+### Match Schedule Notes
+
+- **11:00–20:00 CET** is the available match start window on scheduled match days, not a guarantee that every time slot will be used.
+- Each team's exact start time and opponent will be published by tournament administration.
+- Swiss opponents for Rounds 2–5 depend on match records and cannot all be fixed in advance.
+- The administration may publish match-specific adjustments where necessary; teams must follow the latest official schedule.
 
 ---
 
@@ -98,8 +118,9 @@ The dates below are the proposed round windows. Because this is an online tourna
 
 ### Match Times and Availability
 
-- The default match time is **11:00 Central European local time**, unless the official match schedule states otherwise.
-- The published match schedule will identify the match window, scheduled start time and any deadline for completing the series.
+- Scheduled match starts may be assigned between **11:00 and 20:00 CET** during the Swiss Stage and scheduled Playoff match days, unless a specific time is published for the match.
+- The **Grand Final is scheduled for 13 December 2026 at 16:00 CET**.
+- The published match schedule will identify each match's exact start time and any deadline for completing the series.
 - Teams must be ready in their FACEIT matchroom at the scheduled time, with all eligible players available and FACEIT Anti-Cheat running.
 - Teams should remain reachable through the official tournament communication channel throughout their assigned match window.
 - There is no venue check-in and no requirement to arrive 90 minutes before a match.
@@ -230,7 +251,8 @@ The total prize pool is **€5,000**.
 
 ## Schedule Rules
 
-- All match times will be communicated in the official schedule using **Central European local time**. The default start time is 11:00 CET/CEST as applicable on the match date; teams should follow the time explicitly published for their match.
+- All match times in this schedule use **CET (Central European Time)**. Planned match start slots run from **11:00 to 20:00 CET** during the Swiss Stage and Playoff match days, unless an exact match time is published separately.
+- The **Grand Final is scheduled for 13 December 2026 at 16:00 CET**; teams should follow the time explicitly published for their match.
 - This is an **online tournament**. No physical venue, LAN attendance, on-site check-in or venue-based rolling schedule applies.
 - FACEIT is the official match platform and FACEIT Anti-Cheat is mandatory.
 - Teams must be ready in their FACEIT matchroom at the scheduled start time.
@@ -240,17 +262,29 @@ The total prize pool is **€5,000**.
 - Reschedules require opponent confirmation and Admin approval where required.
 - Exact match times, pairings and round windows remain subject to tournament administration.
 - If this schedule conflicts with the published Rulebook or a later official announcement, the latest organizer-approved notice takes precedence.
+  
+## Acceptance of the Official Match Schedule
 
+By registering for and participating in **Green Pepper Season 1**, each team acknowledges that it has read and understood this Schedule and **accepts the match dates, match windows and start times imposed and assigned by the Green Pepper Organizing Team**.
+
+The Green Pepper Organizing Team reserves the authority to establish, assign and publish the official match schedule, including match dates and start times within the tournament timeline. All participating teams are responsible for reviewing the published Schedule, ensuring that their players are available and being ready in the designated FACEIT matchroom at the assigned time.
+
+Scheduling preferences, availability conflicts or failure to review the published Schedule shall not automatically entitle a team to a reschedule. Any rescheduling request or proposed change must be expressly approved by the Green Pepper Organizing Team. Teams must comply with the latest official Schedule and any match-specific instructions issued by the organizers.
+
+Failure to attend or be ready for a scheduled match may result in a forfeit or other disciplinary sanctions in accordance with the official Rulebook.
+
+**By entering Green Pepper Season 1, all teams agree to be bound by this scheduling policy and accept the authority of the Green Pepper Organizing Team to impose and manage the tournament schedule**, subject to the official Rulebook and any subsequent official announcements.
 ---
 
 ## Important Notes
 
 1. This schedule reflects the current proposed organizer dates. Match windows remain provisional until approved by Green Pepper administration.
-2. Registration may close early if all 24 team slots are filled.
-3. VRS direct qualification is based on the official ranking snapshot taken on **2 November 2026**, subject to eligibility and acceptance.
-4. Registration closes on **15 November 2026 at 23:59 CET**, or earlier if all places are filled.
-5. The Grand Final is planned for **13 December 2026**. Any change will be announced through the official Green Pepper channels.
-6. Before publication, the organizers should confirm the registration URL, payment instructions, official support/Discord link, exact daily match times, VRS eligibility, Swiss tiebreak procedure and final match windows.
+2. 
+3. Registration may close early if all 24 team slots are filled.
+4. VRS direct qualification is based on the official ranking snapshot taken on **2 November 2026**, subject to eligibility and acceptance.
+5. Registration closes on **15 November 2026 at 23:59 CET**, or earlier if all places are filled.
+6. The Grand Final is scheduled for **13 December 2026 at 16:00 CET**. Any change will be announced through the official Green Pepper channels.
+7. Before publication, the organizers should confirm the registration URL, payment instructions, official support/Discord link, exact daily match times, VRS eligibility, Swiss tiebreak procedure and final match windows.
 
 ---
 
