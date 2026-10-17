@@ -7,7 +7,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 
 <p align="center">
   <b>Counter-Strike 2 • Europe • Online Tournament</b><br/>
-  <b>VRS-Based Direct Playoff Qualification</b>
+  <b>VRS-Aligned Tournament </b>
 </p>
 
 <p align="center">
