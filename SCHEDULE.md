@@ -230,7 +230,7 @@ The total prize pool is **€5,000**.
 
 ## Schedule Rules
 
-- All match times will be communicated in the official schedule using **Central European local time**. The default start time is 20:00 CET/CEST as applicable on the match date; teams should follow the time explicitly published for their match.
+- All match times will be communicated in the official schedule using **Central European local time**. The default start time is 11:00 CET/CEST as applicable on the match date; teams should follow the time explicitly published for their match.
 - This is an **online tournament**. No physical venue, LAN attendance, on-site check-in or venue-based rolling schedule applies.
 - FACEIT is the official match platform and FACEIT Anti-Cheat is mandatory.
 - Teams must be ready in their FACEIT matchroom at the scheduled start time.
