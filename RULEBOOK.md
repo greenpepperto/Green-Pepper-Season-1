@@ -148,7 +148,7 @@ No two teams may use a shared core of three or more players from their applicabl
 - **2.1.6 Entry fee:** €250 per team.
 - **2.1.7 Total advertised prize pool:** €5,000.
 - **2.1.8 Format:** eight eligible VRS-ranked teams qualify directly for the 16-team Playoffs; the remaining 16 teams contest a Swiss Stage for the eight remaining playoff places.
-- **2.1.9** Match dates, round windows, and start times are published in the official `SCHEDULE.md` and may be clarified through official Green Pepper announcements.
+- **2.1.9** Match dates, round windows, and start times are published in the official [View the Schedule](SCHEDULE.md) and may be clarified through official Green Pepper announcements.
 
 ### 2.2 VRS Direct Playoff Qualification
 
