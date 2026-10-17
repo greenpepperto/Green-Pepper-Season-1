@@ -29,6 +29,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 
 - **Tournament Rules:** [Read the Rulebook](RULEBOOK.md)
 - **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
+- **VALVE FILE:** [VALVE.md](VALVE.md)
 - **Official X (Twitter):** [@GreenPepperTO](https://x.com/GreenPepperTO)
 - **Registration:** 24th October 2026
 - **Entry Fee:** €250 per team; payment instructions will be provided by the organizers
