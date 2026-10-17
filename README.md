@@ -17,10 +17,10 @@ Official tournament information, rules, schedule, and documentation for Green Pe
   <img alt="Platform" src="https://img.shields.io/badge/Platform-FACEIT-red">
 </p>
 
-**24 Teams · €250 Entry Fee per Team · FACEIT · FACEIT Anti-Cheat Required**
+**Online European Tier-2 CS2 Tournament · 24 Teams · €250 Entry Fee per Team · €5,000 Prize Pool · FACEIT · FACEIT Anti-Cheat Required**
 
 > **One Season. One Champion.**  
-> Green Pepper Season 1 is an online European Counter-Strike 2 tournament designed around competitive integrity, transparent rules, and a path to the playoffs through VRS-based direct qualification and a Swiss Stage.
+> Green Pepper Season 1 is an open-registration online European Counter-Strike 2 competition designed around competitive integrity, transparent seeding, and a path to the playoffs through VRS-based direct qualification and a Swiss Stage. VRS standings are used for eligibility and seeding; they do not constitute direct invitations.
 
 ---
 
@@ -29,7 +29,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 - **Tournament Rules:** [Read the Rulebook](RULEBOOK.md)
 - **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
 - **Official X (Twitter):** [@GreenPepperTO](https://x.com/GreenPepperTO)
-- **Registration:** Details to be announced by the organizers
+- **Registration:** 24th October 2026
 - **Entry Fee:** €250 per team; payment instructions will be provided by the organizers
 - **Platform:** All official matches are played through FACEIT
 - **Anti-Cheat:** FACEIT Anti-Cheat is mandatory for all players in official matches
@@ -63,9 +63,9 @@ Final match times, registration/payment instructions, and VRS eligibility detail
 
 ## Tournament Classification
 
-Green Pepper Season 1 is an online European Counter-Strike 2 competition. All teams must register through the official process and comply with the Rulebook, FACEIT requirements, and instructions from tournament administration.
+Green Pepper Season 1 is an open-registration online European Counter-Strike 2 competition. All teams must register through the official process and comply with the Rulebook, FACEIT requirements, and instructions from tournament administration. This is a structured competitive event, not a casual community cup.
 
-Participation is subject to registration acceptance, roster checks, and eligibility verification. VRS direct qualification is based on the official Valve Regional Standings (VRS) snapshot taken on 2 November 2026, subject to the eligibility conditions set out in the [Rulebook](RULEBOOK.md).
+Participation is subject to registration acceptance, roster checks, and eligibility verification. VRS standings are used for transparent seeding and direct playoff qualification; there are no direct VRS invitations. The eight highest-ranked eligible VRS teams among accepted registered entrants receive direct playoff places as a seeding outcome. Qualification is based on the official Valve Regional Standings (VRS) snapshot taken on 2 November 2026, subject to the eligibility conditions set out in the [Rulebook](RULEBOOK.md).
 
 ## Registration and Entry Fee
 
@@ -85,6 +85,42 @@ Participation is subject to registration acceptance, roster checks, and eligibil
 - Account sharing, unauthorized stand-ins, cheating, and attempts to bypass tournament integrity checks are prohibited.
 - Roster changes and substitutions must comply with the Rulebook and receive administrative approval where required.
 - Tournament administration may request information or evidence to verify player and roster eligibility.
+
+---
+
+### Roster & Core Policy
+
+Green Pepper does not enforce a full roster lock during the Swiss Stage. Teams may adjust players before the Playoffs, subject to tournament administration approval. Approved roster changes do not alter the five-player reference roster used to determine roster continuity.
+
+#### VRS-Matched Teams
+
+- A VRS-matched team must field at least **three (3) of the five players** listed on its matched VRS roster in the **2 November 2026 VRS snapshot** for the entirety of every match, including the Playoffs.
+- Any three of those five players may satisfy this requirement; the same three players are not required in every match.
+- Teams must keep at least three of those snapshot players on their official tournament roster throughout the tournament. Falling below three may result in disqualification.
+- These requirements remain in effect regardless of approved roster changes or substitutions.
+
+#### Non-VRS Teams
+
+- A team that is not matched to a VRS roster must field at least **three (3) of its five original registered starters** for the entirety of every match, including the Playoffs.
+- Any three of those original starters may satisfy this requirement; the same three players are not required in every match.
+- Later roster additions do not become original registered starters and do not change the five-player reference roster.
+
+#### Duplicate Core Restrictions
+
+- No two teams may share three or more players from their applicable five-player reference rosters.
+- Teams found to violate this restriction may be disqualified.
+
+#### Roster Changes & Substitutions
+
+- **Swiss Stage:** Starters and substitutes may be adjusted with tournament administration approval.
+- **Playoffs:** Teams may make up to **two (2) substitute roster changes in total**, limited to the Sub 1 / Sub 2 slots and subject to administration approval.
+- Replacing one player in either substitute slot counts as one change. Replacing both substitute players counts as two changes.
+- Using an already registered substitute does not count as a substitute roster change.
+- The applicable five-player reference roster remains fixed throughout the tournament, and every lineup must satisfy the relevant three-of-five requirement.
+
+#### Coach Substitution Rule
+
+Registered team coaches may substitute as players only if they are listed on the official roster before the match starts, meet all eligibility requirements, and the lineup continues to satisfy the applicable three-of-five requirement.
 
 ---
 
@@ -125,6 +161,19 @@ The Playoffs feature **16 teams** in a **Single-Elimination** bracket:
 - Grand Final: **BO5**, unless the organizers announce otherwise before the Playoffs begin
 - A team is eliminated after one playoff match loss.
 - The bracket and seeding plan will be published by tournament administration after Swiss qualification is complete.
+
+---
+
+### Seeding Integrity Policy
+
+- VRS matching uses the fixed **2 November 2026 VRS snapshot**.
+- A team is considered VRS-matched when at least three of its registered starting players appear on the same official VRS roster. Substitutes are not counted for the initial matching decision.
+- VRS-matched teams must field at least three players from that matched five-player VRS roster throughout every match.
+- Non-VRS teams must field at least three of their five original registered starters throughout every match.
+- The qualifying three players may differ between matches.
+- Direct playoff qualification is determined by VRS rank among eligible, accepted registered entrants; it does not mean a team has been invited to the tournament.
+- Seeding does not create a full roster lock before the Playoffs.
+- Teams disqualified for roster-continuity violations will lose any seeded or direct-qualification position, and tournament administration may award the place to the next eligible team.
 
 ---
 
@@ -198,7 +247,11 @@ Refer to the [Schedule](SCHEDULE.md) for proposed playoff round windows and matc
 
 ## Prize Pool
 
-The total prize pool is **€5,000**, distributed as follows:\n\n| Placement | Prize |\n|---|---:|\n| 1st Place | **€2,500** |\n| 2nd Place | **€1,250** |\n| 3rd Place | **€750** |\n| 4th Place | **€500** |\n\nTotal entry-fee revenue from 24 teams paying €250 each is €6,000 before costs, taxes, or refunds.
+The total prize pool is **€5,000**, distributed as follows:
+🥇 1st — €2,500
+🥈 2nd — €1,250
+🥉 3rd — €625
+   4th — €625
 
 Prize payments and eligibility are subject to the tournament rules and resolution of any pending disputes or disciplinary matters.
 
@@ -220,4 +273,4 @@ Participants are responsible for reading the current versions of the official do
 
 ---
 
-© Green Pepper Season 1
+© Green Pepper Tournament Organizer
