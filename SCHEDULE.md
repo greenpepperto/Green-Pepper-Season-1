@@ -273,7 +273,7 @@ Scheduling preferences, availability conflicts or failure to review the publishe
 
 Failure to attend or be ready for a scheduled match may result in a forfeit or other disciplinary sanctions in accordance with the official Rulebook.
 
-**By entering Green Pepper Season 1, all teams agree to be bound by this scheduling policy and accept the authority of the Green Pepper Organizing Team to impose and manage the tournament schedule**, subject to the official Rulebook and any subsequent official announcements.
+By entering Green Pepper Season 1, all teams agree to be bound by this scheduling policy and accept the authority of the Green Pepper Organizing Team to impose and manage the tournament schedule, subject to the official Rulebook and any subsequent official announcements.
 ---
 
 ## Important Notes
