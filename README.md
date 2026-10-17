@@ -12,6 +12,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 
 <p align="center">
   <img alt="Status" src="https://img.shields.io/badge/Status-Planning-informational">
+  <img alt="VRS" src="https://img.shields.io/badge/Status-Eligble-informational%22%3E">
   <img alt="Game" src="https://img.shields.io/badge/Game-Counter--Strike%202-blue">
   <img alt="Teams" src="https://img.shields.io/badge/Teams-24-orange">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-FACEIT-red">
