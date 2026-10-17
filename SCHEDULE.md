@@ -279,12 +279,11 @@ By entering Green Pepper Season 1, all teams agree to be bound by this schedulin
 ## Important Notes
 
 1. This schedule reflects the current proposed organizer dates. Match windows remain provisional until approved by Green Pepper administration.
-2. 
-3. Registration may close early if all 24 team slots are filled.
-4. VRS direct qualification is based on the official ranking snapshot taken on **2 November 2026**, subject to eligibility and acceptance.
-5. Registration closes on **15 November 2026 at 23:59 CET**, or earlier if all places are filled.
-6. The Grand Final is scheduled for **13 December 2026 at 16:00 CET**. Any change will be announced through the official Green Pepper channels.
-7. Before publication, the organizers should confirm the registration URL, payment instructions, official support/Discord link, exact daily match times, VRS eligibility, Swiss tiebreak procedure and final match windows.
+2. Registration may close early if all 24 team slots are filled.
+3. VRS direct qualification is based on the official ranking snapshot taken on **2 November 2026**, subject to eligibility and acceptance.
+4. Registration closes on **15 November 2026 at 23:59 CET**, or earlier if all places are filled.
+5. The Grand Final is scheduled for **13 December 2026 at 16:00 CET**. Any change will be announced through the official Green Pepper channels.
+6. Before publication, the organizers should confirm the registration URL, payment instructions, official support/Discord link, exact daily match times, VRS eligibility, Swiss tiebreak procedure and final match windows.
 
 ---
 Last Update : 17/10/2026
