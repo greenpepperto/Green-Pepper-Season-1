@@ -288,8 +288,10 @@ By entering Green Pepper Season 1, all teams agree to be bound by this schedulin
 
 ---
 Last Update : 17/10/2026
+
 **Green Pepper Season 1**  
 *Bring the Heat. Own the Game.*
 
 See [`RULEBOOK.md`](RULEBOOK.md) for the complete competition rules.
-@Green Pepper 
+
+@Green Pepper Tournament Organizer 
