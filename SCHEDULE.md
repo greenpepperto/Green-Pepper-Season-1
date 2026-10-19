@@ -62,7 +62,6 @@ All matches are played online. There is no LAN venue, on-site check-in, venue-ba
 - **Advancement:** The first eight teams to meet the qualification condition advance to the Playoffs.
 - Teams are paired against opponents with the same or a similar match record. Teams will not face the same opponent more than once.
 - Swiss pairings, seeding and tiebreak procedures will be published before the first round.
-- Teams may reschedule a Swiss match only within its published round window, with mutual agreement and Admin approval where required by the Rulebook.
 
 ### Playoffs
 
