@@ -53,7 +53,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 | Direct Playoff Qualification | **8 highest-ranked eligible VRS teams among registered entrants** |
 | Swiss Stage | **16 teams — BO3** |
 | Swiss Qualification | **3 wins to qualify; 3 losses to be eliminated** |
-| Minimum Teams Required to Start the Tournament:| 20** |
+| Minimum Teams Required to Start the Tournament:| **20** |
 | Playoffs | **16-team Single-Elimination bracket** |
 | Playoff Matches | **BO3** |
 | Grand Final | **BO5** |
