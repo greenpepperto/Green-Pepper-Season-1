@@ -216,16 +216,29 @@ Swiss seeds 1–16 are assigned to the 16 teams competing in the Swiss Stage, in
 
 ### 2.4 Playoffs
 
-- **2.4.1** The Playoffs consist of **16 teams** in a **single-elimination bracket**.
-- **2.4.2** The eight highest-ranked eligible registered teams in the fixed VRS snapshot receive direct playoff places and are seeded 1–8.
-- **2.4.3** The eight Swiss Stage qualifiers are seeded 9–16 using their final Swiss seed calculation.
+- **2.4.1** The Playoffs consist of **16 teams** in a **single-elimination bracket**: eight direct VRS qualifiers and eight Swiss Stage qualifiers.
+- **2.4.2** Playoff seeds **1–8** are assigned to the eight direct VRS qualifiers in their pre-event VRS order, with the highest-ranked eligible direct qualifier receiving Seed 1.
+- **2.4.3** Playoff seeds **9–16** are assigned to the eight Swiss Stage qualifiers according to the final Swiss qualification ranking defined in Section 2.5.2. Seed 9 goes to the highest-ranked Swiss qualifier; Seed 16 goes to the lowest-ranked Swiss qualifier.
 - **2.4.4** All Playoff matches, including the Grand Final, are **Best-of-Three (BO3)**.
-- **2.4.5** The opening quarter-final match-ups are:
-  - **Bracket A:** Seed 1 vs. Seed 8; Seed 4 vs. Seed 5.
-  - **Bracket B:** Seed 2 vs. Seed 7; Seed 3 vs. Seed 6.
-- **2.4.6** The bracket proceeds through quarter-finals, semi-finals, and the Grand Final. A team is eliminated after one playoff loss.
-- **2.4.7** The published bracket determines the subsequent semi-final and final paths. No team may be reseeded after the bracket has started except to correct a documented administrative error.
-- **2.4.8** The Playoffs remain subject to the roster-change limits and three-of-five reference-roster rule in Section 1.
+- **2.4.5 Round of 16:** The opening matches are arranged so that the winners feed into the requested quarter-final paths:
+
+| Round of 16 Match | Match-up | Quarter-final path |
+|:--|:--|:--|
+| R16-1 | Seed 1 vs. Seed 16 | Winner advances to the Seed 1 / Seed 8 quarter-final |
+| R16-2 | Seed 8 vs. Seed 9 | Winner advances to the Seed 1 / Seed 8 quarter-final |
+| R16-3 | Seed 4 vs. Seed 13 | Winner advances to the Seed 4 / Seed 5 quarter-final |
+| R16-4 | Seed 5 vs. Seed 12 | Winner advances to the Seed 4 / Seed 5 quarter-final |
+| R16-5 | Seed 2 vs. Seed 15 | Winner advances to the Seed 2 / Seed 7 quarter-final |
+| R16-6 | Seed 7 vs. Seed 10 | Winner advances to the Seed 2 / Seed 7 quarter-final |
+| R16-7 | Seed 3 vs. Seed 14 | Winner advances to the Seed 3 / Seed 6 quarter-final |
+| R16-8 | Seed 6 vs. Seed 11 | Winner advances to the Seed 3 / Seed 6 quarter-final |
+
+- **2.4.6 Quarter-finals:** The bracket paths preserve the following seed structure. The listed seeds identify each path; an upset winner may of course replace the expected seed:
+  - **Bracket A:** Seed 1 path vs. Seed 8 path; Seed 4 path vs. Seed 5 path.
+  - **Bracket B:** Seed 2 path vs. Seed 7 path; Seed 3 path vs. Seed 6 path.
+- **2.4.7** Quarter-final winners advance to the semi-finals according to the published bracket, and the semi-final winners meet in the Grand Final. A team is eliminated after one playoff loss.
+- **2.4.8** No team may be reseeded after the bracket has started except to correct a documented administrative error.
+- **2.4.9** The Playoffs remain subject to the roster-change limits and three-of-five reference-roster rule in Section 1.
 
 ### 2.5 Seeding and Tiebreakers
 
@@ -241,9 +254,14 @@ The VRS snapshot is used for tournament seeding and direct playoff qualification
 
 #### 2.5.2 Stage Seeding
 
-- **Swiss Stage:** The 16 teams not awarded direct playoff places are seeded 1–16 according to their order in the pre-event seeding list after the eight direct qualifiers are removed.
-- **Playoffs, seeds 1–8:** The eight highest-ranked eligible direct qualifiers use their pre-event VRS seed order.
-- **Playoffs, seeds 9–16:** The eight Swiss qualifiers use their final Swiss seed calculation, ordered ahead of any lower-ranked qualifier according to the criteria below.
+- **Swiss Stage seeds 1–16:** The 16 teams not awarded direct playoff places are seeded according to their order in the pre-event seeding list after the eight direct qualifiers are removed.
+- **Playoff seeds 1–8:** The eight highest-ranked eligible direct qualifiers use their pre-event VRS order.
+- **Playoff seeds 9–16:** The eight Swiss qualifiers are ranked among themselves and then assigned sequentially to seeds 9–16. The highest-ranked Swiss qualifier receives Seed 9 and the eighth-ranked Swiss qualifier receives Seed 16.
+- Swiss qualifiers are ranked using these criteria, in order:
+  1. Swiss record / qualification path: teams qualifying 3–0 rank ahead of teams qualifying 3–1, who rank ahead of teams qualifying 3–2.
+  2. Difficulty Score (Buchholz) at the conclusion of the Swiss Stage, calculated from all opponents faced.
+  3. Initial Swiss Stage seed (lower numerical seed ranks higher).
+- If an administrative ruling changes a team's Swiss result or eligibility, the final Swiss qualification ranking is recalculated before the Playoff bracket is locked.
 - Once the Playoff bracket has started, seeds remain fixed unless administration corrects a documented error.
 
 #### 2.5.3 Mid-stage Seed Calculation
@@ -579,7 +597,7 @@ A: Yes. Every player must use their own eligible FACEIT account and have FACEIT 
 A: Eight eligible, registered teams with the highest rankings in the fixed 2 November 2026 VRS snapshot receive direct places in the Playoffs. These are direct playoff qualifications within an open-registration tournament, not invitations to participate.
 
 **Q: What happens to teams that do not receive a direct VRS playoff place?**  
-A: Sixteen teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. Eight Swiss teams advance to the Playoffs.
+A: Sixteen teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. Eight Swiss teams advance to the Playoffs and receive seeds 9–16 based on qualification path (3–0, then 3–1, then 3–2), Buchholz Difficulty Score, and initial Swiss seed. The eight direct VRS qualifiers receive seeds 1–8.
 
 **Q: What counts as a team's core?**  
 A: For a VRS-matched team, the reference roster is the five players on its matched VRS roster in the 2 November 2026 snapshot. For a non-VRS team, it is the five original registered starters. At least three players from the applicable reference roster must play the entirety of every match.
