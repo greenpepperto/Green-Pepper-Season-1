@@ -162,46 +162,115 @@ No two teams may use a shared core of three or more players from their applicabl
 
 ### 2.3 Swiss Stage
 
-- **2.3.1** The Swiss Stage consists of **16 teams**: eligible registered teams that do not receive a direct VRS playoff place.
-- **2.3.2** All Swiss Stage matches are **Best-of-Three (BO3)**.
-- **2.3.3** A team qualifies for the Playoffs after recording **three match wins**.
-- **2.3.4** A team is eliminated after recording **three match losses**.
-- **2.3.5** Eight teams qualify from the Swiss Stage to join the eight VRS direct qualifiers in the 16-team Playoff bracket.
-- **2.3.6** Teams are paired with opponents on the same or a comparable match record, subject to the pairing method announced by administration.
-- **2.3.7** Teams should not face the same opponent more than once in the Swiss Stage unless an unavoidable bracket or administrative issue requires an exception.
-- **2.3.8** Swiss pairings, seeding, match windows, and applicable tiebreak procedures will be published before the stage begins.
-- **2.3.9** If a team withdraws or is disqualified, administration determines how its results and remaining pairings are handled, aiming to preserve competitive fairness.
+- **2.3.1** The Swiss Stage consists of **16 teams**: the 16 highest-priority eligible registered teams that do not receive one of the eight direct VRS playoff places.
+- **2.3.2** The Swiss Stage uses a Swiss system. Teams are paired against opponents with the same current win-loss record wherever possible.
+- **2.3.3** A team advances to the Playoffs after **three match wins**.
+- **2.3.4** A team is eliminated after **three match losses**.
+- **2.3.5** Every Swiss match is **Best-of-Three (BO3)**, including all advancement and elimination matches.
+- **2.3.6** Teams must not play the same opponent twice in the Swiss Stage where a valid alternative pairing is available.
+- **2.3.7** Eight teams qualify from the Swiss Stage and join the eight direct VRS qualifiers in the 16-team Playoffs.
+- **2.3.8** Swiss pairings are determined by the current Swiss seed, match record, opponent difficulty score (Buchholz), and the pairing rules below.
+- **2.3.9** Administration may make a necessary pairing adjustment to prevent a rematch, resolve an unavoidable bracket conflict, or preserve competitive integrity. Any adjustment must be applied consistently.
+
+#### 2.3.1 Initial Swiss Match-ups
+
+Swiss seeds 1–16 are assigned to the 16 teams competing in the Swiss Stage, in order of their pre-event seed after the eight direct playoff qualifiers have been removed. The first-round match-ups are:
+
+| Swiss Round 1 |
+|:--|
+| 1 vs. 9 |
+| 2 vs. 10 |
+| 3 vs. 11 |
+| 4 vs. 12 |
+| 5 vs. 13 |
+| 6 vs. 14 |
+| 7 vs. 15 |
+| 8 vs. 16 |
+
+#### 2.3.2 Swiss Pairing Rules
+
+- After the initial round, teams are grouped by their current win-loss record.
+- In Rounds 2 and 3, the highest-seeded team faces the lowest-seeded available opponent with the same record, provided the pairing does not create a rematch.
+- For later rounds, when a record group contains six teams, administration selects the first pairing row below that does not create a rematch. Teams within the group are ordered by current seed.
+
+| Priority | Match 1 | Match 2 | Match 3 |
+|:--:|:--:|:--:|:--:|
+| 1 | 1 vs. 6 | 2 vs. 5 | 3 vs. 4 |
+| 2 | 1 vs. 6 | 2 vs. 4 | 3 vs. 5 |
+| 3 | 1 vs. 5 | 2 vs. 6 | 3 vs. 4 |
+| 4 | 1 vs. 5 | 2 vs. 4 | 3 vs. 6 |
+| 5 | 1 vs. 4 | 2 vs. 6 | 3 vs. 5 |
+| 6 | 1 vs. 4 | 2 vs. 5 | 3 vs. 6 |
+| 7 | 1 vs. 6 | 2 vs. 3 | 4 vs. 5 |
+| 8 | 1 vs. 5 | 2 vs. 3 | 4 vs. 6 |
+| 9 | 1 vs. 3 | 2 vs. 6 | 4 vs. 5 |
+| 10 | 1 vs. 3 | 2 vs. 5 | 4 vs. 6 |
+| 11 | 1 vs. 4 | 2 vs. 3 | 5 vs. 6 |
+| 12 | 1 vs. 3 | 2 vs. 4 | 5 vs. 6 |
+| 13 | 1 vs. 2 | 3 vs. 6 | 4 vs. 5 |
+| 14 | 1 vs. 2 | 3 vs. 5 | 4 vs. 6 |
+| 15 | 1 vs. 2 | 3 vs. 4 | 5 vs. 6 |
+
+- If every listed pairing creates a rematch, administration may use the most equitable alternative pairing available and document the reason.
+- Teams are not permitted to choose their own Swiss opponents.
 
 ### 2.4 Playoffs
 
-- **2.4.1** The Playoffs consist of **16 teams** in a single-elimination bracket.
-- **2.4.2** The bracket contains eight VRS direct qualifiers and eight Swiss Stage qualifiers.
-- **2.4.3** Standard playoff matches are **BO3**.
-- **2.4.4** The Grand Final is **Best-of-Five (BO5)**.
-- **2.4.5** A team is eliminated after losing a playoff match.
-- **2.4.6** The playoff bracket and seeding method will be published by administration after Swiss qualification is complete.
-- **2.4.7** The Playoffs remain subject to the roster-change limits and three-of-five reference-roster rule in Section 1.
+- **2.4.1** The Playoffs consist of **16 teams** in a **single-elimination bracket**.
+- **2.4.2** The eight highest-ranked eligible registered teams in the fixed VRS snapshot receive direct playoff places and are seeded 1–8.
+- **2.4.3** The eight Swiss Stage qualifiers are seeded 9–16 using their final Swiss seed calculation.
+- **2.4.4** All Playoff matches, including the Grand Final, are **Best-of-Three (BO3)**.
+- **2.4.5** The opening quarter-final match-ups are:
+  - **Bracket A:** Seed 1 vs. Seed 8; Seed 4 vs. Seed 5.
+  - **Bracket B:** Seed 2 vs. Seed 7; Seed 3 vs. Seed 6.
+- **2.4.6** The bracket proceeds through quarter-finals, semi-finals, and the Grand Final. A team is eliminated after one playoff loss.
+- **2.4.7** The published bracket determines the subsequent semi-final and final paths. No team may be reseeded after the bracket has started except to correct a documented administrative error.
+- **2.4.8** The Playoffs remain subject to the roster-change limits and three-of-five reference-roster rule in Section 1.
 
 ### 2.5 Seeding and Tiebreakers
 
-#### 2.5.1 Seeding order
+<a id="seeding"></a>
 
-1. Eligible VRS-matched teams are ordered by rank in the fixed **2 November 2026 VRS snapshot**.
-2. Remaining teams are seeded using documented competitive results and criteria announced by Green Pepper before the draw.
-3. Teams without a comparable VRS ranking or competitive record are assessed using the documented information available to administration.
-4. Final seeding and the method used will be published before the relevant stage begins.
+#### 2.5.1 Pre-event Seeding
 
-#### 2.5.2 Swiss standings
+All 24 accepted teams are ordered using their global standing in the official **Valve Regional Standings (VRS)** snapshot dated **2 November 2026**, subject to eligibility and roster verification. Where a team has no comparable VRS ranking, Green Pepper will apply the fallback criteria announced before the event and publish the resulting order.
 
-- Swiss standings are primarily determined by match record.
-- Teams with the same record are separated using the published Swiss pairing and tiebreak rules.
-- If a tie remains unresolved by the published criteria, administration may use match results between tied teams where applicable, strength of opponents, map/round differential, or another announced objective metric.
-- Administration must apply the same criteria consistently and may request match records or other evidence to resolve a standings issue.
-- Teams must not assume that head-to-head is the sole tiebreaker unless the official stage-specific rules explicitly state so.
+The VRS snapshot is used for tournament seeding and direct playoff qualification. This does not by itself mean Green Pepper Season 1 is officially VRS-ranked or endorsed by Valve.
 
-#### 2.5.3 Administrative corrections
+<a id="Pre-event-Seeding"></a>
 
-If an incorrect result, ineligible player, forfeit, or other integrity issue affects standings, administration may correct the standings and adjust qualification or seeding accordingly. Affected teams will be informed through official channels.
+#### 2.5.2 Stage Seeding
+
+- **Swiss Stage:** The 16 teams not awarded direct playoff places are seeded 1–16 according to their order in the pre-event seeding list after the eight direct qualifiers are removed.
+- **Playoffs, seeds 1–8:** The eight highest-ranked eligible direct qualifiers use their pre-event VRS seed order.
+- **Playoffs, seeds 9–16:** The eight Swiss qualifiers use their final Swiss seed calculation, ordered ahead of any lower-ranked qualifier according to the criteria below.
+- Once the Playoff bracket has started, seeds remain fixed unless administration corrects a documented error.
+
+#### 2.5.3 Mid-stage Seed Calculation
+
+For Swiss pairings after the initial round, teams are ordered by the following criteria, in order:
+
+1. Current match win-loss record in the Swiss Stage.
+2. Difficulty Score (Buchholz) in the current stage.
+3. Initial Swiss Stage seed.
+
+<a id="Mid-Stage-Seed-Calculation"></a>
+
+#### 2.5.4 Difficulty Score (Buchholz)
+
+Each team's Difficulty Score is the sum of the current wins of all opponents it has faced, minus the sum of the current losses of those opponents.
+
+**Example:** Team A's previous opponents have records of 2–0 and 1–1. Their combined record is three wins and one loss, giving Team A a Difficulty Score of **+2**. Team B's previous opponents both have records of 1–1, giving a combined record of two wins and two losses and a Difficulty Score of **0**. If Team A and Team B have the same Swiss record, Team A ranks higher because it has faced opponents with the stronger combined record.
+
+<a id="Difficulty-score"></a>
+
+#### 2.5.5 Swiss Qualification and Final Ties
+
+- A team with three wins qualifies immediately; a team with three losses is eliminated.
+- Swiss pairings are based on match record, not map or round differential.
+- If two or more teams' final Swiss positions remain tied under the published seeding criteria, administration will compare Buchholz Difficulty Score and then initial Swiss seed.
+- If a standings issue remains unresolved, administration may review match records and platform data and announce a consistent resolution before finalizing the bracket.
+- Administration may correct standings if a result is overturned, a forfeit is awarded, or a roster or integrity violation affects a team's eligibility.
 
 ---
 
@@ -240,15 +309,31 @@ The official FACEIT server configuration takes precedence where it differs from 
 
 Administration will clarify any server-side setting that differs from this section. Players must not change server settings themselves.
 
-### 3.4 Map Veto
+### 3.4 Map Pick-Ban
 
-- **3.4.1 BO3 veto:** Team A removes one map → Team B removes one map → Team A picks one map → Team B picks one map → Team A removes one map → Team B removes one map → the remaining map is the decider.
-- **3.4.2** Vetoes should be completed immediately before the scheduled match, using the official match room or administration instructions.
-- **3.4.3** The higher-seeded team is Team A and chooses whether to act first or second, unless the match platform or a published stage-specific rule specifies otherwise.
-- **3.4.4** If a team fails to complete its veto on time, administration may make the remaining veto decisions on its behalf.
-- **3.4.5 BO5 Grand Final veto:** Team A removes one map → Team B removes one map → Team A picks one map → Team B picks one map → Team A picks one map → Team B picks one map → the remaining map is the final map.
-- **3.4.6** The Grand Final is a standard BO5 unless Green Pepper publishes a different format before the Playoffs. There is no automatic map advantage unless the organizers explicitly announce one in the official bracket rules.
-- **3.4.7** The official active map pool will be announced before the tournament stage. Administration may update it if CS2 or the competition platform changes the available map pool.
+All Green Pepper Season 1 matches use the active Counter-Strike 2 Duty Map Group announced by the organizers. Map vetoes must be completed through the official match room or by the method specified by administration.
+
+#### 3.4.1 Best-of-Three (BO3) Pick/Ban Process
+
+1. The higher-seeded team chooses whether to be **Team A** or **Team B**.
+2. Team A removes one map.
+3. Team B removes one map.
+4. Team A picks Map 1.
+5. Team B chooses the starting side on Map 1.
+6. Team B picks Map 2.
+7. Team A chooses the starting side on Map 2.
+8. Team B removes one map.
+9. Team A removes one map.
+10. Team B chooses the starting side on Map 3, the remaining decider map.
+
+- The higher-seeded team is responsible for selecting Team A or Team B unless administration announces a different method before the match.
+- Map picks and bans are final once confirmed, except where an administrative or platform error requires correction.
+- If a team does not complete its veto within the stated deadline, administration may complete the remaining steps on its behalf.
+
+#### 3.4.2 Map Pool
+
+The Tournament Organizer will use the up-to-date in-game versions of maps in the official Active Duty Map Group. The applicable map pool will be confirmed before the tournament stage begins. If Valve or CS2 updates the map pool during the event, administration will announce whether the update applies immediately or from a later round.
+
 
 ### 3.5 Servers and Region
 
