@@ -275,3 +275,4 @@ Participants are responsible for reading the current versions of the official do
 ---
 
 © Green Pepper Tournament Organizer
+Last Update: 21/10/2026
