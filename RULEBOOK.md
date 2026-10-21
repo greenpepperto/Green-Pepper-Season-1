@@ -31,7 +31,7 @@ Green Pepper Season 1 — Tournament Rules and Regulations
    - [3.3 Match Settings](#33-match-settings)
    - [3.4 Map Veto](#34-map-veto)
    - [3.5 Servers and Region](#35-servers-and-region)
-   - [3.6 Integrity Verification](#36-integrity-verification)
+   - [3.6 Integrity Verification and Mandatory Webcams](#36-integrity-verification-and-mandatory-webcams)
 4. [Scheduling](#4-scheduling)
    - [4.1 Match Scheduling](#41-match-scheduling)
    - [4.2 Rescheduling](#42-rescheduling)
@@ -343,12 +343,17 @@ The Tournament Organizer will use the up-to-date in-game versions of maps in the
 - **3.5.4** A team must report a server-location or routing concern before the match where possible. Administration determines whether a server change is appropriate.
 - **3.5.5** A player's poor connection alone does not automatically entitle the team to a reschedule or replay.
 
-### 3.6 Integrity Verification
+### 3.6 Integrity Verification and Mandatory Webcams
 
-- **3.6.1** Players must cooperate with reasonable integrity checks requested by tournament administration.
-- **3.6.2** Administration may request players to share their screen, provide relevant recordings, or complete other reasonable verification steps where permitted by platform rules and applicable law.
-- **3.6.3** Refusal to cooperate with a reasonable and properly communicated integrity check may lead to further investigation or disciplinary action.
-- **3.6.4** Any camera requirement will be communicated in advance or explained by administration when a specific integrity concern arises; it is not automatic unless officially announced.
+- **3.6.1 Mandatory webcams:** Every player participating in Green Pepper Season 1 is required to use an integrity webcam during all official matches, including every map and overtime period. This requirement applies to all teams and players, regardless of VRS status or tournament stage.
+- **3.6.2** Players must position the webcam as instructed by tournament administration so that the player's face and upper body are reasonably visible throughout the match. The camera must provide a live, continuous image and must not be a prerecorded feed, virtual camera, or manipulated video.
+- **3.6.3** Players must keep the webcam enabled and functional from the pre-match integrity check until the match has ended, including during technical pauses and between maps, unless an administrator explicitly authorizes a temporary exception.
+- **3.6.4** Players must follow the official instructions for webcam setup, framing, lighting, and any required camera or room checks. Green Pepper will communicate the technical procedure and any required software before the event or match.
+- **3.6.5** If a webcam fails or disconnects, the player must immediately notify the opponent and tournament administration and pause the match when possible. Play may resume only as directed by administration. A brief technical issue does not automatically mean disqualification, but a player who cannot restore the required feed within the time allowed may be required to forfeit the map or match.
+- **3.6.6** Deliberately disabling, obstructing, redirecting, spoofing, or manipulating a webcam feed, using another person in place of the registered player, or refusing a reasonable integrity check is a serious integrity violation and may result in a forfeit, disqualification, prize forfeiture, or further sanctions.
+- **3.6.7** Administration may request screen sharing, relevant recordings, identity/account verification, or additional reasonable checks where permitted by platform rules and applicable law.
+- **3.6.8** Webcam footage and other integrity evidence will be accessed only for tournament integrity, dispute resolution, or rule enforcement, and handled in accordance with applicable law and any privacy notice supplied by the organizers. Players must follow the event's published data-handling instructions.
+- **3.6.9** If a player has a genuine accessibility, medical, equipment, or privacy concern affecting compliance, the team captain must contact administration before the match. Any exception must be expressly approved in writing; teams must not assume an exception has been granted.
 
 ---
 
