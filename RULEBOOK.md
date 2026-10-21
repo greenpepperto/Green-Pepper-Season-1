@@ -8,7 +8,7 @@ Green Pepper Season 1 — Tournament Rules and Regulations
 **Entry Fee:** €250 per team  
 **Prize Pool:** €5,000  
 **VRS Snapshot:** 2 November 2026  
-**Last Updated:** 17 October 2026
+**Last Updated:** 21 October 2026
 
 ---
 
