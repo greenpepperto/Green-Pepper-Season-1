@@ -286,7 +286,7 @@ By entering Green Pepper Season 1, all teams agree to be bound by this schedulin
 6. Before publication, the organizers should confirm the registration URL, payment instructions, official support/Discord link, exact daily match times, VRS eligibility, Swiss tiebreak procedure and final match windows.
 
 ---
-Last Update : 17/10/2026
+Last Update : 21/10/2026
 
 **Green Pepper Season 1**  
 *Bring the Heat. Own the Game.*
