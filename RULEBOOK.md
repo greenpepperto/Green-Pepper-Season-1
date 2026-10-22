@@ -9,6 +9,7 @@
 **Prize Pool:** €5,000  
 **VRS Snapshot:** 2 November 2026  
 **Last Updated:** 22 October 2026
+
 **Format:** Eight eligible VRS-ranked teams qualify directly for the 16-team Playoffs; the remaining 16 teams contest a Swiss Stage for the eight remaining playoff places.
 
 ---
