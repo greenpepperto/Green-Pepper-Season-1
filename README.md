@@ -31,7 +31,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 - **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
 - **VALVE FILE:** [VALVE.md](VALVE.md)
 - **Official X (Twitter):** [@GreenPepperTO](https://x.com/GreenPepperTO)
-- **Registration:** 24th October 2026
+- **Registration:** 24th October 2026 (19:00H CET)
 - **Entry Fee:** €250 per team; payment instructions will be provided by the organizers
 - **Platform:** All official matches are played through FACEIT
 - **Anti-Cheat:** FACEIT Anti-Cheat is mandatory for all players in official matches
