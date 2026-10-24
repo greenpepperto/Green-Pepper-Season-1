@@ -77,7 +77,7 @@ All matches are played online. There is no LAN venue, on-site check-in, venue-ba
 
 ## Tournament Timeline and Match Schedule
 
-All times below are **CET (Central European Time)**. The tournament is played online through FACEIT. Swiss Stage match start slots are scheduled between **11:00 and 20:00 CET**. Exact pairings and individual match times will be announced by the tournament administration; Swiss pairings depend on results from previous rounds.
+All times below are **CET (Central European Time)**. The tournament is played online through FACEIT. Swiss Stage match start slots are scheduled between **11:00 and 20:30 CET**. Exact pairings and individual match times will be announced by the tournament administration; Swiss pairings depend on results from previous rounds.
 
 ### Swiss Stage — Match Schedule
 
