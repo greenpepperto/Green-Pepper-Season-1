@@ -83,31 +83,31 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 | Day | Date | Stage | Match Window |
 | --- | --- | --- | --- |
-| **Day 1** | Saturday, 28 November 2026 | Swiss Stage — Round 1 | 11:00–20:00 CET |
-| **Day 2** | Sunday, 29 November 2026 | Swiss Stage — Round 1 (remaining matches) | 11:00–20:00 CET |
-| **Day 3** | Monday, 30 November 2026 | Swiss Stage — Round 2 | 11:00–20:00 CET |
-| **Day 4** | Tuesday, 1 December 2026 | Swiss Stage — Round 2 (remaining matches) | 11:00–20:00 CET |
-| **Day 5** | Wednesday, 2 December 2026 | Swiss Stage — Round 3 | 11:00–20:00 CET |
-| **Day 6** | Thursday, 3 December 2026 | Swiss Stage — Round 3 (remaining matches) | 11:00–20:00 CET |
-| **Day 7** | Friday, 4 December 2026 | Swiss Stage — Round 4, where required | 11:00–20:00 CET |
-| **Day 8** | Saturday, 5 December 2026 | Swiss Stage — Round 4 (remaining matches), where required | 11:00–20:00 CET |
-| **Day 9** | Sunday, 6 December 2026 | Swiss Stage — Round 5 / remaining qualification matches | 11:00–20:00 CET |
-| **Day 10** | Monday, 7 December 2026 | Swiss standings confirmation and Playoff seeding | Administration / no regular match window |
+| **Day 1** | Saturday, 28 November 2026 | Swiss Stage — Round 1| 0-0 matches | 11:00–20:30 CET |
+| **Day 2** | Sunday, 29 November 2026 | Swiss Stage — Round 1 (remaining matches) | 11:00–20:30 CET |
+| **Day 3** | Monday, 30 November 2026 | Swiss Stage — Round 2  | 1-0 matches| 11:00–20:30 CET |
+| **Day 4** | Tuesday, 1 December 2026 | Swiss Stage — Round 2  | 0-1 matches| | 11:00–20:30 CET |
+| **Day 5** | Wednesday, 2 December 2026 | Swiss Stage — Round 3| 2-0 matches |0-2 matches| 11:00–20:30 CET |
+| **Day 6** | Thursday, 3 December 2026 | Swiss Stage — Round 3 | 1-1 matches | 11:00–20:30 CET |
+| **Day 7** | Friday, 4 December 2026 | Swiss Stage — Round 4   | 2-1 matches | 11:00–20:30 CET |
+| **Day 8** | Saturday, 5 December 2026 | Swiss Stage — Round 4 | 1-2 matches | 11:00–20:30 CET |
+| **Day 9** | Sunday, 6 December 2026 | Swiss Stage — Round 5   | 2-2 matches | 11:00–20:30 CET |
+| **Day 10** | Monday, 7 December 2026 | Swiss standings confirmation and Playoff seeding | Rest day| Administration / no regular match window |
+| **Day 11** | Tuesday, 8 December 2026 | Rest Day | Administration / no regular match window |
 
 ### Playoffs — Match Schedule
 
 | Day | Date | Stage | Match Window |
 | --- | --- | --- | --- |
-| **Day 11** | Tuesday, 8 December 2026 | Playoffs — Round of 16 | 11:00–20:00 CET |
-| **Day 12** | Wednesday, 9 December 2026 | Playoffs — Round of 16 (remaining matches) | 11:00–20:00 CET |
-| **Day 13** | Thursday, 10 December 2026 | Playoffs — Quarter-finals | 11:00–20:00 CET |
-| **Day 14** | Friday, 11 December 2026 | Playoffs — Quarter-finals (remaining matches) | 11:00–20:00 CET |
-| **Day 15** | Saturday, 12 December 2026 | Playoffs — Semi-finals | 11:00–20:00 CET |
+| **Day 12** | Wednesday, 9 December 2026 | Playoffs — Round of 16 | 11:00–20:30 CET |
+| **Day 13** | Thursday, 10 December 2026 | Playoffs — Round of 16 (remaining matches) | 11:00–20:30 CET |
+| **Day 14** | Friday, 11 December 2026 | Playoffs — Quarter-finals | 11:00–20:30 CET |
+| **Day 15** | Saturday, 12 December 2026 | Playoffs — Semi-finals | 11:00–20:30 CET |
 | **Day 16** | Sunday, 13 December 2026 | **Grand Final — BO5** | **16:00 CET** |
 
 ### Match Schedule Notes
 
-- **11:00–20:00 CET** is the available match start window on scheduled match days, not a guarantee that every time slot will be used.
+- **11:00–20:30 CET** is the available match start window on scheduled match days, not a guarantee that every time slot will be used.
 - Each team's exact start time and opponent will be published by tournament administration.
 - Swiss opponents for Rounds 2–5 depend on match records and cannot all be fixed in advance.
 - The administration may publish match-specific adjustments where necessary; teams must follow the latest official schedule.
@@ -118,7 +118,7 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 ### Match Times and Availability
 
-- Scheduled match starts may be assigned between **11:00 and 20:00 CET** during the Swiss Stage and scheduled Playoff match days, unless a specific time is published for the match.
+- Scheduled match starts may be assigned between **11:00 and 20:30 CET** during the Swiss Stage and scheduled Playoff match days, unless a specific time is published for the match.
 - The **Grand Final is scheduled for 13 December 2026 at 16:00 CET**.
 - The published match schedule will identify each match's exact start time and any deadline for completing the series.
 - Teams must be ready in their FACEIT matchroom at the scheduled time, with all eligible players available and FACEIT Anti-Cheat running.
@@ -251,7 +251,7 @@ The total prize pool is **€5,000**.
 
 ## Schedule Rules
 
-- All match times in this schedule use **CET (Central European Time)**. Planned match start slots run from **11:00 to 20:00 CET** during the Swiss Stage and Playoff match days, unless an exact match time is published separately.
+- All match times in this schedule use **CET (Central European Time)**. Planned match start slots run from **11:00 to 20:30 CET** during the Swiss Stage and Playoff match days, unless an exact match time is published separately.
 - The **Grand Final is scheduled for 13 December 2026 at 16:00 CET**; teams should follow the time explicitly published for their match.
 - This is an **online tournament**. No physical venue, LAN attendance, on-site check-in or venue-based rolling schedule applies.
 - FACEIT is the official match platform and FACEIT Anti-Cheat is mandatory.
@@ -286,7 +286,7 @@ By entering Green Pepper Season 1, all teams agree to be bound by this schedulin
 6. Before publication, the organizers should confirm the registration URL, payment instructions, official support/Discord link, exact daily match times, VRS eligibility, Swiss tiebreak procedure and final match windows.
 
 ---
-Last Update : 21/10/2026
+Last Update : 24/10/2026
 
 **Green Pepper Season 1**  
 *Bring the Heat. Own the Game.*
