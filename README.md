@@ -58,7 +58,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 | Playoff Matches | **BO3** |
 | Grand Final | **BO5** |
 | Prize Pool | **€5,000 total** |
-| Official Social Media | [@GreenPepperTO](https://x.com/GreenPepperTO) |
+| Official Social Media | [Socials](https://linktr.ee/greenpepperto) |
 
 Final match times, registration/payment instructions, and VRS eligibility details will be confirmed through official Green Pepper channels.
 
