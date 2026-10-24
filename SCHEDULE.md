@@ -20,7 +20,7 @@
 | Registration fee | €250 per team |
 | Prize pool | €5,000 |
 | Match platform | FACEIT |
-| Minimum Teams Required to Start Tournament | 20 |
+| Minimum Teams Required to Start Tournament | 24 |
 | Anti-cheat | FACEIT Anti-Cheat required |
 | VRS ranking snapshot | 2 November 2026 |
 | Tournament dates | 28 November – 13 December 2026 |
