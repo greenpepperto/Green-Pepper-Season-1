@@ -83,16 +83,16 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 | Day | Date | Stage | Match Window |
 | --- | --- | --- | --- |
-| **Day 1** | Saturday, 28 November 2026 | Swiss Stage — Round 1 0-0 matches | 11:00–20:30 CET |
-| **Day 2** | Sunday, 29 November 2026 | Swiss Stage — Round 1 (remaining matches) | 11:00–20:30 CET |
-| **Day 3** | Monday, 30 November 2026 | Swiss Stage — Round 2   1-0 matches | 11:00–20:30 CET |
-| **Day 4** | Tuesday, 1 December 2026 | Swiss Stage — Round 2   0-1 matches | 11:00–20:30 CET |
-| **Day 5** | Wednesday, 2 December 2026 | Swiss Stage — Round 3 2-0 matches 0-2 matches | 11:00–20:30 CET |
-| **Day 6** | Thursday, 3 December 2026 | Swiss Stage — Round 3  1-1 matches | 11:00–20:30 CET |
-| **Day 7** | Friday, 4 December 2026 | Swiss Stage — Round 4    2-1 matches | 11:00–20:30 CET |
-| **Day 8** | Saturday, 5 December 2026 | Swiss Stage — Round 4  1-2 matches |11:00–20:30 CET |
-| **Day 9** | Sunday, 6 December 2026 | Swiss Stage — Round 5    2-2 matches | 11:00–20:30 CET |
-| **Day 10** | Monday, 7 December 2026 | Swiss standings confirmation and Playoff seeding | Rest day| Administration / no regular match window |
+| **Day 1** | Saturday, 28 November 2026 | Swiss Stage — Round 1 / 0-0 matches | 11:00–20:30 CET |
+| **Day 2** | Sunday, 29 November 2026 | Swiss Stage — Round 1 / (remaining matches) | 11:00–20:30 CET |
+| **Day 3** | Monday, 30 November 2026 | Swiss Stage — Round 2 /  1-0 matches | 11:00–20:30 CET |
+| **Day 4** | Tuesday, 1 December 2026 | Swiss Stage — Round 2 /  0-1 matches | 11:00–20:30 CET |
+| **Day 5** | Wednesday, 2 December 2026 | Swiss Stage — Round 3 / 2-0 matches 0-2 matches | 11:00–20:30 CET |
+| **Day 6** | Thursday, 3 December 2026 | Swiss Stage — Round 3 / 1-1 matches | 11:00–20:30 CET |
+| **Day 7** | Friday, 4 December 2026 | Swiss Stage — Round 4   / 2-1 matches | 11:00–20:30 CET |
+| **Day 8** | Saturday, 5 December 2026 | Swiss Stage — Round 4 / 1-2 matches |11:00–20:30 CET |
+| **Day 9** | Sunday, 6 December 2026 | Swiss Stage — Round 5   / 2-2 matches | 11:00–20:30 CET |
+| **Day 10** | Monday, 7 December 2026 | Swiss standings confirmation and Playoff seeding / Rest day| Administration / no regular match window |
 | **Day 11** | Tuesday, 8 December 2026 | Rest Day | Administration / no regular match window |
 
 ### Playoffs — Match Schedule
