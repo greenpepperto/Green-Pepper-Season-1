@@ -30,7 +30,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 - **Tournament Rules:** [Read the Rulebook](RULEBOOK.md)
 - **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
 - **VALVE FILE:** [VALVE.md](VALVE.md)
-- **Official X (Twitter):** [@GreenPepperTO](https://x.com/GreenPepperTO)
+- **Socials:** [Socials](https://linktr.ee/greenpepperto)
 - **Registration:** [LINK](https://forms.gle/yHyw7498dt7TkQh96)
 - **Entry Fee:** €250 per team; [PAYPAL PAYMENT](https://paypal.me/GreenPepperTO)
 - **Platform:** All official matches are played through FACEIT
