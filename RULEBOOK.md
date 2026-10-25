@@ -124,7 +124,16 @@ The permitted roster size and registration slots will be stated in the official 
 
 No two teams may use a shared core of three or more players from their applicable five-player reference rosters. Administration may investigate suspected duplicate cores and may reject, reseed, or disqualify teams where necessary to protect competitive integrity.
 
-#### 1.4.6 Roster changes
+#### 1.4.6 Multiple teams from the same organization prohibited
+
+- **Only one team per organization may participate in Green Pepper Season 1.** Two or more teams belonging to, operated by, managed by, controlled by, or officially representing the same esports organization are not eligible to compete in the same edition of the tournament.
+- This restriction applies even when the teams use different names, rosters, managers, or player accounts. Changing a team's name or branding does not make it a separate organization for this rule.
+- During registration, each team must disclose its organization, ownership or control relationships, and any other team it is affiliated with. Teams must provide accurate information and cooperate with reasonable requests for clarification.
+- Where organizational affiliation is unclear, Green Pepper administration will assess the available evidence, including ownership, management, contracts, shared staff, official representation, and operational control. Shared sponsors or a shared service provider alone do not automatically establish that two teams belong to the same organization.
+- If multiple teams from the same organization register, administration may require the organization to nominate one eligible team before the registration deadline. If the conflict is discovered after acceptance or competition begins, administration may reject or disqualify the affected team or teams, remove results where necessary, and apply further sanctions if information was concealed or misrepresented.
+- These restrictions are intended to prevent conflicts of interest, collusion, information sharing, and other risks to competitive integrity. Administration's decision will be communicated to the affected teams, subject to the protest and appeal process in Section 8.3.
+
+#### 1.4.7 Roster changes
 
 - **Before and during the Swiss Stage:** roster changes may be requested, subject to administration approval. Approved changes do not alter the fixed five-player reference roster.
 - **During the Playoffs:** teams may make no more than **two substitute-slot roster changes in total** across the Playoffs, limited to the Sub 1 / Sub 2 slots and subject to administration approval.
@@ -577,6 +586,9 @@ A: Eight eligible, registered teams with the highest rankings in the fixed 2 Nov
 
 **Q: What happens to teams that do not receive a direct VRS playoff place?**  
 A: Sixteen teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. Eight Swiss teams advance to the Playoffs and receive seeds 9–16 based on qualification path (3-0, then 3-1, then 3-2), and initial Swiss seed. The eight direct VRS qualifiers receive seeds 1-8.
+
+**Q: Can multiple teams from the same esports organization participate?**  
+A: No. Only one team per organization may participate in Green Pepper Season 1. This applies even if teams use different names or rosters. Teams must disclose affiliations, and administration may reject or disqualify teams where an organizational conflict is confirmed.
 
 **Q: What counts as a team's core?**  
 A: For a VRS-matched team, the reference roster is the five players on its matched VRS roster in the 2 November 2026 snapshot. For a non-VRS team, it is the five original registered starters. At least three players from the applicable reference roster must play the entirety of every match.
