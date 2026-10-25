@@ -71,12 +71,16 @@ Green Pepper operates as an open-registration Tier-2 structured competition. Sea
 ## Registration and Entry Fee
 
 - The entry fee is **€250 per team**.
-- The tournament is limited to **24 accepted teams**.
+- The tournament requires **24 accepted teams**.
 - Registration may close early if all team slots are filled.
 - Registration is not complete until the required registration and payment steps have been completed.
 - Payment instructions and the registration link will be published through official Green Pepper channels.
 - Teams must submit an eligible roster and accurate player/account information.
 - Roster changes and substitutions are governed by the [Rulebook](RULEBOOK.md).
+
+### Registration Fee Refund Guarantee
+
+If fewer than **24 teams** are accepted by the registration deadline, **or** if Green Pepper Season 1 does not obtain the intended **VRS status/alignment** required to proceed as advertised, **all registration fees paid by all teams will be refunded in full**. Either condition alone triggers the guarantee, and it applies to every team that has paid a registration fee.
 
 ## Roster and Eligibility
 
