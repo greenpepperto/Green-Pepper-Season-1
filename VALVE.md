@@ -39,6 +39,10 @@ Green Pepper Season 1 uses **open registration** on a **first come , first serve
 
 VRS eligibility and ranking do not remove a team's obligation to complete registration, meet roster requirements, pay the entry fee, and comply with the Rulebook.
 
+### Registration Fee Refund Guarantee
+
+Green Pepper Season 1 requires a full field of **24 accepted teams** and the tournament's advertised **VRS-aligned status** to proceed as planned. If fewer than 24 teams are accepted by the registration deadline, **or** if the tournament does not obtain the intended VRS status/alignment required to proceed as advertised, **all registration fees paid by all teams will be refunded in full**. This guarantee applies to every team that has paid a registration fee, not only teams directly affected by the shortfall or status issue. The refund condition is triggered if either requirement is not met.
+
 ## 3. VRS Snapshot and Direct Playoff Qualification
 
 The tournament uses the official VRS ranking snapshot dated **2 November 2026**.
