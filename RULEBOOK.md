@@ -78,10 +78,11 @@
 - **1.2.2** Green Pepper Season 1 is an open-registration online European CS2 tournament. VRS rankings are used for eligibility assessment, seeding, and direct playoff qualification; they are not invitations to participate.
 - **1.2.3** The entry fee is **€250 per team**. Payment instructions and deadlines will be communicated through official Green Pepper channels.
 - **1.2.4** Registration is complete only after all required details are submitted and payment is confirmed.
-- **1.2.5** Entry fees are non-refundable once a team has been accepted, except where Green Pepper administration announces otherwise or applicable law requires otherwise.
-- **1.2.6** The tournament is limited to **24 accepted teams**. Registration may close once all slots are filled.
-- **1.2.7** A team captain must be designated during registration. Captain changes must be reported to administration; the replacement captain must be on the approved roster.
-- **1.2.8** Teams must provide accurate team, player, Steam, and FACEIT information. False or misleading information may result in rejection or disqualification.
+- **1.2.5** The tournament requires **24 accepted teams** and the intended **VRS-aligned status** advertised for Green Pepper Season 1.
+- **1.2.6** If fewer than 24 teams are accepted by the registration deadline, **or** if the tournament does not obtain the intended VRS status/alignment required to proceed as advertised, **all registration fees paid by all teams will be refunded in full**. The refund guarantee applies to every team that has paid, regardless of whether a particular team caused or was directly affected by the shortfall or status issue. Either condition alone triggers the full refund guarantee.
+- **1.2.7** The tournament is limited to **24 accepted teams**. Registration may close once all slots are filled.
+- **1.2.8** A team captain must be designated during registration. Captain changes must be reported to administration; the replacement captain must be on the approved roster.
+- **1.2.9** Teams must provide accurate team, player, Steam, and FACEIT information. False or misleading information may result in rejection or disqualification.
 
 ### 1.3 Roster Submission
 
@@ -583,6 +584,9 @@ A: Yes. Every player must use their own eligible FACEIT account and have FACEIT 
 
 **Q: How does VRS qualification work?**  
 A: Eight eligible, registered teams with the highest rankings in the fixed 2 November 2026 VRS snapshot receive direct places in the Playoffs. These are direct playoff qualifications within an open-registration tournament, not invitations to participate.
+
+**Q: Will registration fees be refunded if the tournament does not reach 24 teams or does not obtain its intended VRS status/alignment?**  
+A: Yes. If fewer than 24 teams are accepted by the registration deadline, or if Green Pepper Season 1 does not obtain the intended VRS status/alignment required to proceed as advertised, all registration fees paid by all teams will be refunded in full. Either condition triggers the guarantee.
 
 **Q: What happens to teams that do not receive a direct VRS playoff place?**  
 A: Sixteen teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. Eight Swiss teams advance to the Playoffs and receive seeds 9–16 based on qualification path (3-0, then 3-1, then 3-2), and initial Swiss seed. The eight direct VRS qualifiers receive seeds 1-8.
