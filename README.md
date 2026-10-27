@@ -31,8 +31,8 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 - **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
 - **VALVE FILE:** [VALVE.md](VALVE.md)
 - **Socials:** [Socials](https://linktr.ee/greenpepperto)
-- **Registration:** [LINK](https://forms.gle/yHyw7498dt7TkQh96)
-- **Entry Fee:** €250 per team; [PAYPAL PAYMENT](https://paypal.me/GreenPepperTO)
+- **Registration:** [Website](https://www.playgreenpepper.com/)
+- **Entry Fee:** €250 per team; 
 - **Platform:** All official matches are played through FACEIT
 - **Anti-Cheat:** FACEIT Anti-Cheat is mandatory for all players in official matches
 
