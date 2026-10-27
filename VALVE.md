@@ -21,7 +21,7 @@ This document summarizes the Valve Regional Standings (VRS)-related structure an
 | VRS Snapshot | 2 November 2026 |
 | Tournament Dates | 28 November – 13 December 2026 |
 | Format | VRS direct Playoff qualification + 16-team Swiss Stage + 16-team Single-Elimination Playoffs |
-| Grand Final | Best-of-Five (BO5), scheduled for 13 December 2026 at 16:00 CET |
+| Grand Final | Best-of-Five (BO5), scheduled for 13 December 2026 at 15:00 CET |
 
 All matches are played online. There is no LAN venue or physical attendance requirement.
 
