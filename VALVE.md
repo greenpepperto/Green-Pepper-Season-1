@@ -140,9 +140,9 @@ The current published timeline is:
 | 24–27 November 2026 | Swiss seeding and match schedule published |
 | 28 November 2026 | Swiss Stage begins |
 | 28 November – 6 December 2026 | Swiss Stage match days |
-| 7 December 2026 | Swiss standings confirmation and Playoff seeding |
-| 8–12 December 2026 | Playoff match days |
-| 13 December 2026 | Grand Final at 16:00 CET |
+| 7-8 December 2026 | Swiss standings confirmation and Playoff seeding / Rest |
+| 9–12 December 2026 | Playoff match days |
+| 13 December 2026 | Grand Final at 15:00 CET |
 
 The full day-by-day match windows are published in [`SCHEDULE.md`](SCHEDULE.md). Exact pairings and individual match times are confirmed by Green Pepper administration.
 
@@ -165,7 +165,7 @@ The total advertised prize pool is **€5,000**. Prize eligibility, payment proc
 - [`RULEBOOK.md`](RULEBOOK.md) — Binding competition rules, VRS qualification, roster requirements, match procedures and penalties.
 - [`SCHEDULE.md`](SCHEDULE.md) — Registration timeline, Swiss match windows, Playoff schedule and scheduling rules.
 - Official X: [@GreenPepperTO](https://x.com/GreenPepperTO)
-- Official website: Building
+- Official website: (https://www.playgreenpepper.com/)
 
 Teams are responsible for reading the current versions of the official documents. Where this summary conflicts with the Rulebook, the Rulebook and the latest official organizer-approved announcements govern.
 
