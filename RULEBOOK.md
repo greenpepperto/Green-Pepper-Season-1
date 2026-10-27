@@ -8,7 +8,7 @@
 **Entry Fee:** €250 per team  
 **Prize Pool:** €5,000  
 **VRS Snapshot:** 2 November 2026  
-**Last Updated:** 22 October 2026
+**Last Updated:** 27 October 2026
 **Format:** Eight eligible VRS-ranked teams qualify directly for the 16-team Playoffs; the remaining 16 teams contest a Swiss Stage for the eight remaining playoff places.
 
 ---
@@ -44,9 +44,9 @@
    - [5.3 Game Updates](#53-game-updates)
    - [5.4 Internet and Hardware Issues](#54-internet-and-hardware-issues)
 6. [Broadcast and Media](#6-broadcast-and-media)
-   - [6.1 Player Streaming](#61-community-broadcasting)
-   - [6.2 Community Broadcasting](#62-official-broadcast-rights)
-   - [6.3 Spectator Access](#63-co-streaming)
+   - [6.1 Community Broadcasting](#61-community-broadcasting)
+   - [6.2 Broadcasting Rights](#62-official-broadcast-rights)
+   - [6.3 Co-Streaming](#63-co-streaming)
 7. [Penalties and Prohibited Conduct](#7-penalties-and-prohibited-conduct)
    - [7.1 Cheating and Third-Party Software](#71-cheating-and-third-party-software)
    - [7.2 Exploits and Illegal Actions](#72-exploits-and-illegal-actions)
@@ -447,11 +447,11 @@ If Valve or CS2 updates the map pool after the event has already started, the ev
 
 ### 6.1 Community Broadcasting
 
-- **6.2.1** Community casters who wish to broadcast matches must request permission through the official Green Pepper contact channel before broadcasting.
-- **6.2.2** Approved broadcasters must follow technical, delay, branding, and conduct conditions provided by administration.
-- **6.2.3** Participation in the tournament or access to a match room does not automatically grant broadcast permission.
-- **6.2.4** Player Streaming, often called "POV Streaming", is not allowed at any point of the tournament.
-- **6.2.5** Green Pepper may approve, restrict, or revoke community broadcast permission to protect competitive integrity or official broadcast arrangements.
+- **6.1.1** Community casters who wish to broadcast matches must request permission through the official Green Pepper contact channel before broadcasting.
+- **6.1.2** Approved broadcasters must follow technical, delay, branding, and conduct conditions provided by administration.
+- **6.1.3** Participation in the tournament or access to a match room does not automatically grant broadcast permission.
+- **6.1.4** Player Streaming, often called "POV Streaming", is allowed under the condition that the player(s) notify the admins prior to the match, with a mandatory 120 seconds of added delay.
+- **6.1.5** Green Pepper may approve, restrict, or revoke community broadcast permission to protect competitive integrity or official broadcast arrangements.
 
 ### 6.2 Official Broadcast Rights
 
@@ -610,7 +610,7 @@ A: Only in a verifiable emergency and subject to administration approval.
 A: Pause where the platform allows, notify the opponent and administration immediately, and follow their instructions. A replay is not automatic.
 
 **Q: Can I stream my POV or cast a match?**  
-A: No, streaming your own POV of a match is not allowed. Community broadcasting and co-streaming require prior approval from Green Pepper.
+A: Yes, you can stream your POV if you notify the admins and have an aditional 120s of delay. Community broadcasting and co-streaming require prior approval from Green Pepper.
 
 **Q: How do I submit a protest?**  
 A: Use the official Green Pepper support channel and submit evidence. The standard deadline is 24 hours after the match concludes unless a different deadline is announced.
