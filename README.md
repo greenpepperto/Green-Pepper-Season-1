@@ -3,9 +3,10 @@
 Official tournament information, rules, schedule, and documentation for Green Pepper Season 1.
 
 <h1 align="center">Green Pepper Season 1</h1>
-<img width="1398" height="601" alt="Green Pepper Season 1 banner" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
+<img width="1398" height="601" alt="Green Pepper Season 1 banner" src="https://github.com/user-attachments/assets/bcbef703-dc01-42ae-9c5e-112d2a4f4caa" />
 
-<p align="center">
+<p align="center"><img width="1367" height="624" alt="GREENPEPPERSS" src="https://github.com/user-attachments/assets/bcbef703-dc01-42ae-9c5e-112d2a4f4caa" />
+
   <b>Counter-Strike 2 • Europe • Online Tournament</b><br/>
   <b>VRS-Aligned Tournament </b>
 </p>
