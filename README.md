@@ -66,7 +66,7 @@ Final match times, registration/payment instructions, and VRS eligibility detail
 
 ## Tournament Classification
 
-Green Pepper operates as an open-registration Tier-2 structured competition. Season 1 is run in alignment with Valve Regional Standings (VRS) integrity guidance. Valve Regional Standings (VRS) are referenced for seeding integrity and competitive structure. This event does NOT utilize Direct VRS Invites. Every team enters through fully open registration, and the top 8 seeded teams (determined by VRS rank) receive a bye directly to the Playoffs as a seeding outcome, not an invitation. This is not a casual or community cup; it is a professionally-operated tournament adhering to competitive Counter-Strike 2 standards.Please follow the rule book. [Rulebook](RULEBOOK.md).
+Green Pepper operates as an open-registration Tier-2 structured competition. Season 1 uses Valve Regional Standings (VRS) for ranking integrity and competitive seeding. This event does NOT utilize Direct VRS Invites: every team enters through open registration. The eight direct Playoff places are awarded through published ranking criteria: the eight highest-ranked eligible VRS teams under the standard format, or, if only six eligible VRS teams are available, six VRS teams plus one HLTV European Ranking qualifier and one FACEIT Average Elo qualifier. Direct qualification is a seeding outcome, not an invitation. This is a professionally operated tournament adhering to competitive Counter-Strike 2 standards. Please follow the [Rulebook](RULEBOOK.md).
 
 ## Registration and Entry Fee
 
