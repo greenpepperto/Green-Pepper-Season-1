@@ -45,17 +45,18 @@ All matches are played online. There is no LAN venue, on-site check-in, venue-ba
 
 ## Tournament Format
 
-### VRS Direct Qualification
+### Direct Playoff Qualification
 
-- Eight teams qualify directly for the Playoffs based on the official Valve Regional Standings (VRS).
-- Direct places go to the eight highest-ranked eligible teams among accepted tournament entrants, using the official VRS ranking snapshot taken on **2 November 2026**.
+- Eight teams qualify directly for the 16-team Playoffs.
+- **Standard format:** If at least eight eligible VRS-ranked teams are among accepted entrants, the eight highest-ranked eligible VRS teams qualify directly using the official VRS snapshot dated **2 November 2026**.
+- **Six-team VRS contingency:** If only six eligible VRS teams are available, those six qualify directly. The seventh place goes to the highest-ranked eligible team in the **HLTV European Ranking dated 2 November 2026**; the eighth place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of **15 November 2026**. Teams already qualified are excluded from the fallback categories.
 - Teams must be registered, accepted and eligible by the registration deadline of **15 November 2026**.
-- If a direct-qualifying team is not registered or is ruled ineligible, the place passes to the next-highest-ranked eligible registered team.
+- If a selected team is ineligible or withdraws before the qualification list is finalized, the place passes to the next eligible team under the corresponding criterion.
 - The list of direct qualifiers will be published after registration closes and eligibility checks are complete.
 
 ### Swiss Stage
 
-- **Participants:** 16 teams that do not receive a direct VRS playoff place.
+- **Participants:** 16 teams that do not receive one of the eight direct Playoff places.
 - **Format:** 16-team Swiss Stage.
 - **Match format:** Best-of-3 (BO3).
 - **Qualification:** A team advances to the Playoffs after three match wins.
@@ -66,7 +67,7 @@ All matches are played online. There is no LAN venue, on-site check-in, venue-ba
 
 ### Playoffs
 
-- **Participants:** 16 teams — eight VRS direct qualifiers and eight Swiss Stage qualifiers.
+- **Participants:** 16 teams — eight direct qualifiers under the standard or six-team contingency criteria, and eight Swiss Stage qualifiers.
 - **Format:** Single-Elimination bracket.
 - **Round of 16, Quarter-finals and Semi-finals:** BO3.
 - **Grand Final:** BO5, unless the organizers announce otherwise before the Playoffs begin.
@@ -77,13 +78,13 @@ All matches are played online. There is no LAN venue, on-site check-in, venue-ba
 
 ## Tournament Timeline and Match Schedule
 
-All times below are **CET (Central European Time)**. The tournament is played online through FACEIT. Swiss Stage match start slots are scheduled between **11:00 and 20:30 CET**. Exact pairings and individual match times will be announced by the tournament administration; Swiss pairings depend on results from previous rounds.
+All times below are **CET (Central European Time)**. The tournament is played online through FACEIT. **Every Swiss Stage match from Round 1 through Round 5 is scheduled to start at 17:30 CET.** Exact pairings will be announced by the tournament administration; Swiss pairings depend on results from previous rounds.
 
 ### Swiss Stage — Match Schedule
 
 | Day | Date | Stage | Match Window |
 | --- | --- | --- | --- |
-| **Day 1** | Saturday, 28 November 2026 | Swiss Stage — Round 1 / 0-0 matches | 11:00–20:30 CET |
+| **Day 1** | Saturday, 28 November 2026 | Swiss Stage — Round 1 / 0-0 matches | 17:30 CET |
 | **Day 2** | Sunday, 29 November 2026 | Swiss Stage — Round 1 / (remaining matches) | 11:00–20:30 CET |
 | **Day 3** | Monday, 30 November 2026 | Swiss Stage — Round 2 /  1-0 matches | 11:00–20:30 CET |
 | **Day 4** | Tuesday, 1 December 2026 | Swiss Stage — Round 2 /  0-1 matches | 11:00–20:30 CET |
@@ -107,7 +108,7 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 ### Match Schedule Notes
 
-- **11:00–20:30 CET** is the available match start window on scheduled match days, not a guarantee that every time slot will be used.
+- **17:30 CET** is the scheduled start time for every Swiss Stage match in Rounds 1–5.
 - Each team's exact start time and opponent will be published by tournament administration.
 - Swiss opponents for Rounds 2–5 depend on match records and cannot all be fixed in advance.
 - The administration may publish match-specific adjustments where necessary; teams must follow the latest official schedule.
@@ -118,7 +119,7 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 ### Match Times and Availability
 
-- Scheduled match starts may be assigned between **11:00 and 20:30 CET** during the Swiss Stage and scheduled Playoff match days, unless a specific time is published for the match.
+- Every Swiss Stage match in Rounds 1–5 is scheduled to start at **17:30 CET**. Playoff match start times will be published by tournament administration.
 - The **Grand Final is scheduled for 13 December 2026 at 16:00 CET**.
 - The published match schedule will identify each match's exact start time and any deadline for completing the series.
 - Teams must be ready in their FACEIT matchroom at the scheduled time, with all eligible players available and FACEIT Anti-Cheat running.
@@ -159,11 +160,11 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 ## VRS Seeding and Direct Playoff Qualification
 
-The tournament uses the **official VRS Global Ranking snapshot dated 2 November 2026** to determine the eight direct Playoff qualifiers and the initial seeding structure.
+The tournament uses the official VRS snapshot dated **2 November 2026** for VRS qualification and seeding. If only six eligible VRS teams are available, the two remaining direct Playoff places are allocated using the HLTV European Ranking dated 2 November 2026 and the average FACEIT Elo of the five registered starters, recorded at the end of 15 November 2026, as specified in the Rulebook.
 
 ### Direct Playoff Qualifiers — Seeds #1–#8
 
-The eight highest-ranked teams that are registered, accepted and eligible at the time of verification receive direct entry to the Playoffs.
+Under the standard format, the eight highest-ranked eligible VRS teams receive direct entry. If only six eligible VRS teams are available, the six VRS teams plus the HLTV European Ranking and FACEIT Average Elo qualifiers receive the eight direct places.
 
 | Playoff Seed | Team Assignment |
 | ---: | --- |
@@ -180,7 +181,7 @@ If a team is not registered or is ruled ineligible, its place passes to the next
 
 ### Swiss Stage Seeds — #1–#16
 
-The 16 eligible teams that do not receive direct Playoff qualification compete in the Swiss Stage. Their initial Swiss seeds are assigned by their order in the **2 November 2026 VRS Global Ranking**, among those 16 teams.
+The 16 eligible teams that do not receive direct Playoff qualification compete in the Swiss Stage. Their initial seeds are assigned using the applicable seeding criteria in the Rulebook, including VRS, HLTV European Ranking and FACEIT Average Elo where required.
 
 | Swiss Seed | Team Assignment |
 | ---: | --- |
@@ -286,7 +287,7 @@ By entering Green Pepper Season 1, all teams agree to be bound by this schedulin
 6. Before publication, the organizers should confirm the registration URL, payment instructions, official support/Discord link, exact daily match times, VRS eligibility, Swiss tiebreak procedure and final match windows.
 
 ---
-Last Update : 24/10/2026
+Last Update : 02/11/2026
 
 **Green Pepper Season 1**  
 *Bring the Heat. Own the Game.*
