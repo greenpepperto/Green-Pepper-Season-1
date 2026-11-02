@@ -84,15 +84,15 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 | Day | Date | Stage | Match Window |
 | --- | --- | --- | --- |
-| **Day 1** | Saturday, 28 November 2026 | Swiss Stage — Round 1 / 0-0 matches | 17:30 CET |
-| **Day 2** | Sunday, 29 November 2026 | Swiss Stage — Round 1 / (remaining matches) | 17:30 CET |
-| **Day 3** | Monday, 30 November 2026 | Swiss Stage — Round 2 /  1-0 matches | 17:30 CET |
-| **Day 4** | Tuesday, 1 December 2026 | Swiss Stage — Round 2 /  0-1 matches | 17:30 CET |
-| **Day 5** | Wednesday, 2 December 2026 | Swiss Stage — Round 3 / 2-0 matches 0-2 matches | 17:30 CET |
-| **Day 6** | Thursday, 3 December 2026 | Swiss Stage — Round 3 / 1-1 matches | 17:30 CET |
-| **Day 7** | Friday, 4 December 2026 | Swiss Stage — Round 4   / 2-1 matches | 17:30 CET |
-| **Day 8** | Saturday, 5 December 2026 | Swiss Stage — Round 4 / 1-2 matches |17:30 CET |
-| **Day 9** | Sunday, 6 December 2026 | Swiss Stage — Round 5   / 2-2 matches | 17:30 CET |
+| **Day 1** | Saturday, 28 November 2026 | Swiss Stage — Round 1 / 0-0 matches | 11:00 - 22:30 CET |
+| **Day 2** | Sunday, 29 November 2026 | Swiss Stage — Round 1 / (remaining matches) | 11:00 - 22:30 CET |
+| **Day 3** | Monday, 30 November 2026 | Swiss Stage — Round 2 /  1-0 matches |11:00 - 22:30 CET |
+| **Day 4** | Tuesday, 1 December 2026 | Swiss Stage — Round 2 /  0-1 matches | 11:00 - 22:30 CET |
+| **Day 5** | Wednesday, 2 December 2026 | Swiss Stage — Round 3 / 2-0 matches 0-2 matches | 11:00 - 22:30 CET |
+| **Day 6** | Thursday, 3 December 2026 | Swiss Stage — Round 3 / 1-1 matches | 11:00 - 22:30 CET |
+| **Day 7** | Friday, 4 December 2026 | Swiss Stage — Round 4   / 2-1 matches | 11:00 - 22:30 CET |
+| **Day 8** | Saturday, 5 December 2026 | Swiss Stage — Round 4 / 1-2 matches | 11:00 - 22:30 CET |
+| **Day 9** | Sunday, 6 December 2026 | Swiss Stage — Round 5   / 2-2 matches | 11:00 - 22:30 CET |
 | **Day 10** | Monday, 7 December 2026 | Swiss standings confirmation and Playoff seeding / Rest day| Administration / no regular match window |
 | **Day 11** | Tuesday, 8 December 2026 | Rest Day | Administration / no regular match window |
 
@@ -108,7 +108,7 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 ### Match Schedule Notes
 
-- **17:30 CET** is the scheduled start time for every Swiss Stage match in Rounds 1–5.
+- **11:00 CET** is the scheduled start time for every Swiss Stage match in Rounds 1–5.
 - Each team's exact start time and opponent will be published by tournament administration.
 - Swiss opponents for Rounds 2–5 depend on match records and cannot all be fixed in advance.
 - The administration may publish match-specific adjustments where necessary; teams must follow the latest official schedule.
