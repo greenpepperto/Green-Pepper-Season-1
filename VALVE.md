@@ -92,7 +92,7 @@ The tournament's seeding procedures are described in the Rulebook. Where a team 
 
 1. The official VRS snapshot dated **2 November 2026** is considered first for eligible VRS-matched teams.
 2. If a team has no VRS ranking, the HLTV ranking from the same date may be used where applicable.
-3. If the team has neither a VRS nor an HLTV ranking, the average FACEIT ELO of its registered players at the end of 2 November 2026 may be used.
+3. If the team has neither a VRS nor an HLTV ranking, the average FACEIT Elo of the five registered starting players, recorded at the end of 15 November 2026 may be used.
 4. A player without a current FACEIT ELO uses their last known ELO.
 5. A player who has never had a FACEIT ELO is assigned a value of **1000** for this calculation.
 
