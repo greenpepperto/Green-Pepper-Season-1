@@ -1,4 +1,6 @@
 
+**Last Updated: 2 November 2026**
+
 This document summarizes the Valve Regional Standings (VRS)-related structure and tournament information for **Green Pepper Season 1**. It should be read together with [`README.md`](README.md), [`RULEBOOK.md`](RULEBOOK.md), and [`SCHEDULE.md`](SCHEDULE.md).
 
 ---
@@ -20,8 +22,8 @@ This document summarizes the Valve Regional Standings (VRS)-related structure an
 | Total Prize Pool | €5,000 |
 | VRS Snapshot | 2 November 2026 |
 | Tournament Dates | 28 November – 13 December 2026 |
-| Format | VRS direct Playoff qualification + 16-team Swiss Stage + 16-team Single-Elimination Playoffs |
-| Grand Final | Best-of-Five (BO5), scheduled for 13 December 2026 at 15:00 CET |
+| Format | 8 direct Playoff qualifiers + 16-team BO3 Swiss Stage + 16-team Single-Elimination Playoffs |
+| Grand Final | Best-of-Five (BO5), scheduled for 13 December 2026 at 16:00 CET |
 
 All matches are played online. There is no LAN venue or physical attendance requirement.
 
@@ -34,8 +36,9 @@ Green Pepper Season 1 uses **open registration** on a **first come , first serve
 - The tournament is limited to 24 accepted teams.
 - Registration is not complete until all required registration details and payment have been confirmed.
 - The entry fee is €250 per team.
-- The eight highest-ranked eligible teams among accepted registered entrants receive direct places in the Playoffs based on the fixed VRS snapshot described below.
-- The remaining 16 teams compete in the Swiss Stage for the eight remaining Playoff places.
+- Under the standard format, the eight highest-ranked eligible VRS teams among accepted registered entrants receive direct places in the Playoffs.
+- If only six eligible VRS teams are available, those six qualify directly; the seventh place goes to the highest-ranked eligible team in the HLTV European Ranking dated 2 November 2026, and the eighth place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026.
+- The remaining 16 teams compete in the BO3 Swiss Stage for the eight remaining Playoff places.
 
 VRS eligibility and ranking do not remove a team's obligation to complete registration, meet roster requirements, pay the entry fee, and comply with the Rulebook.
 
@@ -49,10 +52,10 @@ The tournament uses the official VRS ranking snapshot dated **2 November 2026**.
 
 Eight teams receive direct qualification to the 16-team Playoffs:
 
-1. Eligible teams are assessed using the official VRS snapshot dated 2 November 2026.
-2. Direct places are awarded to the eight highest-ranked eligible teams among accepted registered entrants.
+1. **Standard format:** If at least eight eligible VRS-ranked teams are among the accepted entrants, the eight highest-ranked eligible VRS teams qualify directly using the official VRS snapshot dated 2 November 2026.
+2. **Six-team VRS contingency:** If only six eligible VRS-ranked teams are available, those six qualify directly. The seventh direct place goes to the highest-ranked eligible team in the HLTV European Ranking dated 2 November 2026, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026, excluding teams already qualified.
 3. Teams must be registered, accepted and eligible under the tournament rules.
-4. If a direct-qualifying team is not registered or is ruled ineligible, its place passes to the next-highest-ranked eligible registered team.
+4. If a selected team is not registered, is ruled ineligible or withdraws before the qualification list is finalized, the place passes to the next eligible team under the corresponding ranking criterion.
 5. Green Pepper will announce the direct qualifiers after registration and eligibility checks, before the Swiss Stage begins.
 6. Changes in VRS rankings after the snapshot date do not change the fixed snapshot used for the tournament's initial VRS seeding and qualification decisions.
 
@@ -99,8 +102,9 @@ The tournament administration will apply the documented seeding process and publ
 
 ### Direct Playoff Qualifiers
 
-- **8 teams**
-- Selected from the highest-ranked eligible registered entrants in the 2 November 2026 VRS snapshot.
+- **8 teams** qualify directly for the Playoffs.
+- Standard format: the eight highest-ranked eligible VRS teams among accepted entrants.
+- Six-team contingency: six VRS teams, one HLTV European Ranking qualifier and one FACEIT Average Elo qualifier, as defined in Section 3 and the Rulebook.
 - Advance directly to the 16-team Playoff bracket.
 
 ### Swiss Stage
@@ -118,7 +122,7 @@ The tournament administration will apply the documented seeding process and publ
 
 The Playoffs consist of 16 teams:
 
-- 8 VRS direct qualifiers.
+- 8 direct qualifiers under the standard or six-team contingency criteria.
 - 8 Swiss Stage qualifiers.
 - Single-Elimination bracket.
 - Round of 16, Quarter-finals and Semi-finals: **BO3**.
@@ -142,7 +146,7 @@ The current published timeline is:
 | 28 November – 6 December 2026 | Swiss Stage match days |
 | 7-8 December 2026 | Swiss standings confirmation and Playoff seeding / Rest |
 | 9–12 December 2026 | Playoff match days |
-| 13 December 2026 | Grand Final at 15:00 CET |
+| 13 December 2026 | Grand Final at 16:00 CET |
 
 The full day-by-day match windows are published in [`SCHEDULE.md`](SCHEDULE.md). Exact pairings and individual match times are confirmed by Green Pepper administration.
 
