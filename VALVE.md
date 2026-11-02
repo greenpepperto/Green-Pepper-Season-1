@@ -37,7 +37,7 @@ Green Pepper Season 1 uses **open registration** on a **first come , first serve
 - Registration is not complete until all required registration details and payment have been confirmed.
 - The entry fee is €250 per team.
 - Under the standard format, the eight highest-ranked eligible VRS teams among accepted registered entrants receive direct places in the Playoffs.
-- If only six eligible VRS teams are available, those six qualify directly; the seventh place goes to the highest-ranked eligible team in the HLTV European Ranking dated 2 November 2026, and the eighth place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026.
+- If only six eligible VRS teams are available, those six qualify directly; the seventh place goes to the highest-ranked eligible team in the HLTV World Ranking dated 2 November 2026, and the eighth place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026.
 - The remaining 16 teams compete in the BO3 Swiss Stage for the eight remaining Playoff places.
 
 VRS eligibility and ranking do not remove a team's obligation to complete registration, meet roster requirements, pay the entry fee, and comply with the Rulebook.
@@ -53,7 +53,7 @@ The tournament uses the official VRS ranking snapshot dated **2 November 2026**.
 Eight teams receive direct qualification to the 16-team Playoffs:
 
 1. **Standard format:** If at least eight eligible VRS-ranked teams are among the accepted entrants, the eight highest-ranked eligible VRS teams qualify directly using the official VRS snapshot dated 2 November 2026.
-2. **Six-team VRS contingency:** If only six eligible VRS-ranked teams are available, those six qualify directly. The seventh direct place goes to the highest-ranked eligible team in the HLTV European Ranking dated 2 November 2026, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026, excluding teams already qualified.
+2. **Six-team VRS contingency:** If only six eligible VRS-ranked teams are available, those six qualify directly. The seventh direct place goes to the highest-ranked eligible team in the HLTV World Ranking dated 2 November 2026, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026, excluding teams already qualified.
 3. Teams must be registered, accepted and eligible under the tournament rules.
 4. If a selected team is not registered, is ruled ineligible or withdraws before the qualification list is finalized, the place passes to the next eligible team under the corresponding ranking criterion.
 5. Green Pepper will announce the direct qualifiers after registration and eligibility checks, before the Swiss Stage begins.
@@ -104,7 +104,7 @@ The tournament administration will apply the documented seeding process and publ
 
 - **8 teams** qualify directly for the Playoffs.
 - Standard format: the eight highest-ranked eligible VRS teams among accepted entrants.
-- Six-team contingency: six VRS teams, one HLTV European Ranking qualifier and one FACEIT Average Elo qualifier, as defined in Section 3 and the Rulebook.
+- Six-team contingency: six VRS teams, one HLTV World Ranking qualifier and one FACEIT Average Elo qualifier, as defined in Section 3 and the Rulebook.
 - Advance directly to the 16-team Playoff bracket.
 
 ### Swiss Stage
