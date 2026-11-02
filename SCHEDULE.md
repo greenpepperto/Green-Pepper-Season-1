@@ -208,7 +208,7 @@ The official team names and seed positions will be published after registration 
 
 ## Playoff Seeding and Bracket
 
-The Playoffs feature 16 teams: the eight VRS direct qualifiers at seeds **#1–#8** and the eight Swiss Stage qualifiers at seeds **#9–#16**. Swiss qualifiers are ordered by their final Swiss results and the published tiebreakers.
+The Playoffs feature 16 teams: eight direct qualifiers at seeds **#1–#8** (eight VRS teams under the standard format, or six VRS teams plus the HLTV European Ranking and FACEIT Average Elo qualifiers under the six-team contingency) and eight Swiss Stage qualifiers at seeds **#9–#16**. Swiss qualifiers are ordered by their final Swiss results and the published tiebreakers.
 
 ### Round of 16 — Proposed Seed Pairings
 
@@ -281,7 +281,7 @@ By entering Green Pepper Season 1, all teams agree to be bound by this schedulin
 
 1. This schedule reflects the current proposed organizer dates. Match windows remain provisional until approved by Green Pepper administration.
 2. Registration may close early if all 24 team slots are filled.
-3. VRS direct qualification is based on the official ranking snapshot taken on **2 November 2026**, subject to eligibility and acceptance.
+3. Direct Playoff qualification follows the VRS snapshot and, if the six-team contingency applies, the HLTV European Ranking and FACEIT Average Elo criteria stated in the Rulebook.
 4. Registration closes on **15 November 2026 at 23:59 CET**, or earlier if all places are filled.
 5. The Grand Final is scheduled for **13 December 2026 at 16:00 CET**. Any change will be announced through the official Green Pepper channels.
 6. Before publication, the organizers should confirm the registration URL, payment instructions, official support/Discord link, exact daily match times, VRS eligibility, Swiss tiebreak procedure and final match windows.
