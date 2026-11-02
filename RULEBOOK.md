@@ -8,7 +8,7 @@
 **Entry Fee:** €250 per team  
 **Prize Pool:** €5,000  
 **VRS Snapshot:** 2 November 2026  
-**Last Updated:** 2 November 2026
+**Last Updated:** 2 November 2026  
 **Format:** Six eligible VRS-ranked teams qualify directly for the 16-team Playoffs. The remaining 18 teams compete in three groups of six, with nine group-stage qualifiers and one Play-In qualifier completing the Playoff field.
 
 ---
@@ -199,7 +199,7 @@ A team's seed is determined by their Valve Regional Standings (VRS) rank as of *
 - **2.5.2** Playoff seeds **1-6** are assigned to the six direct VRS qualifiers in their pre-event VRS order, with the highest-ranked eligible direct qualifier receiving Seed 1.
 - **2.5.3** Playoff seeds **7-16** are assigned to the ten Group Stage/Play-In qualifiers according to the Group Stage and Play-In seeding rules in Section 2.6.2. The nine direct Group Stage qualifiers occupy Seeds 7-15, and the Play-In winner receives Seed 16.
 - **2.5.4** All Playoff matches, including the Grand Final, are **Best-of-Three (BO3)**.
-- **2.5.5 Round of 16:** The opening matches are arranged so that the winners feed into the requested quarter-final paths:
+- **2.5.5 Round of 16:** The opening matches are arranged so that the winners feed into the published quarter-final paths:
 
 | Round of 16 Match | Match-up | Quarter-final path |
 |:--|:--|:--|
