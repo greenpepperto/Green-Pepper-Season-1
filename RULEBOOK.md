@@ -103,7 +103,7 @@ The five-player reference roster is fixed for roster-continuity checks:
 - **VRS-matched teams:** the five players on the team's matched official VRS roster in the **2 November 2026 VRS snapshot**.
 - **Non-VRS teams:** the five original starters submitted in the team's accepted registration.
 
-Teams must field at least **three of the five players** from their applicable reference roster for the entirety of every match, including the Swiss Stage and Playoffs. The qualifying three may differ from match to match; teams do not nominate three permanently fixed core players.
+Teams must field at least **three of the five players** from their applicable reference roster for the entirety of every match, including the Group Stage, Play-In, and Playoffs. The qualifying three may differ from match to match; teams do not nominate three permanently fixed core players.
 
 #### 1.4.2 VRS-matched teams
 
@@ -137,7 +137,7 @@ No two teams may use a shared core of three or more players from their applicabl
 
 #### 1.4.7 Roster changes
 
-- **Before and during the Swiss Stage:** roster changes may be requested, subject to administration approval. Approved changes do not alter the fixed five-player reference roster.
+- **Before and during the Group Stage and Play-In:** roster changes may be requested, subject to administration approval. Approved changes do not alter the fixed five-player reference roster.
 - **During the Playoffs:** teams may make no more than **two substitute-slot roster changes in total** across the Playoffs, limited to the Sub 1 / Sub 2 slots and subject to administration approval.
 - Replacing one player in either substitute slot counts as one change. Replacing both substitute-slot players counts as two changes.
 - Using a substitute already listed on the approved roster does not itself count as a substitute-slot roster change.
@@ -195,11 +195,11 @@ A team's seed is determined by their Valve Regional Standings (VRS) rank as of *
 
 ### 2.5 Playoffs
 
-- **2.4.1** The Playoffs consist of **16 teams** in a **single-elimination bracket**: six direct VRS qualifiers and ten Group Stage qualifiers.
-- **2.4.2** Playoff seeds **1-8** are assigned to the six direct VRS qualifiers in their pre-event VRS order, with the highest-ranked eligible direct qualifier receiving Seed 1.
-- **2.4.3** Playoff seeds **9-16** are assigned to the ten Group Stage qualifiers according to the Group Stage and Play-In seeding rules in Section 2.6.2. The nine direct Group Stage qualifiers occupy Seeds 7-15, and the Play-In winner receives Seed 16.
-- **2.4.4** All Playoff matches, including the Grand Final, are **Best-of-Three (BO3)**.
-- **2.4.5 Round of 16:** The opening matches are arranged so that the winners feed into the requested quarter-final paths:
+- **2.5.1** The Playoffs consist of **16 teams** in a **single-elimination bracket**: six direct VRS qualifiers and ten Group Stage qualifiers.
+- **2.5.2** Playoff seeds **1-6** are assigned to the six direct VRS qualifiers in their pre-event VRS order, with the highest-ranked eligible direct qualifier receiving Seed 1.
+- **2.5.3** Playoff seeds **7-16** are assigned to the ten Group Stage/Play-In qualifiers according to the Group Stage and Play-In seeding rules in Section 2.6.2. The nine direct Group Stage qualifiers occupy Seeds 7-15, and the Play-In winner receives Seed 16.
+- **2.5.4** All Playoff matches, including the Grand Final, are **Best-of-Three (BO3)**.
+- **2.5.5 Round of 16:** The opening matches are arranged so that the winners feed into the requested quarter-final paths:
 
 | Round of 16 Match | Match-up | Quarter-final path |
 |:--|:--|:--|
@@ -212,10 +212,10 @@ A team's seed is determined by their Valve Regional Standings (VRS) rank as of *
 | R16-7 | Seed 3 vs. Seed 14 | Winner advances to  Quarter-Final 4 |
 | R16-8 | Seed 2 vs. Seed 15 | Winner advances to  Quarter-Final 4 |
 
-- **2.4.6** The bracket paths preserve the seed structure aforementioned. The two highest seeded teams are not allowed to meet one another in the bracket until the Grand Final. There is no 3rd place decider match.
-- **2.4.7** Quarter-final winners advance to the semi-finals according to the published bracket, and the semi-final winners meet in the Grand Final. A team is eliminated after one playoff loss.
-- **2.4.8** No team may be reseeded after the bracket has started except to correct a documented administrative error.
-- **2.4.9** The Playoffs remain subject to the roster-change limits and three-of-five reference-roster rule in Section 1.
+- **2.5.6** The bracket paths preserve the seed structure aforementioned. The two highest seeded teams are not allowed to meet one another in the bracket until the Grand Final. There is no 3rd place decider match.
+- **2.5.7** Quarter-final winners advance to the semi-finals according to the published bracket, and the semi-final winners meet in the Grand Final. A team is eliminated after one playoff loss.
+- **2.5.8** No team may be reseeded after the bracket has started except to correct a documented administrative error.
+- **2.5.9** The Playoffs remain subject to the roster-change limits and three-of-five reference-roster rule in Section 1.
 
 ### 2.6 Seeding and Tiebreakers
 
@@ -312,21 +312,6 @@ If Valve or CS2 updates the map pool after the event has already started, the ev
 8. Team A removes one map.
 9. Team B removes one map.
 10. A knife round will be played to decide the starting sides in the remaining decider map.
-
-#### 3.4.3 Best-of-Five (BO5) Pick/Ban Process
-
-1. The higher-seeded team chooses whether to be **Team A** or **Team B**.
-2. Team A removes one map.
-3. Team B removes one map.
-4. Team A picks Map 1.
-5. Team B chooses the starting side on Map 1.
-6. Team B picks Map 2.
-7. Team A chooses the starting side on Map 2.
-8. Team A picks Map 3.
-9. Team B chooses the starting side on Map 3.
-10. Team B picks Map 4.
-11. Team A chooses the starting side on Map 4.
-12. A knife round will be played to decide the starting sides in the remaining decider map.
 
 ### 3.5 Servers and Region
 
