@@ -9,10 +9,10 @@
 **Prize Pool:** €5,000  
 **VRS Snapshot:** 2 November 2026  
 **Last Updated:** 2 November 2026
-**Format:** Eight direct Playoff places. If at least eight eligible VRS teams are registered, the top eight qualify through VRS. If only six eligible VRS teams are registered, the six VRS teams plus one HLTV European Ranking team and one FACEIT Average Elo team qualify directly. The remaining 16 teams contest the BO3 Swiss Stage for eight Playoff places.
+**Format:** Eight direct Playoff places. If at least eight eligible VRS teams are registered, the top eight qualify through VRS. If only six eligible VRS teams are registered, the six VRS teams plus one HLTV World Ranking team and one FACEIT Average Elo team qualify directly. The remaining 16 teams contest the BO3 Swiss Stage for eight Playoff places.
 
 > **FORMAT UPDATE — 2 NOVEMBER 2026**  
-> Green Pepper Season 1 remains an open-registration tournament with 24 teams. The standard format awards eight direct Playoff places to the highest-ranked eligible VRS teams. If only six eligible VRS teams are available among accepted entrants, the six VRS teams qualify directly, with the remaining two direct places allocated to the highest-ranked eligible team in the **HLTV European Ranking dated 2 November 2026** and the eligible team with the highest **average FACEIT Elo across its five registered starters**, recorded at the end of **15 November 2026**. The other 16 teams compete in the BO3 Swiss Stage, where eight qualify for the Playoffs. See Sections 2.1–2.4 for the binding criteria.
+> Green Pepper Season 1 remains an open-registration tournament with 24 teams. The standard format awards eight direct Playoff places to the highest-ranked eligible VRS teams. If only six eligible VRS teams are available among accepted entrants, the six VRS teams qualify directly, with the remaining two direct places allocated to the highest-ranked eligible team in the **HLTV World Ranking dated 2 November 2026** and the eligible team with the highest **average FACEIT Elo across its five registered starters**, recorded at the end of **15 November 2026**. The other 16 teams compete in the BO3 Swiss Stage, where eight qualify for the Playoffs. See Sections 2.1–2.4 for the binding criteria.
 
 ---
 
@@ -158,13 +158,13 @@ No two teams may use a shared core of three or more players from their applicabl
 
 ### 2.1 Seeding Rules
 
-A team's pre-event seed is determined using the following ranking data, in order: the official Valve Regional Standings (VRS) snapshot dated **2 November 2026**; the **HLTV European Ranking** dated **2 November 2026** for teams without a usable VRS ranking; and the average FACEIT Elo of the five registered starting players, recorded at the end of **15 November 2026**, for teams without a usable VRS or HLTV ranking. These fallback rankings are also used for the contingency qualification procedure in Section 2.2.
+A team's pre-event seed is determined using the following ranking data, in order: the official Valve Regional Standings (VRS) snapshot dated **2 November 2026**; the **HLTV World Ranking** dated **2 November 2026** for teams without a usable VRS ranking; and the average FACEIT Elo of the five registered starting players, recorded at the end of **15 November 2026**, for teams without a usable VRS or HLTV ranking. These fallback rankings are also used for the contingency qualification procedure in Section 2.2.
 
 ### 2.2 Direct Playoff Qualification
 
 - **2.2.1 Standard format:** If at least eight eligible VRS-ranked teams are among the accepted registered entrants, the eight highest-ranked eligible VRS teams qualify directly for the Playoffs.
 - **2.2.2 Six-team VRS contingency:** If only **six eligible VRS-ranked teams** are available among the accepted registered entrants, the six highest-ranked eligible VRS teams qualify directly for the Playoffs, and the two remaining direct Playoff places are allocated as follows:
-  1. **HLTV European Ranking:** The highest-ranked eligible team in the HLTV European Ranking dated **2 November 2026**, excluding the six teams already qualified through VRS, receives the seventh direct Playoff place.
+  1. **HLTV World Ranking:** The highest-ranked eligible team in the HLTV World Ranking dated **2 November 2026**, excluding the six teams already qualified through VRS, receives the seventh direct Playoff place.
   2. **FACEIT Average Elo:** The eligible team with the highest average FACEIT Elo among its five registered starting players, recorded at the end of **15 November 2026**, excluding all six VRS qualifiers and the HLTV-qualified team, receives the eighth direct Playoff place.
 - **2.2.3** A team may receive only one direct Playoff place. If a candidate in a fallback category has already qualified through another category, the next-highest eligible team in that category is considered.
 - **2.2.4** The FACEIT Average Elo calculation uses only the five registered starting players. Substitutes, coaches, and other staff are excluded. Green Pepper may verify the players' profiles and ratings before confirming qualification.
@@ -230,7 +230,7 @@ Swiss seeds 1-16 are assigned to the 16 teams competing in the Swiss Stage, in o
 ### 2.4 Playoffs
 
 - **2.4.1** The Playoffs consist of **16 teams** in a **single-elimination bracket**: eight direct qualifiers and eight Swiss Stage qualifiers.
-- **2.4.2** In the standard format, Playoff seeds **1-8** are assigned to the eight direct VRS qualifiers in VRS ranking order. If the six-team VRS contingency in Section 2.2 applies, seeds **1-6** are assigned to the VRS qualifiers in VRS ranking order, Seed **7** is assigned to the HLTV European Ranking qualifier, and Seed **8** is assigned to the FACEIT Average Elo qualifier.
+- **2.4.2** In the standard format, Playoff seeds **1-8** are assigned to the eight direct VRS qualifiers in VRS ranking order. If the six-team VRS contingency in Section 2.2 applies, seeds **1-6** are assigned to the VRS qualifiers in VRS ranking order, Seed **7** is assigned to the HLTV World Ranking qualifier, and Seed **8** is assigned to the FACEIT Average Elo qualifier.
 - **2.4.3** Playoff seeds **9-16** are assigned to the eight Swiss Stage qualifiers according to the final Swiss qualification ranking defined in Section 2.5.2. Seed 9 goes to the highest-ranked Swiss qualifier; Seed 16 goes to the lowest-ranked Swiss qualifier.
 - **2.4.4** All Playoff matches are **Best-of-Three (BO3)**, excluding the Grand Final, which is **Best-of-Five (BO5)**.
 - **2.4.5 Round of 16:** The opening matches are arranged so that the winners feed into the requested quarter-final paths:
@@ -255,14 +255,14 @@ Swiss seeds 1-16 are assigned to the 16 teams competing in the Swiss Stage, in o
 
 #### 2.5.1 Pre-event Seeding
 
-All 24 accepted teams are ordered using the official **VRS snapshot dated 2 November 2026** where a comparable VRS ranking exists. For teams without a comparable VRS ranking, the **HLTV European Ranking dated 2 November 2026** is used. For teams without either ranking, the average FACEIT Elo of the five registered starting players, recorded at the end of **15 November 2026**, is used. All rankings remain subject to eligibility and roster verification.
+All 24 accepted teams are ordered using the official **VRS snapshot dated 2 November 2026** where a comparable VRS ranking exists. For teams without a comparable VRS ranking, the **HLTV World Ranking dated 2 November 2026** is used. For teams without either ranking, the average FACEIT Elo of the five registered starting players, recorded at the end of **15 November 2026**, is used. All rankings remain subject to eligibility and roster verification.
 
 The VRS snapshot is used for tournament seeding and, where the standard format applies, direct Playoff qualification. The HLTV and FACEIT criteria provide the additional direct qualification places only if the six-team VRS contingency in Section 2.2 applies. This does not by itself mean Green Pepper Season 1 is officially VRS-ranked or endorsed by Valve.
 
 #### 2.5.2 Stage Seeding
 
 - **Swiss Stage seeds 1-16:** The 16 teams not awarded direct playoff places are seeded according to their order in the pre-event seeding list after the eight direct qualifiers are removed.
-- **Playoff seeds 1-8:** In the standard format, the eight VRS direct qualifiers use their pre-event VRS order. Under the six-team VRS contingency, seeds 1-6 are the VRS qualifiers, Seed 7 is the HLTV European Ranking qualifier, and Seed 8 is the FACEIT Average Elo qualifier.
+- **Playoff seeds 1-8:** In the standard format, the eight VRS direct qualifiers use their pre-event VRS order. Under the six-team VRS contingency, seeds 1-6 are the VRS qualifiers, Seed 7 is the HLTV World Ranking qualifier, and Seed 8 is the FACEIT Average Elo qualifier.
 - **Playoff seeds 9-16:** The eight Swiss qualifiers are ranked among themselves and then assigned sequentially to seeds 9-16. The highest-ranked Swiss qualifier receives Seed 9 and the eighth-ranked Swiss qualifier receives Seed 16.
 - Swiss qualifiers are ranked using these criteria, in order:
   1. Swiss record / qualification path: teams qualifying 3-0 rank ahead of teams qualifying 3-1, who rank ahead of teams qualifying 3-2.
@@ -590,13 +590,13 @@ Cheating, account sharing, stream sniping, match manipulation, harassment, and o
 A: Yes. Every player must use their own eligible FACEIT account and have FACEIT Anti-Cheat running for official matches.
 
 **Q: How does direct Playoff qualification work if only six eligible VRS teams are available?**  
-A: The six highest-ranked eligible VRS teams qualify directly. The seventh direct place goes to the highest-ranked eligible team in the HLTV European Ranking dated 2 November 2026, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026, excluding teams already qualified. If at least eight eligible VRS teams are available, the standard rule applies and the eight highest-ranked VRS teams qualify directly. Direct qualification is part of the open-registration format and is not an invitation to participate.
+A: The six highest-ranked eligible VRS teams qualify directly. The seventh direct place goes to the highest-ranked eligible team in the HLTV World Ranking dated 2 November 2026, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026, excluding teams already qualified. If at least eight eligible VRS teams are available, the standard rule applies and the eight highest-ranked VRS teams qualify directly. Direct qualification is part of the open-registration format and is not an invitation to participate.
 
 **Q: Will registration fees be refunded if the tournament does not reach 24 teams or does not obtain its intended VRS status/alignment?**  
 A: Yes. If fewer than 24 teams are accepted by the registration deadline, or if Green Pepper Season 1 does not obtain the intended VRS status/alignment required to proceed as advertised, all registration fees paid by all teams will be refunded in full. Either condition triggers the guarantee.
 
 **Q: What happens to teams that do not receive a direct Playoff place?**  
-A: Sixteen teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. Eight Swiss teams advance to the Playoffs and receive seeds 9–16 based on qualification path (3-0, then 3-1, then 3-2), and initial Swiss seed. The eight direct qualifiers receive seeds 1-8; under the six-team VRS contingency, these comprise six VRS teams, one HLTV European Ranking team, and one FACEIT Average Elo team.
+A: Sixteen teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. Eight Swiss teams advance to the Playoffs and receive seeds 9–16 based on qualification path (3-0, then 3-1, then 3-2), and initial Swiss seed. The eight direct qualifiers receive seeds 1-8; under the six-team VRS contingency, these comprise six VRS teams, one HLTV World Ranking team, and one FACEIT Average Elo team.
 
 **Q: Can multiple teams from the same esports organization participate?**  
 A: No. Only one team per organization may participate in Green Pepper Season 1. This applies even if teams use different names or rosters. Teams must disclose affiliations, and administration may reject or disqualify teams where an organizational conflict is confirmed.
