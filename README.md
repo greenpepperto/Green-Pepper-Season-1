@@ -50,7 +50,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 | Entry Fee | **€250 per team** |
 | Platform | **FACEIT** |
 | Anti-Cheat | **FACEIT Anti-Cheat — mandatory** |
-| Direct Playoff Qualification | **8 highest-ranked eligible VRS teams among registered entrants** |
+| Direct Playoff Qualification | **8 places: VRS-ranked qualifiers, with a published fallback if only 6 eligible VRS teams are available** |
 | Swiss Stage | **16 teams — BO3** |
 | Swiss Qualification | **3 wins to qualify; 3 losses to be eliminated** |
 | Minimum Teams Required to Start the Tournament:| **24** |
@@ -133,17 +133,15 @@ Registered team coaches may substitute as players only if they are listed on the
 
 ### VRS Direct Qualification
 
-**Eight teams qualify directly for the 16-team Playoffs** based on the official Valve Regional Standings (VRS).
+**Eight teams qualify directly for the 16-team Playoffs**. The standard route awards those places to the eight highest-ranked eligible VRS teams among accepted entrants, using the official VRS snapshot dated **2 November 2026**.
 
-- Direct places go to the eight highest-ranked eligible teams among accepted tournament entrants.
-- The ranking snapshot used is the official VRS ranking taken on **2 November 2026**. Registration remains open until 15 November; direct places are awarded among eligible accepted entrants using that fixed snapshot.
-- Teams must be registered, accepted, and eligible to receive a direct place.
-- If a direct-qualifying team is not registered or is ruled ineligible, the place passes to the next-highest-ranked eligible registered team.
-- The organizers will publish the VRS snapshot date and list of direct qualifiers before the Swiss Stage begins.
+**Six-team VRS contingency:** If only six eligible VRS teams are available among accepted entrants, those six teams qualify directly. The seventh direct place goes to the highest-ranked eligible team in the **HLTV European Ranking dated 2 November 2026**, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of **15 November 2026**, excluding teams already qualified.
+
+Teams must be registered, accepted and eligible to receive a direct place. If a selected team is ineligible or withdraws before the qualification list is finalized, the place passes to the next eligible team under the corresponding ranking criterion. Direct qualification follows published ranking criteria within this open-registration event; it is not an invitation.
 
 ### Swiss Stage
 
-The **16 teams that do not receive a direct VRS playoff place** compete in the Swiss Stage.
+The **16 teams that do not receive one of the eight direct Playoff places** compete in the Swiss Stage.
 
 - Format: **16-team Swiss Stage**
 - Match format: **Best-of-Three (BO3)**
@@ -160,7 +158,7 @@ Swiss Stage results and qualification are governed by the [Rulebook](RULEBOOK.md
 
 The Playoffs feature **16 teams** in a **Single-Elimination** bracket:
 
-- **8 VRS direct qualifiers**
+- **8 direct qualifiers** (eight VRS teams under the standard format; if only six eligible VRS teams are available, six VRS teams plus one HLTV European Ranking qualifier and one FACEIT Average Elo qualifier).
 - **8 Swiss Stage qualifiers**
 - Standard playoff matches: **BO3**
 - Grand Final: **BO5**, unless the organizers announce otherwise before the Playoffs begin
@@ -279,4 +277,4 @@ Participants are responsible for reading the current versions of the official do
 ---
 
 © Green Pepper Tournament Organizer
-Last Update: 21/10/2026
+Last Update: 02/11/2026
