@@ -49,7 +49,7 @@ All matches are played online. There is no LAN venue, on-site check-in, venue-ba
 
 - Eight teams qualify directly for the 16-team Playoffs.
 - **Standard format:** If at least eight eligible VRS-ranked teams are among accepted entrants, the eight highest-ranked eligible VRS teams qualify directly using the official VRS snapshot dated **2 November 2026**.
-- **Six-team VRS contingency:** If only six eligible VRS teams are available, those six qualify directly. The seventh place goes to the highest-ranked eligible team in the **HLTV European Ranking dated 2 November 2026**; the eighth place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of **15 November 2026**. Teams already qualified are excluded from the fallback categories.
+- **Six-team VRS contingency:** If only six eligible VRS teams are available, those six qualify directly. The seventh place goes to the highest-ranked eligible team in the **HLTV World Ranking dated 2 November 2026**; the eighth place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of **15 November 2026**. Teams already qualified are excluded from the fallback categories.
 - Teams must be registered, accepted and eligible by the registration deadline of **15 November 2026**.
 - If a selected team is ineligible or withdraws before the qualification list is finalized, the place passes to the next eligible team under the corresponding criterion.
 - The list of direct qualifiers will be published after registration closes and eligibility checks are complete.
@@ -160,11 +160,11 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 ## VRS Seeding and Direct Playoff Qualification
 
-The tournament uses the official VRS snapshot dated **2 November 2026** for VRS qualification and seeding. If only six eligible VRS teams are available, the two remaining direct Playoff places are allocated using the HLTV European Ranking dated 2 November 2026 and the average FACEIT Elo of the five registered starters, recorded at the end of 15 November 2026, as specified in the Rulebook.
+The tournament uses the official VRS snapshot dated **2 November 2026** for VRS qualification and seeding. If only six eligible VRS teams are available, the two remaining direct Playoff places are allocated using the HLTV World Ranking dated 2 November 2026 and the average FACEIT Elo of the five registered starters, recorded at the end of 15 November 2026, as specified in the Rulebook.
 
 ### Direct Playoff Qualifiers — Seeds #1–#8
 
-Under the standard format, the eight highest-ranked eligible VRS teams receive direct entry. If only six eligible VRS teams are available, the six VRS teams plus the HLTV European Ranking and FACEIT Average Elo qualifiers receive the eight direct places.
+Under the standard format, the eight highest-ranked eligible VRS teams receive direct entry. If only six eligible VRS teams are available, the six VRS teams plus the HLTV World Ranking and FACEIT Average Elo qualifiers receive the eight direct places.
 
 | Playoff Seed | Team Assignment |
 | ---: | --- |
@@ -181,7 +181,7 @@ If a team is not registered or is ruled ineligible, its place passes to the next
 
 ### Swiss Stage Seeds — #1–#16
 
-The 16 eligible teams that do not receive direct Playoff qualification compete in the Swiss Stage. Their initial seeds are assigned using the applicable seeding criteria in the Rulebook, including VRS, HLTV European Ranking and FACEIT Average Elo where required.
+The 16 eligible teams that do not receive direct Playoff qualification compete in the Swiss Stage. Their initial seeds are assigned using the applicable seeding criteria in the Rulebook, including VRS, HLTV World Ranking and FACEIT Average Elo where required.
 
 | Swiss Seed | Team Assignment |
 | ---: | --- |
@@ -208,7 +208,7 @@ The official team names and seed positions will be published after registration 
 
 ## Playoff Seeding and Bracket
 
-The Playoffs feature 16 teams: eight direct qualifiers at seeds **#1–#8** (eight VRS teams under the standard format, or six VRS teams plus the HLTV European Ranking and FACEIT Average Elo qualifiers under the six-team contingency) and eight Swiss Stage qualifiers at seeds **#9–#16**. Swiss qualifiers are ordered by their final Swiss results and the published tiebreakers.
+The Playoffs feature 16 teams: eight direct qualifiers at seeds **#1–#8** (eight VRS teams under the standard format, or six VRS teams plus the HLTV World Ranking and FACEIT Average Elo qualifiers under the six-team contingency) and eight Swiss Stage qualifiers at seeds **#9–#16**. Swiss qualifiers are ordered by their final Swiss results and the published tiebreakers.
 
 ### Round of 16 — Proposed Seed Pairings
 
@@ -281,7 +281,7 @@ By entering Green Pepper Season 1, all teams agree to be bound by this schedulin
 
 1. This schedule reflects the current proposed organizer dates. Match windows remain provisional until approved by Green Pepper administration.
 2. Registration may close early if all 24 team slots are filled.
-3. Direct Playoff qualification follows the VRS snapshot and, if the six-team contingency applies, the HLTV European Ranking and FACEIT Average Elo criteria stated in the Rulebook.
+3. Direct Playoff qualification follows the VRS snapshot and, if the six-team contingency applies, the HLTV World Ranking and FACEIT Average Elo criteria stated in the Rulebook.
 4. Registration closes on **15 November 2026 at 23:59 CET**, or earlier if all places are filled.
 5. The Grand Final is scheduled for **13 December 2026 at 16:00 CET**. Any change will be announced through the official Green Pepper channels.
 6. Before publication, the organizers should confirm the registration URL, payment instructions, official support/Discord link, exact daily match times, VRS eligibility, Swiss tiebreak procedure and final match windows.
