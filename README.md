@@ -66,7 +66,7 @@ Final match times, registration/payment instructions, and VRS eligibility detail
 
 ## Tournament Classification
 
-Green Pepper operates as an open-registration Tier-2 structured competition. Season 1 uses Valve Regional Standings (VRS) for ranking integrity and competitive seeding. This event does NOT utilize Direct VRS Invites: every team enters through open registration. The eight direct Playoff places are awarded through published ranking criteria: the eight highest-ranked eligible VRS teams under the standard format, or, if only six eligible VRS teams are available, six VRS teams plus one HLTV European Ranking qualifier and one FACEIT Average Elo qualifier. Direct qualification is a seeding outcome, not an invitation. This is a professionally operated tournament adhering to competitive Counter-Strike 2 standards. Please follow the [Rulebook](RULEBOOK.md).
+Green Pepper operates as an open-registration Tier-2 structured competition. Season 1 uses Valve Regional Standings (VRS) for ranking integrity and competitive seeding. This event does NOT utilize Direct VRS Invites: every team enters through open registration. The eight direct Playoff places are awarded through published ranking criteria: the eight highest-ranked eligible VRS teams under the standard format, or, if only six eligible VRS teams are available, six VRS teams plus one HLTV World Ranking qualifier and one FACEIT Average Elo qualifier. Direct qualification is a seeding outcome, not an invitation. This is a professionally operated tournament adhering to competitive Counter-Strike 2 standards. Please follow the [Rulebook](RULEBOOK.md).
 
 ## Registration and Entry Fee
 
@@ -135,7 +135,7 @@ Registered team coaches may substitute as players only if they are listed on the
 
 **Eight teams qualify directly for the 16-team Playoffs**. The standard route awards those places to the eight highest-ranked eligible VRS teams among accepted entrants, using the official VRS snapshot dated **2 November 2026**.
 
-**Six-team VRS contingency:** If only six eligible VRS teams are available among accepted entrants, those six teams qualify directly. The seventh direct place goes to the highest-ranked eligible team in the **HLTV European Ranking dated 2 November 2026**, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of **15 November 2026**, excluding teams already qualified.
+**Six-team VRS contingency:** If only six eligible VRS teams are available among accepted entrants, those six teams qualify directly. The seventh direct place goes to the highest-ranked eligible team in the **HLTV World Ranking dated 2 November 2026**, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of **15 November 2026**, excluding teams already qualified.
 
 Teams must be registered, accepted and eligible to receive a direct place. If a selected team is ineligible or withdraws before the qualification list is finalized, the place passes to the next eligible team under the corresponding ranking criterion. Direct qualification follows published ranking criteria within this open-registration event; it is not an invitation.
 
@@ -158,7 +158,7 @@ Swiss Stage results and qualification are governed by the [Rulebook](RULEBOOK.md
 
 The Playoffs feature **16 teams** in a **Single-Elimination** bracket:
 
-- **8 direct qualifiers** (eight VRS teams under the standard format; if only six eligible VRS teams are available, six VRS teams plus one HLTV European Ranking qualifier and one FACEIT Average Elo qualifier).
+- **8 direct qualifiers** (eight VRS teams under the standard format; if only six eligible VRS teams are available, six VRS teams plus one HLTV World Ranking qualifier and one FACEIT Average Elo qualifier).
 - **8 Swiss Stage qualifiers**
 - Standard playoff matches: **BO3**
 - Grand Final: **BO5**, unless the organizers announce otherwise before the Playoffs begin
