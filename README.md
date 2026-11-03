@@ -278,3 +278,15 @@ Participants are responsible for reading the current versions of the official do
 
 © Green Pepper Tournament Organizer
 Last Update: 02/11/2026
+
+---
+
+## Waiting List
+
+If an accepted team withdraws, is rejected, or loses its place before the tournament's first official match, Green Pepper may offer the vacant slot to an eligible team on the Waiting List. A place is not guaranteed until the replacement team has been formally confirmed by administration.
+
+**VRS priority:** Eligible VRS-matched teams on the Waiting List have priority over non-VRS teams, regardless of when they joined the Waiting List. VRS teams are ordered by their position in the official VRS snapshot dated **2 November 2026**, with the higher-ranked team receiving priority. All registration, roster, payment and tournament eligibility requirements must still be met.
+
+**Non-VRS order:** If no eligible VRS-matched team is available, the vacant place is offered to the highest-ranked eligible non-VRS team using the seeding hierarchy in the Rulebook: **HLTV World Ranking dated 2 November 2026**, followed by the average FACEIT Elo of the five registered starting players recorded at the end of **15 November 2026**. If teams remain tied or have no comparable ranking data, the earlier completed Waiting List registration takes priority. Green Pepper administration may verify eligibility before confirming a replacement.
+
+The full binding procedure is set out in Sections **1.2.10–1.2.12** of the [Rulebook](RULEBOOK.md).
