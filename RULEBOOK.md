@@ -87,6 +87,10 @@
 - **1.2.8** A team captain must be designated during registration. Captain changes must be reported to administration; the replacement captain must be on the approved roster.
 - **1.2.9** Teams must provide accurate team, player, Steam, and FACEIT information. False or misleading information may result in rejection or disqualification.
 
+- **1.2.10 Waiting List:** If an accepted team withdraws, is rejected, or loses its place before the tournament's first official match, Green Pepper may offer the vacant slot to an eligible team on the Waiting List. A place is not guaranteed until the replacement team has been formally confirmed by administration.
+- **1.2.11 VRS priority:** Eligible VRS-matched teams on the Waiting List have priority over non-VRS teams, regardless of the order in which the teams joined the Waiting List. VRS-matched teams are ordered by their position in the official VRS snapshot dated **2 November 2026**, with the higher-ranked team receiving priority. The team must still satisfy all registration, roster, payment, and tournament eligibility requirements.
+- **1.2.12 Non-VRS order and tie-breaks:** If no eligible VRS-matched team is available, the vacant slot is offered to the highest-ranked eligible non-VRS team using the seeding hierarchy in Section 2.1: HLTV World Ranking dated **2 November 2026**, followed by average FACEIT Elo of the five registered starting players recorded at the end of **15 November 2026**. If teams remain tied or have no comparable ranking data, the earlier completed Waiting List registration takes priority. Administration may verify eligibility before confirming the replacement.
+
 ### 1.3 Roster Submission
 
 - **1.3.1** Teams must register five starting players and may register substitutes and a coach, subject to the roster limits and registration instructions announced by Green Pepper.
