@@ -88,7 +88,7 @@
 ### Refund Policy
 
 - **1.2.13** Once a team's registration payment has been confirmed, the entry fee is **non-refundable if the team chooses to withdraw**, regardless of the reason for withdrawal.
-- **1.2.14** Registration fees will be refunded in full to all teams only if Green Pepper Season 1 is **cancelled by the organizer** or **does not obtain the intended VRS status/alignment** required to proceed as advertised.
+- **1.2.14** Registration fees will be refunded in full to all teams if Green Pepper Season 1 is **cancelled by the organizer**, **does not reach the required 24 accepted teams**, or **does not obtain the intended VRS status/alignment** required to proceed as advertised. Any one of these conditions is sufficient to trigger the full refund guarantee.
 - **1.2.15** No other circumstances, including a team's voluntary withdrawal or inability to participate, entitle that team to a refund.
 
 - **1.2.10 Waiting List:** If an accepted team withdraws, is rejected, or loses its place before the tournament's first official match, Green Pepper may offer the vacant slot to an eligible team on the Waiting List. A place is not guaranteed until the replacement team has been formally confirmed by administration.
@@ -600,8 +600,8 @@ A: Yes. Every player must use their own eligible FACEIT account and have FACEIT 
 **Q: How does direct Playoff qualification work if only six eligible VRS teams are available?**  
 A: The six highest-ranked eligible VRS teams qualify directly. The seventh direct place goes to the highest-ranked eligible team in the HLTV World Ranking dated 2 November 2026, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026, excluding teams already qualified. If at least eight eligible VRS teams are available, the standard rule applies and the eight highest-ranked VRS teams qualify directly. Direct qualification is part of the open-registration format and is not an invitation to participate.
 
-**Q: Can a team receive a refund if it withdraws, or if the tournament is cancelled or does not obtain VRS status?**  
-A: No refund is available if a team chooses to withdraw, for any reason. Registration fees will be refunded in full only if Green Pepper Season 1 is cancelled by the organizer or does not obtain the intended VRS status/alignment.
+**Q: Will registration fees be refunded if the tournament does not reach 24 teams or does not obtain its intended VRS status/alignment?**  
+A: Yes. If Green Pepper Season 1 is cancelled by the organizer, does not reach the required 24 accepted teams, or does not obtain the intended VRS status/alignment, all registration fees paid by all teams will be refunded in full. Any one of these conditions triggers the guarantee. A team that voluntarily withdraws is not entitled to a refund.
 
 **Q: What happens to teams that do not receive a direct Playoff place?**  
 A: Sixteen teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. Eight Swiss teams advance to the Playoffs and receive seeds 9–16 based on qualification path (3-0, then 3-1, then 3-2), and initial Swiss seed. The eight direct qualifiers receive seeds 1-8; under the six-team VRS contingency, these comprise six VRS teams, one HLTV World Ranking team, and one FACEIT Average Elo team.
