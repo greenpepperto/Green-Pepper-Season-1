@@ -11,10 +11,7 @@
 **Last Updated:** 2 November 2026
 **Format:** Eight direct Playoff places. If at least eight eligible VRS teams are registered, the top eight qualify through VRS. If only six eligible VRS teams are registered, the six VRS teams plus one HLTV World Ranking team and one FACEIT Average Elo team qualify directly. The remaining 16 teams contest the BO3 Swiss Stage for eight Playoff places.
 
-> **FORMAT UPDATE — 2 NOVEMBER 2026**  
-> Green Pepper Season 1 remains an open-registration tournament with 24 teams. The standard format awards eight direct Playoff places to the highest-ranked eligible VRS teams. If only six eligible VRS teams are available among accepted entrants, the six VRS teams qualify directly, with the remaining two direct places allocated to the highest-ranked eligible team in the **HLTV World Ranking dated 2 November 2026** and the eligible team with the highest **average FACEIT Elo across its five registered starters**, recorded at the end of **15 November 2026**. The other 16 teams compete in the BO3 Swiss Stage, where eight qualify for the Playoffs. See Sections 2.1–2.4 for the binding criteria.
 
----
 
 ## Table of Contents
 
