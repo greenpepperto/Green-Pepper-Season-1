@@ -85,6 +85,16 @@
 - **1.2.8** A team captain must be designated during registration. Captain changes must be reported to administration; the replacement captain must be on the approved roster.
 - **1.2.9** Teams must provide accurate team, player, Steam, and FACEIT information. False or misleading information may result in rejection or disqualification.
 
+- **1.2.16 Registration opening:** Open Registration will open on **24 October 2026 at 19:00 CET**.
+- **1.2.17 Initial selection and contact:** The initial selection and contact process will take place on **17 November 2026 at 15:00 CET**. The Organizer will aim to contact up to **20 teams** from Open Registration. Priority will be given to the highest-ranked eligible VRS teams using the November VRS publication, expected on **2 November 2026**.
+- **1.2.18** If fewer than 20 VRS-ranked teams have registered at the time of the initial selection, all registered eligible VRS-ranked teams will be contacted first. Any remaining contacts, up to a maximum of 20 teams, will be allocated to non-VRS-ranked teams in order of completed registration.
+- **1.2.19** If fewer than 20 teams in total have registered by **17 November 2026 at 15:00 CET**, all registered teams will be contacted.
+- **1.2.20 Capacity expansion:** The Organizer reserves the right to expand the tournament capacity to a maximum of **24 teams**, depending on registration demand and organizational capacity. All participating teams acknowledge that the tournament may be expanded beyond its initially advertised capacity. Any expansion will be officially communicated through Green Pepper's official communication channels.
+- **1.2.21 Further selection and available places:** Following the initial selection, if tournament places remain available, priority will continue to be given to eligible VRS-ranked teams, with higher-ranked teams taking precedence over non-VRS-ranked teams. The applicable November VRS publication dated **2 November 2026** will be used for this process.
+- **1.2.22 Payment requirement:** All required payments must be completed and confirmed for a team's registration to be considered complete. A team contacted or selected by the Organizer does not have a confirmed place until its payment and registration requirements have been fulfilled.
+- **1.2.23 Age requirement:** Only individuals **over 13 years of age** may register or participate in the tournament.
+- **1.2.24 Liability statement:** The captain of every participating team must sign the Organizer's liability statement covering equipment damaged as a result of misuse, negligence or theft. The signed statement must be submitted in the manner and by the deadline communicated by the Organizer.
+
 ### Refund Policy
 
 - **1.2.13** Once a team's registration payment has been confirmed, the entry fee is **non-refundable if the team chooses to withdraw**, regardless of the reason for withdrawal.
@@ -145,13 +155,14 @@ No two teams may use a shared core of three or more players from their applicabl
 - If multiple teams from the same organization register, administration may require the organization to nominate one eligible team before the registration deadline. If the conflict is discovered after acceptance or competition begins, administration may reject or disqualify the affected team or teams, remove results where necessary, and apply further sanctions if information was concealed or misrepresented.
 - These restrictions are intended to prevent conflicts of interest, collusion, information sharing, and other risks to competitive integrity. Administration's decision will be communicated to the affected teams, subject to the protest and appeal process in Section 8.3.
 
-#### 1.4.7 Roster changes
+#### 1.4.7 Roster changes and change limits
 
-- **Before and during the Swiss Stage:** roster changes may be requested, subject to administration approval. Approved changes do not alter the fixed five-player reference roster.
-- **During the Playoffs:** teams may make no more than **two substitute-slot roster changes in total** across the Playoffs, limited to the Sub 1 / Sub 2 slots and subject to administration approval.
-- Replacing one player in either substitute slot counts as one change. Replacing both substitute-slot players counts as two changes.
-- Using a substitute already listed on the approved roster does not itself count as a substitute-slot roster change.
-- Every lineup must continue to meet the applicable three-of-five requirement.
+- Once a team has submitted its roster, a maximum of **two player changes in total** will be permitted across the tournament. Each replacement of a player on the submitted roster counts as one change. Any change requires prior administration approval.
+- **Up to and including 16 days before the tournament starts:** teams may replace any player on their submitted roster, subject to the two-change limit and administration approval.
+- **From 15 days until 7 days before the tournament starts:** roster changes may still be requested, but the team's applicable VRS core must remain unchanged. For VRS-matched teams, this means the required three-player VRS core must be preserved; all teams must continue to satisfy the fixed five-player reference-roster and three-of-five requirements.
+- **Within 7 days of the tournament start:** roster changes are permitted only as emergency substitutions in exceptional circumstances. The request must be supported by valid and appropriate justification and is subject to explicit administration approval. An emergency substitution must never affect the applicable VRS core or reduce the team below the required three-of-five reference-roster threshold.
+- The two-change limit applies to all player replacements, including changes involving starting players or substitutes. Using a substitute who was already listed on the team's submitted roster does not count as a roster change.
+- No approved roster change alters the team's fixed five-player reference roster or waives any VRS, eligibility or roster-continuity requirement.
 
 ### 1.5 Substitutions
 
@@ -416,12 +427,13 @@ If Valve or CS2 updates the map pool after the event has already started, the ev
 
 ### 4.3 Punctuality and Forfeits
 
-- **4.3.1** Teams must be ready at the confirmed match start time, with eligible players available and Anti-Cheat functioning.
-- **4.3.2** A **15-minute grace period** applies unless the official schedule or an administrator states otherwise.
-- **4.3.3** A team that cannot field a complete eligible lineup after the grace period may receive a forfeit loss.
-- **4.3.4** A match not completed within its round window without an approved reschedule may be recorded as a forfeit.
-- **4.3.5** Administration may consider documented platform outages or exceptional circumstances before confirming a forfeit.
-- **4.3.6** Teams must provide evidence promptly when disputing a no-show or forfeit decision.
+- **4.3.1** Teams must be ready at the confirmed match start time, with all eligible players available and required Anti-Cheat and integrity checks functioning.
+- **4.3.2** A **15-minute grace period** applies from the scheduled match start time. Teams must be ready to join the server and begin the match within this period.
+- **4.3.3** If a team fails to be ready within the 15-minute grace period, it will receive a **default loss** for the match. In a BO3 match, the same sanction applies to the map in question: the team that is not ready will forfeit that map.
+- **4.3.4** After a map forfeit in a BO3, both teams will have an additional **15 minutes** to join the server and start the next map. If the team is still not ready within that additional period, it will receive a default loss for the next map, subject to administration's review of documented exceptional circumstances.
+- **4.3.5** A match not completed within its scheduled window without an approved reschedule may be recorded as a forfeit.
+- **4.3.6** Administration may consider documented platform outages or exceptional circumstances before confirming a forfeit.
+- **4.3.7** Teams must provide evidence promptly when disputing a no-show or forfeit decision.
 
 ---
 
