@@ -1,17 +1,15 @@
 # Green Pepper Season 1 - Tournament Rules and Regulations
 
-**Game:** Counter-Strike 2 (CS2)  
-**Region:** Europe  
-**Format:** Online Tier-2 CS2 tournament, VRS-aligned  
-**Platform:** FACEIT  
-**Teams:** 24  
-**Entry Fee:** €250 per team  
-**Prize Pool:** €5,000  
-**VRS Snapshot:** 2 November 2026  
+**Game:** Counter-Strike 2 (CS2)
+**Region:** Europe
+**Format:** Online Tier-2 CS2 tournament, VRS-aligned
+**Platform:** FACEIT
+**Teams:** 24
+**Entry Fee:** €250 per team
+**Prize Pool:** €5,000
+**VRS Snapshot:** 2 November 2026
 **Last Updated:** 2 November 2026
 **Format:** Eight direct Playoff places. If at least eight eligible VRS teams are registered, the top eight qualify through VRS. If only six eligible VRS teams are registered, the six VRS teams plus two teams selected by the HLTV World Ranking qualify directly. The remaining 16 teams contest the BO3 Swiss Stage for eight Playoff places.
-
-
 
 ## Table of Contents
 
@@ -70,7 +68,7 @@
 
 ### 1.1 Tournament Information
 
-- **1.1.1** Green Pepper Season 1 is an online tournament operated in compliance with [Valve's Tournament Operating Requirements](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md) laid out for Tier 2 tournaments.
+- **1.1.1** Green Pepper Season 1 is an online tournament operated in compliance with [Valve&#39;s Tournament Operating Requirements](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md) laid out for Tier 2 tournaments.
 - **1.1.2** The tournament is open to any Counter-Strike team that contains three or more European players in the active roster.
 
 ### 1.2 Registration and Entry Fee
@@ -84,7 +82,6 @@
 - **1.2.7** The tournament is limited to **24 accepted teams**. Registration may close once all slots are filled.
 - **1.2.8** A team captain must be designated during registration. Captain changes must be reported to administration; the replacement captain must be on the approved roster.
 - **1.2.9** Teams must provide accurate team, player, Steam, and FACEIT information. False or misleading information may result in rejection or disqualification.
-
 - **1.2.16 Registration opening:** Open Registration will open on **24 October 2026 at 19:00 CET**.
 - **1.2.17 Initial selection and contact:** The initial selection and contact process will take place on **25 October 2026 at 15:00 CET**. The Organizer will aim to contact up to **24 teams** from Open Registration. Priority will be given to the highest-ranked eligible VRS teams using the November VRS publication, expected on **2 November 2026**.
 - **1.2.18** If fewer than 12 VRS-ranked teams have registered at the time of the initial selection, all registered eligible VRS-ranked teams will be contacted first. If no further eligible VRS-matched teams are available, remaining contacts, up to a maximum of 24 teams, will be allocated to eligible non-VRS teams in order of the **HLTV World Ranking dated 2 November 2026**. If no eligible candidate has an HLTV ranking, the earlier completed registration takes priority.
@@ -101,7 +98,6 @@
 - **1.2.13** Once a team's registration payment has been confirmed, the entry fee is **non-refundable if the team chooses to withdraw**, regardless of the reason for withdrawal.
 - **1.2.14** Registration fees will be refunded in full to all teams if Green Pepper Season 1 is **cancelled by the organizer**, **does not reach the required 24 accepted teams**, or **does not obtain the intended VRS status/alignment** required to proceed as advertised. Any one of these conditions is sufficient to trigger the full refund guarantee.
 - **1.2.15** No other circumstances, including a team's voluntary withdrawal or inability to participate, entitle that team to a refund.
-
 - **1.2.10 Waiting List:** If an accepted team withdraws, is rejected, or loses its place before the tournament's first official match, Green Pepper may offer the vacant slot to an eligible team on the Waiting List. A place is not guaranteed until the replacement team has been formally confirmed by administration.
 - **1.2.11 VRS priority:** Eligible VRS-matched teams on the Waiting List have priority over non-VRS teams, regardless of the order in which the teams joined the Waiting List. VRS-matched teams are ordered by their position in the official VRS snapshot dated **2 November 2026**, with the higher-ranked team receiving priority. The team must still satisfy all registration, roster, payment, and tournament eligibility requirements.
 - **1.2.12 Non-VRS order and tie-breaks:** If no eligible VRS-matched team is available, the vacant slot is offered to the highest-ranked eligible non-VRS team using the seeding hierarchy in Section 2.1: HLTV World Ranking dated **2 November 2026**,  If teams remain tied or have no comparable ranking data, the earlier completed Waiting List registration takes priority. Any replacement team offered the place has **24 hours from notification** to complete all required registration steps and payment; otherwise, the offer expires and the next eligible team may be contacted. Administration may verify eligibility before confirming the replacement.
@@ -210,15 +206,15 @@ A team's pre-event seed is determined using the following ranking data, in order
 Swiss seeds 1-16 are assigned to the 16 teams competing in the Swiss Stage, in order of their pre-event seed after the eight direct playoff qualifiers have been removed. The first-round match-ups are:
 
 | Swiss Round 1 |
-|:--|
-| 1 vs. 9 |
-| 2 vs. 10 |
-| 3 vs. 11 |
-| 4 vs. 12 |
-| 5 vs. 13 |
-| 6 vs. 14 |
-| 7 vs. 15 |
-| 8 vs. 16 |
+| :------------ |
+| 1 vs. 9       |
+| 2 vs. 10      |
+| 3 vs. 11      |
+| 4 vs. 12      |
+| 5 vs. 13      |
+| 6 vs. 14      |
+| 7 vs. 15      |
+| 8 vs. 16      |
 
 #### 2.3.2 Swiss Pairing Rules
 
@@ -227,22 +223,22 @@ Swiss seeds 1-16 are assigned to the 16 teams competing in the Swiss Stage, in o
 - For later rounds, when a record group contains six teams, administration selects the first pairing row below that does not create a rematch. Teams within the group are ordered by current seed.
 
 | Priority | Match 1 | Match 2 | Match 3 |
-|:--:|:--:|:--:|:--:|
-| 1 | 1 vs. 6 | 2 vs. 5 | 3 vs. 4 |
-| 2 | 1 vs. 6 | 2 vs. 4 | 3 vs. 5 |
-| 3 | 1 vs. 5 | 2 vs. 6 | 3 vs. 4 |
-| 4 | 1 vs. 5 | 2 vs. 4 | 3 vs. 6 |
-| 5 | 1 vs. 4 | 2 vs. 6 | 3 vs. 5 |
-| 6 | 1 vs. 4 | 2 vs. 5 | 3 vs. 6 |
-| 7 | 1 vs. 6 | 2 vs. 3 | 4 vs. 5 |
-| 8 | 1 vs. 5 | 2 vs. 3 | 4 vs. 6 |
-| 9 | 1 vs. 3 | 2 vs. 6 | 4 vs. 5 |
-| 10 | 1 vs. 3 | 2 vs. 5 | 4 vs. 6 |
-| 11 | 1 vs. 4 | 2 vs. 3 | 5 vs. 6 |
-| 12 | 1 vs. 3 | 2 vs. 4 | 5 vs. 6 |
-| 13 | 1 vs. 2 | 3 vs. 6 | 4 vs. 5 |
-| 14 | 1 vs. 2 | 3 vs. 5 | 4 vs. 6 |
-| 15 | 1 vs. 2 | 3 vs. 4 | 5 vs. 6 |
+| :------: | :-----: | :-----: | :-----: |
+|    1    | 1 vs. 6 | 2 vs. 5 | 3 vs. 4 |
+|    2    | 1 vs. 6 | 2 vs. 4 | 3 vs. 5 |
+|    3    | 1 vs. 5 | 2 vs. 6 | 3 vs. 4 |
+|    4    | 1 vs. 5 | 2 vs. 4 | 3 vs. 6 |
+|    5    | 1 vs. 4 | 2 vs. 6 | 3 vs. 5 |
+|    6    | 1 vs. 4 | 2 vs. 5 | 3 vs. 6 |
+|    7    | 1 vs. 6 | 2 vs. 3 | 4 vs. 5 |
+|    8    | 1 vs. 5 | 2 vs. 3 | 4 vs. 6 |
+|    9    | 1 vs. 3 | 2 vs. 6 | 4 vs. 5 |
+|    10    | 1 vs. 3 | 2 vs. 5 | 4 vs. 6 |
+|    11    | 1 vs. 4 | 2 vs. 3 | 5 vs. 6 |
+|    12    | 1 vs. 3 | 2 vs. 4 | 5 vs. 6 |
+|    13    | 1 vs. 2 | 3 vs. 6 | 4 vs. 5 |
+|    14    | 1 vs. 2 | 3 vs. 5 | 4 vs. 6 |
+|    15    | 1 vs. 2 | 3 vs. 4 | 5 vs. 6 |
 
 - If every listed pairing creates a rematch, administration may use the most equitable alternative pairing available and document the reason.
 - Teams are not permitted to choose their own Swiss opponents.
@@ -255,16 +251,16 @@ Swiss seeds 1-16 are assigned to the 16 teams competing in the Swiss Stage, in o
 - **2.4.4** All Playoff matches are **Best-of-Three (BO3)**, excluding the Grand Final, which is **Best-of-Five (BO5)**.
 - **2.4.5 Round of 16:** The opening matches are arranged so that the winners feed into the requested quarter-final paths:
 
-| Round of 16 Match | Match-up | Quarter-final path |
-|:--|:--|:--|
-| R16-1 | Seed 1 vs. Seed 16 | Winner advances to Quarter-Final 1 |
-| R16-2 | Seed 4 vs. Seed 13 | Winner advances to Quarter-Final 1 |
-| R16-3 | Seed 5 vs. Seed 12 | Winner advances to  Quarter-Final 2 |
-| R16-4 | Seed 8 vs. Seed 9 | Winner advances to  Quarter-Final 2 |
-| R16-5 | Seed 7 vs. Seed 10 | Winner advances to  Quarter-Final 3 |
-| R16-6 | Seed 6 vs. Seed 11 | Winner advances to  Quarter-Final 3 |
-| R16-7 | Seed 3 vs. Seed 14 | Winner advances to  Quarter-Final 4 |
-| R16-8 | Seed 2 vs. Seed 15 | Winner advances to  Quarter-Final 4 |
+| Round of 16 Match | Match-up                   | Quarter-final path                  |
+| :---------------- | :------------------------- | :---------------------------------- |
+| R16-1             | Seed 1 vs. Swiss 8th Place | Winner advances to Quarter-Final 1  |
+| R16-2             | Seed 4 vs. Swiss 5th Place | Winner advances to Quarter-Final 1  |
+| R16-3             | Seed 5 vs. Swiss 4th Place | Winner advances to  Quarter-Final 2 |
+| R16-4             | Seed 8 vs. Swiss 1st Place | Winner advances to  Quarter-Final 2 |
+| R16-5             | Seed 7 vs. Swiss 2nd Place | Winner advances to  Quarter-Final 3 |
+| R16-6             | Seed 6 vs. Swiss 3rd Place | Winner advances to  Quarter-Final 3 |
+| R16-7             | Seed 3 vs. Swiss 6th Place | Winner advances to  Quarter-Final 4 |
+| R16-8             | Seed 2 vs. Swiss 7th Place | Winner advances to  Quarter-Final 4 |
 
 - **2.4.6** The bracket paths preserve the seed structure aforementioned. The two highest seeded teams are not allowed to meet one another in the bracket until the Grand Final. There is no 3rd place decider match.
 - **2.4.7** Quarter-final winners advance to the semi-finals according to the published bracket, and the semi-final winners meet in the Grand Final. A team is eliminated after one playoff loss.
@@ -607,43 +603,43 @@ Cheating, account sharing, stream sniping, match manipulation, harassment, and o
 
 ## 10. Frequently Asked Questions
 
-**Q: Do all players need a FACEIT account and Anti-Cheat?**  
+**Q: Do all players need a FACEIT account and Anti-Cheat?**
 A: Yes. Every player must use their own eligible FACEIT account and have FACEIT Anti-Cheat running for official matches.
 
-**Q: How does direct Playoff qualification work if only six eligible VRS teams are available?**  
+**Q: How does direct Playoff qualification work if only six eligible VRS teams are available?**
 A: The six highest-ranked eligible VRS teams qualify directly. The seventh direct place goes to the highest-ranked eligible team in the HLTV World Ranking dated 2 November 2026, excluding the six VRS qualifiers. The eighth direct place goes to the next-highest-ranked eligible team in the HLTV World Ranking dated 2 November 2026, excluding teams already qualified. If at least eight eligible VRS teams are available, the standard rule applies and the eight highest-ranked VRS teams qualify directly. Direct qualification is part of the open-registration format and is not an invitation to participate.
 
-**Q: Will registration fees be refunded if the tournament does not reach 24 teams or does not obtain its intended VRS status/alignment?**  
+**Q: Will registration fees be refunded if the tournament does not reach 24 teams or does not obtain its intended VRS status/alignment?**
 A: Yes. If Green Pepper Season 1 is cancelled by the organizer, does not reach the required 24 accepted teams, or does not obtain the intended VRS status/alignment, all registration fees paid by all teams will be refunded in full. Any one of these conditions triggers the guarantee. A team that voluntarily withdraws is not entitled to a refund.
 
-**Q: What happens to teams that do not receive a direct Playoff place?**  
+**Q: What happens to teams that do not receive a direct Playoff place?**
 A: Sixteen teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. Eight Swiss teams advance to the Playoffs and receive seeds 9–16 based on qualification path (3-0, then 3-1, then 3-2), and initial Swiss seed. The eight direct qualifiers receive seeds 1-8; under the six-team VRS contingency, these comprise six VRS teams, two teams selected by the HLTV World Ranking.
 
-**Q: Can multiple teams from the same esports organization participate?**  
+**Q: Can multiple teams from the same esports organization participate?**
 A: No. Only one team per organization may participate in Green Pepper Season 1. This applies even if teams use different names or rosters. Teams must disclose affiliations, and administration may reject or disqualify teams where an organizational conflict is confirmed.
 
-**Q: What counts as a team's core?**  
+**Q: What counts as a team's core?**
 A: For a VRS-matched team, the reference roster is the five players on its matched VRS roster in the 2 November 2026 snapshot. For a non-VRS team, it is the five original registered starters. At least three players from the applicable reference roster must play the entirety of every match.
 
-**Q: Can we change our roster?**  
+**Q: Can we change our roster?**
 A: Roster changes require administration approval where specified and do not change the fixed reference roster. During the Playoffs, up to two changes to the Sub 1 / Sub 2 slots are permitted in total, subject to approval.
 
-**Q: Does using an already registered substitute count as a roster change?**  
+**Q: Does using an already registered substitute count as a roster change?**
 A: Simply fielding a substitute already listed on the approved roster does not count as a substitute-slot roster change. Every lineup must still satisfy the applicable three-of-five requirement.
 
-**Q: Can a player be substituted during a match?**  
+**Q: Can a player be substituted during a match?**
 A: Only in a verifiable emergency and subject to administration approval.
 
-**Q: What if a player disconnects?**  
+**Q: What if a player disconnects?**
 A: Pause where the platform allows, notify the opponent and administration immediately, and follow their instructions. A replay is not automatic.
 
-**Q: Can I stream my POV or cast a match?**  
+**Q: Can I stream my POV or cast a match?**
 A: Yes, you can stream your POV if you notify the admins and have an aditional 120s of delay. Community broadcasting and co-streaming require prior approval from Green Pepper.
 
-**Q: How do I submit a protest?**  
+**Q: How do I submit a protest?**
 A: Use the official Green Pepper support channel and submit evidence. The standard deadline is 24 hours after the match concludes unless a different deadline is announced.
 
-**Q: Who makes the final decision on an issue not covered here?**  
+**Q: Who makes the final decision on an issue not covered here?**
 A: Green Pepper tournament administration, applying the principles of competitive integrity and fairness.
 
 ---
@@ -655,8 +651,8 @@ A: Green Pepper tournament administration, applying the principles of competitiv
 - Green Pepper may clarify or update the Rulebook when necessary. Any material change will be communicated through official channels.
 - Where a platform's mandatory rules conflict with an event rule, the platform's mandatory requirements apply to platform operation; Green Pepper administration determines the tournament consequence.
 
-**GREEN PEPPER ADMINISTRATION**  
-**Green Pepper Season 1 - Counter-Strike 2 Online Tournament**  
+**GREEN PEPPER ADMINISTRATION**
+**Green Pepper Season 1 - Counter-Strike 2 Online Tournament**
 **24 Teams · €250 Entry Fee · FACEIT · €5,000 Prize Pool**
 
 *Bring the Heat. Own the Game.*
