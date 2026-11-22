@@ -95,11 +95,6 @@ The tournament administration will apply the documented seeding process and publ
 
 ## 6. Tournament Format
 
-### Direct Playoff Qualifiers
-
-- **8 teams** qualify directly for the Playoffs.
-- The eight highest-ranked eligible VRS teams among accepted entrants advance directly to the 16-team Playoff bracket.
-
 ### Swiss Stage
 
 - **16 teams** — the eligible registered teams that do not receive a direct Playoff place.
@@ -115,7 +110,7 @@ The tournament administration will apply the documented seeding process and publ
 
 The Playoffs consist of 16 teams:
 
-- 8 direct qualifiers: the eight highest-ranked eligible VRS teams among accepted entrants.
+- 8 direct VRS qualifiers, as defined in Section 3.
 - 8 Swiss Stage qualifiers.
 - Single-Elimination bracket.
 - Round of 16, Quarter-finals and Semi-finals: **BO3**.
@@ -176,15 +171,3 @@ Green Pepper Season 1 is organized independently and is **not affiliated with, e
 *Bring the Heat. Own the Game.*
 
 ---
-
-## Waiting List and Replacement Priority
-
-If an accepted team withdraws, is rejected, or loses its place before the tournament's first official match, Green Pepper may offer the vacant slot to an eligible team on the Waiting List. A place is not guaranteed until the replacement team has been formally confirmed by tournament administration.
-
-The replacement order is:
-
-1. **Eligible VRS-matched teams:** These teams have priority over non-VRS teams, regardless of when they joined the Waiting List. They are ordered by their position in the official VRS snapshot dated **2 November 2026**, with the higher-ranked team receiving priority.
-2. **Eligible non-VRS teams:** If no eligible VRS-matched team is available, the place is offered using the published seeding hierarchy: HLTV World Ranking dated **2 November 2026**, followed by average FACEIT Elo across the five registered starting players recorded at the end of **15 November 2026**.
-3. **Tie-break:** If teams remain tied or have no comparable ranking data, the earlier completed Waiting List registration takes priority.
-
-Every replacement team must still satisfy all registration, roster, payment and tournament eligibility requirements. Administration may verify eligibility before confirming the replacement. The binding procedure is set out in Sections **1.2.10–1.2.12** of the [Rulebook](RULEBOOK.md).
