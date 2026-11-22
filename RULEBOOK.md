@@ -74,16 +74,16 @@
 ### 1.2 Registration and Entry Fee
 
 - **1.2.1** Teams must register through the official Green Pepper registration process announced by the organizers.
-- **1.2.2** Green Pepper Season 1 is an open-registration online European CS2 tournament. VRS rankings are used for eligibility assessment, seeding, and direct playoff qualification; they are not invitations to participate.
+- **1.2.2** Green Pepper Season 1 is an open-registration online European CS2 tournament. Teams with a valid VRS ranking are encouraged to register. VRS rankings are used for seeding and direct Playoff qualification; they are not invitations to participate.
 - **1.2.3** The entry fee is **€250 per team**. Payment instructions and deadlines will be communicated through official Green Pepper channels.
 - **1.2.4** Registration is complete only after all required details are submitted and payment is confirmed.
-- **1.2.5** The tournament requires **24 accepted teams**, including at least **eight eligible VRS-matched teams** for direct Playoff qualification, and the intended **VRS-aligned status** advertised for Green Pepper Season 1.
+- **1.2.5** The tournament requires **24 accepted teams** and the intended **VRS-aligned status** advertised for Green Pepper Season 1. Teams with a valid VRS ranking are encouraged to register.
 - **1.2.6** Registration fees are subject to the Refund Policy below.
 - **1.2.7** The tournament is limited to **24 accepted teams**. Registration may close once all slots are filled.
 - **1.2.8** A team captain must be designated during registration. Captain changes must be reported to administration; the replacement captain must be on the approved roster.
 - **1.2.9** Teams must provide accurate team, player, Steam, and FACEIT information. False or misleading information may result in rejection or disqualification.
 - **1.2.10 Registration opening:** Open Registration opened on **24 October 2026 at 19:00 CET**.
-- **1.2.11** The Organizer may contact eligible teams in VRS ranking order until all 24 places have been filled. If fewer than eight eligible VRS-matched teams are available, the advertised direct-qualification structure cannot be fulfilled and the refund provisions in Section 1.2 will apply.
+- **1.2.11** The Organizer may contact eligible teams in accordance with the registration priority rules until all 24 places have been filled.
 - **1.2.12** If fewer than 24 teams in total have registered by **15 November 2026 at 15:00 CET**, all registered teams will be contacted.
 - **1.2.14 Capacity:** The tournament is capped at **24 accepted teams**. No expansion beyond 24 teams will take place under this Rulebook.
 - **1.2.15 Further selection and available places:** Any remaining places will be offered to eligible teams in VRS ranking order. Non-VRS teams may be accepted to complete the 24-team field and compete in the Swiss Stage, but they cannot occupy a direct VRS Playoff place.
@@ -95,7 +95,7 @@
 ### Refund Policy
 
 - **1.2.19** Once a team's registration payment has been confirmed, the entry fee is **non-refundable if the team chooses to withdraw**, regardless of the reason for withdrawal.
-- **1.2.20** Registration fees will be refunded in full to all teams if Green Pepper Season 1 is **cancelled by the organizer**, **does not reach the required 24 accepted teams**, **does not have at least eight eligible VRS-matched teams for direct Playoff qualification**, or **does not obtain the intended VRS status/alignment** required to proceed as advertised. Any one of these conditions is sufficient to trigger the full refund guarantee.
+- **1.2.20** Registration fees will be refunded in full to all teams if Green Pepper Season 1 is **cancelled by the organizer**, **does not reach the required 24 accepted teams**, or **does not obtain the intended VRS status/alignment** required to proceed as advertised. Any one of these conditions is sufficient to trigger the full refund guarantee.
 - **1.2.23 Waiting List:** If an accepted team withdraws, is rejected, or loses its place before the tournament's first official match, Green Pepper may offer the vacant slot to an eligible team on the Waiting List. A place is not guaranteed until the replacement team has been formally confirmed by administration.
 - **1.2.24 VRS priority:** Eligible VRS-matched teams on the Waiting List have priority over non-VRS teams, regardless of the order in which the teams joined the Waiting List. VRS-matched teams are ordered by their position in the official VRS snapshot dated **2 November 2026**, with the higher-ranked team receiving priority. The team must still satisfy all registration, roster, payment, and tournament eligibility requirements.
 - **1.2.25 Non-VRS order and tie-breaks:** If no eligible VRS-matched team is available on the Waiting List, the vacant place is offered to the highest-ranked eligible non-VRS team using the HLTV World Ranking dated **2 November 2026**. If teams are tied or have no comparable ranking data, the earlier completed Waiting List registration takes priority. Any replacement team offered the place has **24 hours from notification** to complete all required registration steps and payment; otherwise, the offer expires and the next eligible team may be contacted.
@@ -176,8 +176,8 @@ A team's pre-event seed is determined in accordance with Section 2.5.1.
 
 ### 2.2 Direct Playoff Qualification
 
-- **2.2.1** The eight highest-ranked eligible VRS-matched teams among the 24 accepted entrants qualify directly for the Playoffs. Direct qualification is determined exclusively by the official VRS snapshot dated **2 November 2026**.
-- **2.2.2** Direct Playoff places cannot be transferred to non-VRS teams through HLTV ranking, FACEIT Elo, registration order, or any other fallback criterion. If fewer than eight eligible VRS-matched teams are available, the advertised event format cannot proceed and the refund provisions in Section 1.2 apply.
+- **2.2.1** The eight highest-ranked eligible VRS-matched teams among the 24 accepted entrants qualify directly for the Playoffs. Teams with a VRS ranking are encouraged to register. The eight direct Playoff places are allocated according to the official VRS snapshot dated **2 November 2026**.
+- **2.2.2** Direct Playoff places cannot be transferred to non-VRS teams through HLTV ranking, FACEIT Elo, registration order, or any other fallback criterion. If fewer than eight eligible VRS-matched teams register and are accepted, any unfilled direct Playoff places will remain subject to the Organizer's confirmation and applicable VRS requirements.
 - **2.2.3** Direct qualification is a result of the published ranking criteria and the event's open-registration format; it is not an invitation to participate.
 - **2.2.4** Green Pepper will publish the starting seeds and list of teams directly qualified to the Playoffs no less than seven days before the Swiss Stage begins.
 - **2.2.5** VRS-matched teams remain subject to the roster-continuity rules in Section 1.4.
@@ -599,10 +599,10 @@ Cheating, account sharing, stream sniping, match manipulation, harassment, and o
 A: Yes. Every player must use their own eligible FACEIT account and have FACEIT Anti-Cheat running for official matches.
 
 **Q: How does direct Playoff qualification work?**
-A: The eight highest-ranked eligible VRS-matched teams in the official 2 November 2026 snapshot qualify directly for the Playoffs. There is no HLTV or FACEIT fallback for direct qualification. If eight eligible VRS-matched teams are not available, the advertised format cannot proceed and the refund provisions apply.
+A: The eight highest-ranked eligible VRS-matched teams among the accepted entrants qualify directly for the Playoffs, based on the official 2 November 2026 VRS snapshot. Teams with a VRS ranking are encouraged to register. HLTV and FACEIT rankings do not provide direct Playoff places.
 
 **Q: When are registration fees refunded?**
-A: All teams receive a full refund if the Organizer cancels the event, fewer than 24 teams are accepted, fewer than eight eligible VRS-matched teams are available for direct Playoff qualification, or the event does not obtain the intended VRS status/alignment. Voluntary withdrawal does not entitle a team to a refund.
+A: All teams receive a full refund if the Organizer cancels the event, fewer than 24 teams are accepted, or the event does not obtain the intended VRS status/alignment. Voluntary withdrawal does not entitle a team to a refund.
 
 **Q: What happens to teams that do not receive a direct Playoff place?**
 A: Sixteen teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. Eight Swiss teams advance to the Playoffs and receive seeds 9–16 based on qualification path (3-0, then 3-1, then 3-2), and initial Swiss seed. The eight direct VRS qualifiers receive seeds 1–8 in VRS ranking order.
