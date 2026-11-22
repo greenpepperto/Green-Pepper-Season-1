@@ -37,7 +37,6 @@ Green Pepper Season 1 uses **open registration** on a **first come , first serve
 - Registration is not complete until all required registration details and payment have been confirmed.
 - The entry fee is €250 per team.
 - Teams with a VRS ranking are encouraged to register.
-- The eight highest-ranked eligible VRS teams among accepted entrants receive the direct Playoff places, based on the official **2 November 2026 VRS snapshot**.
 - The remaining 16 teams compete in the BO3 Swiss Stage for the eight remaining Playoff places.
 
 VRS eligibility and ranking do not remove a team's obligation to complete registration, meet roster requirements, pay the entry fee, and comply with the Rulebook.
