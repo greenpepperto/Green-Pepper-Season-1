@@ -50,10 +50,10 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 | Entry Fee | **€250 per team** |
 | Platform | **FACEIT** |
 | Anti-Cheat | **FACEIT Anti-Cheat — mandatory** |
-| Direct Playoff Qualification | **8 places: VRS-ranked qualifiers, with a published fallback if only 6 eligible VRS teams are available** |
+| Direct Playoff Qualification | **8 places for the eight highest-ranked eligible VRS teams among accepted entrants** |
 | Swiss Stage | **16 teams — BO3** |
 | Swiss Qualification | **3 wins to qualify; 3 losses to be eliminated** |
-| Minimum Teams Required to Start the Tournament:| **24** |
+| Accepted Team Capacity | **24 teams** |
 | Playoffs | **16-team Single-Elimination bracket** |
 | Playoff Matches | **BO3** |
 | Grand Final | **BO5** |
@@ -66,7 +66,7 @@ Final match times, registration/payment instructions, and VRS eligibility detail
 
 ## Tournament Classification
 
-Green Pepper operates as an open-registration Tier-2 structured competition. Season 1 uses Valve Regional Standings (VRS) for ranking integrity and competitive seeding. This event does NOT utilize Direct VRS Invites: every team enters through open registration. The eight direct Playoff places are awarded through published ranking criteria: the eight highest-ranked eligible VRS teams under the standard format, or, if only six eligible VRS teams are available, six VRS teams plus one HLTV World Ranking qualifier and one FACEIT Average Elo qualifier. Direct qualification is a seeding outcome, not an invitation. This is a professionally operated tournament adhering to competitive Counter-Strike 2 standards. Please follow the [Rulebook](RULEBOOK.md).
+Green Pepper operates as an open-registration Tier-2 competition. Every team enters through open registration; there are no direct VRS invitations. Teams with a VRS ranking are encouraged to register. The eight highest-ranked eligible VRS teams among the accepted entrants receive the eight direct Playoff places, based on the official VRS snapshot dated **2 November 2026**. Direct qualification is a ranking-based tournament outcome, not an invitation. Please follow the [Rulebook](RULEBOOK.md).
 
 ## Registration and Entry Fee
 
@@ -158,7 +158,7 @@ Swiss Stage results and qualification are governed by the [Rulebook](RULEBOOK.md
 
 The Playoffs feature **16 teams** in a **Single-Elimination** bracket:
 
-- **8 direct qualifiers** (eight VRS teams under the standard format; if only six eligible VRS teams are available, six VRS teams plus one HLTV World Ranking qualifier and one FACEIT Average Elo qualifier).
+- **8 direct qualifiers:** the eight highest-ranked eligible VRS teams among accepted entrants, based on the official **2 November 2026 VRS snapshot**.
 - **8 Swiss Stage qualifiers**
 - Standard playoff matches: **BO3**
 - Grand Final: **BO5**, unless the organizers announce otherwise before the Playoffs begin
@@ -280,13 +280,3 @@ Participants are responsible for reading the current versions of the official do
 Last Update: 02/11/2026
 
 ---
-
-## Waiting List
-
-If an accepted team withdraws, is rejected, or loses its place before the tournament's first official match, Green Pepper may offer the vacant slot to an eligible team on the Waiting List. A place is not guaranteed until the replacement team has been formally confirmed by administration.
-
-**VRS priority:** Eligible VRS-matched teams on the Waiting List have priority over non-VRS teams, regardless of when they joined the Waiting List. VRS teams are ordered by their position in the official VRS snapshot dated **2 November 2026**, with the higher-ranked team receiving priority. All registration, roster, payment and tournament eligibility requirements must still be met.
-
-**Non-VRS order:** If no eligible VRS-matched team is available, the vacant place is offered to the highest-ranked eligible non-VRS team using the seeding hierarchy in the Rulebook: **HLTV World Ranking dated 2 November 2026**, followed by the average FACEIT Elo of the five registered starting players recorded at the end of **15 November 2026**. If teams remain tied or have no comparable ranking data, the earlier completed Waiting List registration takes priority. Green Pepper administration may verify eligibility before confirming a replacement.
-
-The full binding procedure is set out in Sections **1.2.10–1.2.12** of the [Rulebook](RULEBOOK.md).
