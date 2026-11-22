@@ -157,26 +157,7 @@ All times below are **CET (Central European Time)**. The tournament is played on
 
 ---
 
-## VRS Seeding and Direct Playoff Qualification
-
-The official VRS snapshot dated **2 November 2026** determines the eight direct Playoff qualifiers. Teams with a VRS ranking are encouraged to register.
-
-### Direct Playoff Qualifiers — Seeds #1–#8
-
-The eight highest-ranked eligible VRS teams among accepted entrants receive direct entry to the Playoffs.
-
-| Playoff Seed | Team Assignment |
-| ---: | --- |
-| #1 | Highest-ranked eligible direct qualifier |
-| #2 | 2nd-highest-ranked eligible direct qualifier |
-| #3 | 3rd-highest-ranked eligible direct qualifier |
-| #4 | 4th-highest-ranked eligible direct qualifier |
-| #5 | 5th-highest-ranked eligible direct qualifier |
-| #6 | 6th-highest-ranked eligible direct qualifier |
-| #7 | 7th-highest-ranked eligible direct qualifier |
-| #8 | 8th-highest-ranked eligible direct qualifier |
-
-If a team is not registered or is ruled ineligible, its place passes to the next-highest-ranked eligible registered team. The actual team names will be confirmed after the official snapshot and eligibility checks; no team assignment is final before that confirmation.
+## Swiss Stage Seeding
 
 ### Swiss Stage Seeds — #1–#16
 
