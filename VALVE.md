@@ -36,8 +36,8 @@ Green Pepper Season 1 uses **open registration** on a **first come , first serve
 - The tournament is limited to 24 accepted teams.
 - Registration is not complete until all required registration details and payment have been confirmed.
 - The entry fee is €250 per team.
-- Under the standard format, the eight highest-ranked eligible VRS teams among accepted registered entrants receive direct places in the Playoffs.
-- If only six eligible VRS teams are available, those six qualify directly; the seventh place goes to the highest-ranked eligible team in the HLTV World Ranking dated 2 November 2026, and the eighth place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026.
+- Teams with a VRS ranking are encouraged to register.
+- The eight highest-ranked eligible VRS teams among accepted entrants receive the direct Playoff places, based on the official **2 November 2026 VRS snapshot**.
 - The remaining 16 teams compete in the BO3 Swiss Stage for the eight remaining Playoff places.
 
 VRS eligibility and ranking do not remove a team's obligation to complete registration, meet roster requirements, pay the entry fee, and comply with the Rulebook.
@@ -52,12 +52,7 @@ The tournament uses the official VRS ranking snapshot dated **2 November 2026**.
 
 Eight teams receive direct qualification to the 16-team Playoffs:
 
-1. **Standard format:** If at least eight eligible VRS-ranked teams are among the accepted entrants, the eight highest-ranked eligible VRS teams qualify directly using the official VRS snapshot dated 2 November 2026.
-2. **Six-team VRS contingency:** If only six eligible VRS-ranked teams are available, those six qualify directly. The seventh direct place goes to the highest-ranked eligible team in the HLTV World Ranking dated 2 November 2026, excluding the six VRS qualifiers. The eighth direct place goes to the eligible team with the highest average FACEIT Elo across its five registered starting players, recorded at the end of 15 November 2026, excluding teams already qualified.
-3. Teams must be registered, accepted and eligible under the tournament rules.
-4. If a selected team is not registered, is ruled ineligible or withdraws before the qualification list is finalized, the place passes to the next eligible team under the corresponding ranking criterion.
-5. Green Pepper will announce the direct qualifiers after registration and eligibility checks, before the Swiss Stage begins.
-6. Changes in VRS rankings after the snapshot date do not change the fixed snapshot used for the tournament's initial VRS seeding and qualification decisions.
+The eight highest-ranked eligible VRS-matched teams among accepted entrants qualify directly for the Playoffs, based on the official **2 November 2026 VRS snapshot**. Teams with a VRS ranking are encouraged to register. Teams must be registered, accepted and eligible under the tournament rules. If a selected team is ineligible or withdraws before the qualification list is finalized, the place passes to the next-highest-ranked eligible VRS team. Changes in VRS rankings after the snapshot date do not change the fixed snapshot used for qualification.
 
 Direct Playoff qualification is a seeding and competition-format outcome within an open-registration event. It is **not** a direct invitation to enter the tournament.
 
@@ -103,9 +98,7 @@ The tournament administration will apply the documented seeding process and publ
 ### Direct Playoff Qualifiers
 
 - **8 teams** qualify directly for the Playoffs.
-- Standard format: the eight highest-ranked eligible VRS teams among accepted entrants.
-- Six-team contingency: six VRS teams, one HLTV World Ranking qualifier and one FACEIT Average Elo qualifier, as defined in Section 3 and the Rulebook.
-- Advance directly to the 16-team Playoff bracket.
+- The eight highest-ranked eligible VRS teams among accepted entrants advance directly to the 16-team Playoff bracket.
 
 ### Swiss Stage
 
@@ -122,7 +115,7 @@ The tournament administration will apply the documented seeding process and publ
 
 The Playoffs consist of 16 teams:
 
-- 8 direct qualifiers under the standard or six-team contingency criteria.
+- 8 direct qualifiers: the eight highest-ranked eligible VRS teams among accepted entrants.
 - 8 Swiss Stage qualifiers.
 - Single-Elimination bracket.
 - Round of 16, Quarter-finals and Semi-finals: **BO3**.
