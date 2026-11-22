@@ -177,7 +177,7 @@ A team's pre-event seed is determined in accordance with Section 2.5.1.
 ### 2.2 Direct Playoff Qualification
 
 - **2.2.1** The eight highest-ranked eligible VRS-matched teams among the 24 accepted entrants qualify directly for the Playoffs. Teams with a VRS ranking are encouraged to register. The eight direct Playoff places are allocated according to the official VRS snapshot dated **2 November 2026**.
-- **2.2.2** Direct Playoff places cannot be transferred to non-VRS teams through HLTV ranking, FACEIT Elo, registration order, or any other fallback criterion. If fewer than eight eligible VRS-matched teams register and are accepted, any unfilled direct Playoff places will remain subject to the Organizer's confirmation and applicable VRS requirements.
+- **2.2.2** Direct Playoff places cannot be transferred to non-VRS teams through HLTV ranking, FACEIT Elo, registration order, or any other fallback criterion.
 - **2.2.3** Direct qualification is a result of the published ranking criteria and the event's open-registration format; it is not an invitation to participate.
 - **2.2.4** Green Pepper will publish the starting seeds and list of teams directly qualified to the Playoffs no less than seven days before the Swiss Stage begins.
 - **2.2.5** VRS-matched teams remain subject to the roster-continuity rules in Section 1.4.
