@@ -66,7 +66,7 @@ Final match times, registration/payment instructions, and VRS eligibility detail
 
 ## Tournament Classification
 
-Green Pepper operates as an open-registration Tier-2 competition. Every team enters through open registration; there are no direct VRS invitations. Teams with a VRS ranking are encouraged to register. The eight highest-ranked eligible VRS teams among the accepted entrants receive the eight direct Playoff places, based on the official VRS snapshot dated **2 November 2026**. Direct qualification is a ranking-based tournament outcome, not an invitation. Please follow the [Rulebook](RULEBOOK.md).
+Green Pepper operates as an open-registration Tier-2 competition. Every team enters through open registration; there are no direct VRS invitations. The event follows the applicable competitive and VRS requirements. Please follow the [Rulebook](RULEBOOK.md).
 
 ## Registration and Entry Fee
 
