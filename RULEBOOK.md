@@ -82,7 +82,7 @@
 - **1.2.7** The tournament is limited to **24 accepted teams**. Registration may close once all slots are filled.
 - **1.2.8** A team captain must be designated during registration. Captain changes must be reported to administration; the replacement captain must be on the approved roster.
 - **1.2.9** Teams must provide accurate team, player, Steam, and FACEIT information. False or misleading information may result in rejection or disqualification.
-- **1.2.10 Registration opening:** Open Registration will open on **12 November 2026 at 19:00 CET**.
+- **1.2.10 Registration opening:** Open Registration opened on **24 October 2026 at 19:00 CET**.
 - **1.2.11 Initial selection and contact:** The initial selection and contact process will take place on **17 November 2026 at 15:00 CET**. The Organizer will aim to contact up to **24 teams** from Open Registration. Priority will be given to the highest-ranked eligible VRS teams using the November VRS publication, expected on **2 November 2026**.
 - **1.2.12** The Organizer may contact eligible teams in VRS ranking order until all 24 places have been filled. If fewer than eight eligible VRS-matched teams are available, the advertised direct-qualification structure cannot be fulfilled and the refund provisions in Section 1.2 will apply.
 - **1.2.13** If fewer than 24 teams in total have registered by **15 November 2026 at 15:00 CET**, all registered teams will be contacted.
