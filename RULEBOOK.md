@@ -74,9 +74,9 @@
 ### 1.2 Registration and Entry Fee
 
 - **1.2.1** Teams must register through the official Green Pepper registration process announced by the organizers.
-- **1.2.2**G reen Pepper Season 1 is an open-registration online European CS2 tournament. VRS rankings are used for eligibility assessment, seeding, and direct playoff qualification; they are not invitations to participate.
+- **1.2.2** Green Pepper Season 1 is an open-registration online European CS2 tournament. VRS rankings are used for eligibility assessment, seeding, and direct playoff qualification; they are not invitations to participate.
 - **1.2.3** The entry fee is €250 per team. Payment instructions and deadlines will be communicated through official Green Pepper channels.
-- **1.2.4**Registration is complete only after all required details are submitted and payment is confirmed.
+- **1.2.4** Registration is complete only after all required details are submitted and payment is confirmed.
 - **1.2.5** The tournament requires 24 accepted teams and the intended VRS-aligned status advertised for Green Pepper Season 1.
 - **1.2.6** Registration fees are subject to the Refund Policy below.
 - **1.2.7** The tournament is limited to 24 accepted teams. Registration may close once all slots are filled.
